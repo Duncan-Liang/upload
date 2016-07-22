@@ -1,0 +1,95 @@
+<< /proc/bootprof >>:
+----------------------------------------
+0	    BOOT PROF (unit:msec)
+----------------------------------------
+      4076        : preloader
+      3049        : lk
+       228        : lk->Kernel
+----------------------------------------
+       355.451000 : ON
+       511.534770 : display_early_memory_info   17285539 ns
+       777.190924 : of_init  199314539 ns
+       823.101232 : ramoops_init   35844846 ns
+       894.471309 : init_ladder   27998693 ns
+       915.328155 : init_menu   19656923 ns
+       935.513540 : init_mtk_governor   19008538 ns
+      1010.907232 : mt_power_management_init   45653308 ns
+      1197.174464 : arm64_device_init  167771308 ns
+      1322.799925 : param_sysfs_init  119350078 ns
+      1399.062233 : MTK_M4U_Init   26573077 ns
+      1442.445079 : cmdq_init   29770539 ns
+      1482.727310 : ccci_init   29396616 ns
+      1560.859618 : cfg80211_init   20410924 ns
+      1935.184696 : event_trace_init  356011693 ns
+      2016.597389 : pmic_mt_init   44722154 ns
+      2129.268773 : musb_init  104537539 ns
+      2172.873697 : inet_init   23635077 ns
+      2309.961697 : populate_rootfs  131951231 ns
+      2548.373774 : slab_sysfs_init  161886539 ns
+      2726.927852 : pty_init   30857770 ns
+      2765.623621 : loop_init   32141616 ns
+      2794.055698 : device_info_init   19789923 ns
+      3011.258929 : mas_init  215959616 ns
+      3097.646853 : _mt_gpufreq_init   47000846 ns
+      3122.823314 : hps_init   23885770 ns
+      3162.565314 : mtk_uart_init   32807231 ns
+      3259.624391 : mt_i2c_init   46586154 ns
+      3303.192315 : accdet_mod_init   26084539 ns
+     11368.711180 : mt6311_init 8041865019 ns
+     11494.486334 : mtkfb_init   94201000 ns
+     11521.956411 : kbase_platform_driver_init   21078307 ns
+     11567.681950 : CAMERA_HW_i2C_init   19339692 ns
+     11983.994258 : modem_cd_init  384209155 ns
+     12044.369874 : BTIF_init   40287539 ns
+     12169.042720 : mtk_cooler_dtm_init   23808077 ns
+     12230.001105 : emi_mpu_mod_init   22703154 ns
+     12319.701721 : mt_spi_init   56911385 ns
+     12365.725106 : battery_meter_init   17897077 ns
+     12491.429029 : mt_msdc_init  103147692 ns
+     12698.089645 : mt_soc_snd_init  100554539 ns
+     12746.400645 : inet6_init   28467693 ns
+     13765.702186 : armv8_deprecated_init  999826387 ns
+     13857.197263 : enable_ftrace   66354308 ns
+     13913.482878 : mt_dcm_init   41824462 ns
+     13991.301417 : _mt_cpufreq_pdrv_init   74164846 ns
+     14010.203417 : ptp_init   17594846 ns
+     14119.881956 : alsps_init   92348000 ns
+     14178.039418 : acc_init   55532846 ns
+     14285.038802 : init   66359230 ns
+     16961.070193 : tpd_device_init 2674939237 ns
+     17063.830886 : battery_init   98139462 ns
+     17111.668578 : init_wk   46523308 ns
+     17210.174886 : clk_debug_init   93002462 ns
+     17242.208809 : Kernel_init_done
+     19359.481353 : INIT: on init start
+     19416.715122 : INIT:Mount_START
+     20602.780817 : INIT:Mount_END
+     20851.427972 : post-fs-data: on modem start
+     21838.094667 : BOOT_Animation:START
+     24917.137982 : post-fs-data: on modem start
+     25687.872368 : trigger_restart_framework
+     29823.156763 : Zygote:Preload Start
+     30097.041225 : Zygote:Preload Start
+     38410.575475 : Zygote:Preload 3831 classes in 7136ms
+     38731.992245 : Zygote:Preload 3831 classes in 7286ms
+     39506.943863 : Zygote:Preload 342 obtain resources in 1093ms
+     39555.577709 : Zygote:Preload 41 resources in 46ms
+     39936.115479 : Zygote:Preload 342 obtain resources in 1203ms
+     39966.066633 : Zygote:Preload 41 resources in 28ms
+     40510.946634 : Zygote:Preload End
+     41069.883251 : Zygote:Preload End
+     41264.406021 : Android:SysServerInit_START
+     43748.542950 : Android:PackageManagerService_Start
+     52012.188892 : Android:PMS_scan_START
+     52655.625432 : Android:PMS_scan_data_done:/system/framework
+     61308.968838 : Android:PMS_scan_data_done:/system/priv-app
+     68028.903084 : Android:PMS_scan_data_done:/system/app
+     68052.319008 : Android:PMS_scan_data_done:/system/plugin
+     68070.094469 : Android:PMS_scan_data_done:/data/app
+     69285.676010 : Android:PMS_scan_END
+     72201.482325 : Android:PMS_READY
+     78259.542878 : BOOT_Animation:END
+     78260.698109 : OFF
+----------------------------------------
+================ END of FILE ===============
+

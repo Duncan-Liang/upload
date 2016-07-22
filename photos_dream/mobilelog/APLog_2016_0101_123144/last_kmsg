@@ -1,0 +1,753 @@
+<< /proc/last_kmsg >>:
+ram console header, hw_status: 2, fiq step 0.
+a]:*value = 260
+[  849.256680]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  849.287008]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  849.288096]  (1)[1763:kworker/1:1][accel] obj->data:fffffff7 ffffff6d ffffd994
+[  849.288111]  (1)[1763:kworker/1:1][accel] acc:ffffff6d fffffff7 266c
+[  849.355088]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  849.356245]  (1)[1763:kworker/1:1][accel] obj->data:ffffffed ffffff5a ffffd9d9
+[  849.356262]  (1)[1763:kworker/1:1][accel] acc:ffffff5a ffffffed 2627
+[  849.419026]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  849.420116]  (1)[1763:kworker/1:1][accel] obj->data:0009 ffffff64 ffffd9d9
+[  849.420134]  (1)[1763:kworker/1:1][accel] acc:ffffff64 0009 2627
+[  849.485059]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  849.486400]  (1)[1763:kworker/1:1][accel] obj->data:ffffffe3 ffffff64 ffffd9f6
+[  849.486415]  (1)[1763:kworker/1:1][accel] acc:ffffff64 ffffffe3 260a
+[  849.491191]  (2)[2664:watchdog][name:aed&]AEEIOCTL_RT_MON_Kick ( 300)
+[  849.491209]  (2)[2664:watchdog][name:aed&][Hang_Detect] hang_detect enabled 10
+[  849.506523]  (1)[1763:kworker/1:1]ALS: 00514 => 00260
+[  849.506541]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  849.506550]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  849.551032]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  849.552428]  (1)[1763:kworker/1:1][accel] obj->data:0000 ffffff5a ffffda00
+[  849.552445]  (1)[1763:kworker/1:1][accel] acc:ffffff5a 0000 2600
+[  849.617035]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  849.620152]  (1)[1763:kworker/1:1][accel] obj->data:0000 ffffff5a ffffd963
+[  849.620170]  (1)[1763:kworker/1:1][accel] acc:ffffff5a 0000 269d
+[  849.683031]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  849.684156]  (1)[1763:kworker/1:1][accel] obj->data:ffffffd9 ffffff46 ffffd9ec
+[  849.684171]  (1)[1763:kworker/1:1][accel] acc:ffffff46 ffffffd9 2614
+[  849.749043]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  849.750139]  (1)[1763:kworker/1:1][accel] obj->data:0000 ffffff5a ffffd9b1
+[  849.750155]  (1)[1763:kworker/1:1][accel] acc:ffffff5a 0000 264f
+[  849.756646]  (1)[1763:kworker/1:1]ALS: 00508 => 00260
+[  849.756666]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  849.756675]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  849.815014]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  849.816205]  (1)[1763:kworker/1:1][accel] obj->data:ffffffed ffffff50 ffffd963
+[  849.816223]  (1)[1763:kworker/1:1][accel] acc:ffffff50 ffffffed 269d
+[  849.819177]  (3)[252:logd.writer]logd:diff time 6719789231, run time  269062708, count 5000,step 1 8092,2 25020,3 10237,4 10463. filter count 0.
+[  849.836313]  (1)[1763:kworker/1:1][name:mtk_ts_bts&][Power/BTS_Thermal] T_AP=44000
+[  849.881032]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  849.882092]  (1)[1763:kworker/1:1][accel] obj->data:0009 ffffff33 ffffd9cf
+[  849.882107]  (1)[1763:kworker/1:1][accel] acc:ffffff33 0009 2631
+[  849.916825]  (0)[108:kworker/u8:2]binder: [name:binder&]9596:viders.calendar node 288817: exits with 1345:system_server DeathNotify
+[  849.916856]  (0)[108:kworker/u8:2]binder: [name:binder&]9596:viders.calendar node 288834: exits with 1345:system_server DeathNotify
+[  849.937607] [name:aed&]AEE_MONITOR_SET[status]: 0x1
+[  849.947010]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  849.948078]  (1)[1763:kworker/1:1][accel] obj->data:001d ffffff5a ffffd98a
+[  849.948091]  (1)[1763:kworker/1:1][accel] acc:ffffff5a 001d 2676
+[  850.006526]  (1)[1763:kworker/1:1]ALS: 00500 => 00260
+[  850.006544]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  850.006552]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  850.013008]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  850.014078]  (1)[1763:kworker/1:1][accel] obj->data:0031 ffffff46 ffffd98a
+[  850.014091]  (1)[1763:kworker/1:1][accel] acc:ffffff46 0031 2676
+[  850.079041]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  850.080135]  (1)[1763:kworker/1:1][accel] obj->data:0013 ffffff46 ffffda3b
+[  850.080152]  (1)[1763:kworker/1:1][accel] acc:ffffff46 0013 25c5
+[  850.145019]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  850.146204]  (1)[1763:kworker/1:1][accel] obj->data:fffffff7 ffffff46 ffffd9a8
+[  850.146222]  (1)[1763:kworker/1:1][accel] acc:ffffff46 fffffff7 2658
+[  850.174047] -(3)[19:migration/3][name:ca53_timer&]arch_timer_teardown disable IRQ29 cpu #3
+[  850.174339]  (1)[95:hps_main][name:smp&]CPU3: shutdown
+[  850.175529]  (1)[95:hps_main][name:mt_hotplug_strategy_algo&][HPS] (0200)(4)action end(169)(157)(0)(0) (4)(4)(4)(4)(1) (0)(0)(0) (2025)(137)(1) (0)(157)(137)(0)(157) wifi_base(0)
+[  850.203403]  (0)[255:logd.auditd]type=1400 audit(1451667826.180:637): avc: denied { search } for pid=3598 comm="GpuAppSpectator" name="7746" dev="proc" ino=45578 scontext=u:r:gas_srv:s0 tcontext=u:r:system_app:s0 tclass=dir permissive=0
+[  850.211019]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  850.212073]  (1)[1763:kworker/1:1][accel] obj->data:001d ffffff64 ffffd977
+[  850.212084]  (1)[1763:kworker/1:1][accel] acc:ffffff64 001d 2689
+[  850.256500]  (1)[1763:kworker/1:1]ALS: 00502 => 00260
+[  850.256518]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  850.256527]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  850.277009]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  850.278079]  (1)[1763:kworker/1:1][accel] obj->data:fffffff7 ffffff5a ffffd98a
+[  850.278093]  (1)[1763:kworker/1:1][accel] acc:ffffff5a fffffff7 2676
+[  850.343019]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  850.344082]  (1)[1763:kworker/1:1][accel] obj->data:001d ffffff6d ffffd9bb
+[  850.344096]  (1)[1763:kworker/1:1][accel] acc:ffffff6d 001d 2645
+[  850.366187]  (0)[108:kworker/u8:2][HXTP]  himax_chip_monitor_function: POLLING_COUNT=0, STATUS=0 
+[  850.366206]  (0)[108:kworker/u8:2][HXTP] [himax] himax_irqdepth: irq_depth=0
+[  850.366215]  (0)[108:kworker/u8:2][HXTP] [himax] himax_chip_monitor_function: himax_irqdepth_r =0
+[  850.409141]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  850.410239]  (1)[1763:kworker/1:1][accel] obj->data:ffffffe3 ffffff50 ffffd9a8
+[  850.410255]  (1)[1763:kworker/1:1][accel] acc:ffffff50 ffffffe3 2658
+[  850.449578]  (2)[103:display_esd_che]DSI read long packet size: 1
+[  850.449596]  (2)[103:display_esd_che]esd_check: 0x80, 0x80, 0x8f, 0x0, 0x8b, 0x0, 
+[  850.449611]  (2)[103:display_esd_che]DSI read long packet size: 3
+[  850.449621]  (2)[103:display_esd_che]esd_check: 0x80, 0x80, 0x73, 0x73, 0x4, 0x4, 
+[  850.449636]  (2)[103:display_esd_che]DSI read long packet size: 2
+[  850.449646]  (2)[103:display_esd_che]esd_check: 0x5, 0xf, 0x18, 0xf0, 0xc9, 0x0, 
+[  850.475025]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  850.476217]  (1)[1763:kworker/1:1][accel] obj->data:0031 ffffff50 ffffd9d9
+[  850.476231]  (1)[1763:kworker/1:1][accel] acc:ffffff50 0031 2627
+[  850.506502]  (1)[1763:kworker/1:1]ALS: 00509 => 00260
+[  850.506520]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  850.506529]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  850.540998]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  850.542049]  (1)[1763:kworker/1:1][accel] obj->data:0013 ffffff46 ffffd9b1
+[  850.542060]  (1)[1763:kworker/1:1][accel] acc:ffffff46 0013 264f
+[  850.576000]  (2)[95:hps_main][name:mt_hotplug_strategy_algo&][HPS] (0000)(3)DBG_HRT(117)(99)(0)(0) (4)(4)(4)(4)(1) (331)(4)(0) (571)(4)(4) (0)(99)(4)(0)(99) wifi_base(0)
+[  850.607022]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  850.608090]  (1)[1763:kworker/1:1][accel] obj->data:fffffff7 ffffff5a ffffd9c5
+[  850.608104]  (1)[1763:kworker/1:1][accel] acc:ffffff5a fffffff7 263b
+[  850.673013]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  850.674056]  (1)[1763:kworker/1:1][accel] obj->data:ffffffcf ffffff50 ffffd9b1
+[  850.674068]  (1)[1763:kworker/1:1][accel] acc:ffffff50 ffffffcf 264f
+[  850.739015]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  850.740071]  (1)[1763:kworker/1:1][accel] obj->data:ffffffed ffffff5a ffffd9f6
+[  850.740082]  (1)[1763:kworker/1:1][accel] acc:ffffff5a ffffffed 260a
+[  850.756603]  (1)[1763:kworker/1:1]ALS: 00418 => 00260
+[  850.756620]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  850.756629]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  850.805059]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  850.806870]  (1)[1763:kworker/1:1][accel] obj->data:ffffffcf ffffff46 ffffd9b1
+[  850.806888]  (1)[1763:kworker/1:1][accel] acc:ffffff46 ffffffcf 264f
+[  850.836771]  (1)[1763:kworker/1:1][name:mtk_ts_bts&][Power/BTS_Thermal] T_AP=44000
+[  850.844538]  (0)[5956:tx_thread][name:wlan_gen2&]aisFsmSteps:(AIS STATE)[13] TRANSITION: [0] -> [2]
+[  850.844586]  (0)[5956:tx_thread][name:wlan_gen2&]scnFsmSteps:(SCN STATE)[19] TRANSITION: [0] -> [1]
+[  850.856243]  (0)[5956:tx_thread][name:wlan_gen2&]nicTxCmd:(TX INFO)ucCmdSeqNum =50, ucCID =30
+[  850.871007]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  850.872069]  (1)[1763:kworker/1:1][accel] obj->data:fffffff7 ffffff5a ffffd9b1
+[  850.872085]  (1)[1763:kworker/1:1][accel] acc:ffffff5a fffffff7 264f
+[  850.937029]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  850.937899] [name:aed&]AEE_MONITOR_SET[status]: 0x1
+[  850.938145]  (1)[1763:kworker/1:1][accel] obj->data:ffffffd9 ffffff64 ffffd9e3
+[  850.938159]  (1)[1763:kworker/1:1][accel] acc:ffffff64 ffffffd9 261d
+[  850.977730] -(2)[15:migration/2][name:ca53_timer&]arch_timer_teardown disable IRQ29 cpu #2
+[  850.977924]  (0)[95:hps_main][name:smp&]CPU2: shutdown
+[  850.979200]  (0)[95:hps_main][name:mt_hotplug_strategy_algo&][HPS] (0200)(3)action end(147)(140)(0)(0) (4)(4)(4)(4)(1) (373)(8)(0) (1211)(8)(0) (0)(140)(8)(0)(140) wifi_base(0)
+[  851.003020]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  851.004388]  (1)[1763:kworker/1:1][accel] obj->data:ffffffed ffffff5a ffffd9c5
+[  851.004406]  (1)[1763:kworker/1:1][accel] acc:ffffff5a ffffffed 263b
+[  851.008648]  (1)[1763:kworker/1:1]ALS: 00395 => 00260
+[  851.008666]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  851.008675]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  851.069011]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  851.070082]  (1)[1763:kworker/1:1][accel] obj->data:ffffffed ffffff46 ffffd9bb
+[  851.070097]  (1)[1763:kworker/1:1][accel] acc:ffffff46 ffffffed 2645
+[  851.116354]  (0)[58:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1175mv, freq = 1300000 KHz
+[  851.135025]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  851.136219]  (1)[1763:kworker/1:1][accel] obj->data:0000 ffffff50 ffffda00
+[  851.136239]  (1)[1763:kworker/1:1][accel] acc:ffffff50 0000 2600
+[  851.156433]  (0)[58:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1243mv, freq = 1443000 KHz
+[  851.201041]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  851.202758]  (1)[1763:kworker/1:1][accel] obj->data:0009 ffffff50 ffffd9e3
+[  851.202775]  (1)[1763:kworker/1:1][accel] acc:ffffff50 0009 261d
+[  851.206370]  (0)[255:logd.auditd]type=1400 audit(1451667827.180:638): avc: denied { search } for pid=3598 comm="GpuAppSpectator" name="7746" dev="proc" ino=45578 scontext=u:r:gas_srv:s0 tcontext=u:r:system_app:s0 tclass=dir permissive=0
+[  851.257111]  (1)[1763:kworker/1:1]ALS: 00357 => 00260
+[  851.257129]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  851.257138]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  851.267018]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  851.268076]  (1)[1763:kworker/1:1][accel] obj->data:ffffffd9 ffffff46 ffffd9a8
+[  851.268089]  (1)[1763:kworker/1:1][accel] acc:ffffff46 ffffffd9 2658
+[  851.333025]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  851.334081]  (1)[1763:kworker/1:1][accel] obj->data:0009 ffffff46 ffffd9a8
+[  851.334091]  (1)[1763:kworker/1:1][accel] acc:ffffff46 0009 2658
+[  851.399035]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  851.406978]  (1)[1763:kworker/1:1][accel] obj->data:ffffffd9 ffffff5a ffffda0a
+[  851.406994]  (1)[1763:kworker/1:1][accel] acc:ffffff5a ffffffd9 25f6
+[  851.465007]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  851.466138]  (1)[1763:kworker/1:1][accel] obj->data:0000 ffffff64 ffffd9f6
+[  851.466151]  (1)[1763:kworker/1:1][accel] acc:ffffff64 0000 260a
+[  851.480092] -(2)[0:swapper/2]CPU2: Booted secondary processor
+[  851.480112] -(2)[0:swapper/2][name:cpuinfo&]Detected VIPT I-cache on CPU2
+[  851.480215] -(2)[0:swapper/2][name:topology&]CPU2: update cpu_capacity 1024
+[  851.480678]  (0)[95:hps_main][name:wd_common_drv&][wdk]bind kicker thread[187] to cpu[2]
+[  851.481522] -(3)[0:swapper/3]CPU3: Booted secondary processor
+[  851.481540] -(3)[0:swapper/3][name:cpuinfo&]Detected VIPT I-cache on CPU3
+[  851.481648] -(3)[0:swapper/3][name:topology&]CPU3: update cpu_capacity 1024
+[  851.482189]  (0)[95:hps_main][name:wd_common_drv&][wdk]bind kicker thread[188] to cpu[3]
+[  851.482686]  (0)[95:hps_main][name:mt_hotplug_strategy_algo&][HPS] (0020)(2)action end(200)(542)(0)(0) (4)(4)(4)(4)(1) (329)(4)(0) (652)(4)(4) (1)(542)(5)(0)(542) wifi_base(0)
+[  851.506681]  (1)[1763:kworker/1:1]ALS: 00372 => 00260
+[  851.506698]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  851.506706]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  851.531777]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  851.532978]  (1)[1763:kworker/1:1][accel] obj->data:0013 ffffff50 ffffd9e3
+[  851.532996]  (1)[1763:kworker/1:1][accel] acc:ffffff50 0013 261d
+[  851.597019]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  851.598103]  (1)[1763:kworker/1:1][accel] obj->data:ffffffed ffffff5a ffffd9b1
+[  851.598118]  (1)[1763:kworker/1:1][accel] acc:ffffff5a ffffffed 264f
+[  851.663019]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  851.664098]  (1)[1763:kworker/1:1][accel] obj->data:0009 ffffff50 ffffd9d9
+[  851.664114]  (1)[1763:kworker/1:1][accel] acc:ffffff50 0009 2627
+[  851.729032]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  851.730133]  (1)[1763:kworker/1:1][accel] obj->data:001d ffffff50 ffffd980
+[  851.730149]  (1)[1763:kworker/1:1][accel] acc:ffffff50 001d 2680
+[  851.756561]  (1)[1763:kworker/1:1]ALS: 00371 => 00260
+[  851.756577]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  851.756587]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  851.795024]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  851.796175]  (1)[1763:kworker/1:1][accel] obj->data:0009 ffffff46 ffffd9ec
+[  851.796194]  (1)[1763:kworker/1:1][accel] acc:ffffff46 0009 2614
+[  851.838791]  (1)[1763:kworker/1:1][name:mtk_ts_bts&][Power/BTS_Thermal] T_AP=44000
+[  851.861034]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  851.862109]  (1)[1763:kworker/1:1][accel] obj->data:0013 ffffff50 ffffd9bb
+[  851.862125]  (1)[1763:kworker/1:1][accel] acc:ffffff50 0013 2645
+[  851.927033]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  851.928648]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 11 at time 4295022487, mapping level is 11
+[  851.928682]  (1)[1763:kworker/1:1][accel] obj->data:0000 ffffff5a ffffd959
+[  851.928692]  (1)[1763:kworker/1:1][accel] acc:ffffff5a 0000 26a7
+[  851.940362] [name:aed&]AEE_MONITOR_SET[status]: 0x1
+[  851.941127]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 12 at time 4295022488, mapping level is 12
+[  851.977216]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 13 at time 4295022492, mapping level is 13
+[  851.977245]  (1)[2001:PhotonicModulat][name:ddp_pwm&][PWM] (latest= 5):    44( 825, 219)   40( 825, 232)   44( 827, 919)   48( 827, 931)   52( 827, 967)
+[  851.993019]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  851.994460]  (1)[1763:kworker/1:1][accel] obj->data:0009 ffffff50 ffffd9b1
+[  851.994478]  (1)[1763:kworker/1:1][accel] acc:ffffff50 0009 264f
+[  851.994823]  (0)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 14 at time 4295022493, mapping level is 14
+[  851.997293]  (2)[10390:RenderThread][name:setup&]Dump cpuinfo
+[  852.006570]  (1)[1763:kworker/1:1]ALS: 00376 => 00260
+[  852.006587]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  852.006596]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  852.032153]  (0)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 15 at time 4295022497, mapping level is 15
+[  852.050005]  (0)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 16 at time 4295022499, mapping level is 16
+[  852.059014]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  852.060178]  (1)[1763:kworker/1:1][accel] obj->data:ffffffed ffffff46 ffffd9cf
+[  852.060194]  (1)[1763:kworker/1:1][accel] acc:ffffff46 ffffffed 2631
+[  852.070387]  (0)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 17 at time 4295022501, mapping level is 17
+[  852.083404]  (2)[95:hps_main][name:mt_hotplug_strategy_algo&][HPS] (0000)(4)DBG_HRT(279)(373)(3)(0) (4)(4)(4)(4)(1) (0)(0)(0) (1777)(6)(6) (0)(373)(6)(0)(373) wifi_base(0)
+[  852.104525]  (2)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 18 at time 4295022504, mapping level is 18
+[  852.104554]  (2)[2001:PhotonicModulat][name:ddp_pwm&][PWM] (latest= 5):    56( 827, 985)   60( 828,  22)   64( 828,  40)   68( 828,  60)   72( 828,  94)
+[  852.122919]  (2)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 19 at time 4295022506, mapping level is 19
+[  852.125066]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  852.127772]  (1)[1763:kworker/1:1][accel] obj->data:fffffff7 ffffff5a ffffd96d
+[  852.127791]  (1)[1763:kworker/1:1][accel] acc:ffffff5a fffffff7 2693
+[  852.140792]  (2)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 20 at time 4295022508, mapping level is 20
+[  852.176352]  (3)[58:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1175mv, freq = 1300000 KHz
+[  852.178543]  (2)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 21 at time 4295022512, mapping level is 21
+[  852.191034]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  852.192116]  (1)[1763:kworker/1:1][accel] obj->data:fffffff7 ffffff5a ffffd9c5
+[  852.192131]  (1)[1763:kworker/1:1][accel] acc:ffffff5a fffffff7 263b
+[  852.197281]  (2)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 22 at time 4295022514, mapping level is 22
+[  852.208095]  (0)[255:logd.auditd]type=1400 audit(1451667828.190:639): avc: denied { search } for pid=3598 comm="GpuAppSpectator" name="7746" dev="proc" ino=45578 scontext=u:r:gas_srv:s0 tcontext=u:r:system_app:s0 tclass=dir permissive=0
+[  852.234377]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 23 at time 4295022517, mapping level is 23
+[  852.234420]  (1)[2001:PhotonicModulat][name:ddp_pwm&][PWM] (latest= 5):    76( 828, 113)   80( 828, 131)   84( 828, 169)   88( 828, 187)   92( 828, 224)
+[  852.251609]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 24 at time 4295022519, mapping level is 24
+[  852.257025]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  852.260648]  (1)[1763:kworker/1:1][accel] obj->data:0009 ffffff77 ffffda1d
+[  852.260666]  (1)[1763:kworker/1:1][accel] acc:ffffff77 0009 25e3
+[  852.266688]  (1)[1763:kworker/1:1]ALS: 00382 => 00260
+[  852.266707]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  852.266717]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  852.269192]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 25 at time 4295022521, mapping level is 25
+[  852.286492]  (3)[58:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1243mv, freq = 1443000 KHz
+[  852.308728]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 26 at time 4295022525, mapping level is 26
+[  852.326991]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 27 at time 4295022527, mapping level is 27
+[  852.330865]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  852.333032]  (1)[1763:kworker/1:1][accel] obj->data:0009 ffffff50 ffffd9cf
+[  852.333051]  (1)[1763:kworker/1:1][accel] acc:ffffff50 0009 2631
+[  852.345376]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 28 at time 4295022528, mapping level is 28
+[  852.345404]  (3)[2001:PhotonicModulat][name:ddp_pwm&][PWM] (latest= 5):    96( 828, 242)  100( 828, 259)  104( 828, 299)  108( 828, 317)  112( 828, 335)
+[  852.366294]  (2)[150:hang_detect][name:aed&][Hang_Detect] init found pid:1.
+[  852.366404]  (2)[150:hang_detect][name:aed&][Hang_Detect] mmcqd/0 found pid:162.
+[  852.366447]  (2)[150:hang_detect][name:aed&][Hang_Detect] surfaceflinger found pid:262.
+[  852.366471]  (2)[150:hang_detect][name:aed&][Hang_Detect] debuggerd found pid:701.
+[  852.366479]  (2)[150:hang_detect][name:aed&][Hang_Detect] debuggerd64 found pid:702.
+[  852.366509]  (2)[150:hang_detect][name:aed&][Hang_Detect] system_server found pid:1345.
+[  852.366581]  (2)[150:hang_detect][name:aed&][Hang_Detect] ndroid.systemui found pid:2241.
+[  852.366633]  (2)[150:hang_detect][name:aed&][Hang_Detect] hang_detect thread counts down 10:10.
+[  852.379000]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 29 at time 4295022532, mapping level is 29
+[  852.389016]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  852.390079]  (1)[1763:kworker/1:1][accel] obj->data:ffffffc6 ffffff5a ffffd9cf
+[  852.390092]  (1)[1763:kworker/1:1][accel] acc:ffffff5a ffffffc6 2631
+[  852.399722]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 30 at time 4295022534, mapping level is 30
+[  852.414580]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 31 at time 4295022535, mapping level is 31
+[  852.452946]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 32 at time 4295022539, mapping level is 32
+[  852.455015]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  852.456542]  (1)[1763:kworker/1:1][accel] obj->data:ffffffed ffffff3c ffffd9a8
+[  852.456561]  (1)[1763:kworker/1:1][accel] acc:ffffff3c ffffffed 2658
+[  852.469383]  (2)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 33 at time 4295022541, mapping level is 33
+[  852.469411]  (2)[2001:PhotonicModulat][name:ddp_pwm&][PWM] (latest= 5):   116( 828, 369)  120( 828, 390)  124( 828, 405)  128( 828, 443)  132( 828, 459)
+[  852.474012]  (0)[103:display_esd_che]DSI read long packet size: 1
+[  852.474030]  (0)[103:display_esd_che]esd_check: 0x80, 0x80, 0x8f, 0x0, 0x8b, 0x0, 
+[  852.474045]  (0)[103:display_esd_che]DSI read long packet size: 3
+[  852.474054]  (0)[103:display_esd_che]esd_check: 0x80, 0x80, 0x73, 0x73, 0x4, 0x4, 
+[  852.474069]  (0)[103:display_esd_che]DSI read long packet size: 2
+[  852.474079]  (0)[103:display_esd_che]esd_check: 0x5, 0xf, 0x18, 0xf0, 0xc9, 0x0, 
+[  852.507088]  (2)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 34 at time 4295022545, mapping level is 34
+[  852.517414]  (1)[1763:kworker/1:1]ALS: 00381 => 00260
+[  852.517433]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  852.517442]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  852.521045]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  852.522733]  (1)[1763:kworker/1:1][accel] obj->data:ffffffcf ffffff5a ffffd9b1
+[  852.522751]  (1)[1763:kworker/1:1][accel] acc:ffffff5a ffffffcf 264f
+[  852.527597]  (2)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 35 at time 4295022547, mapping level is 35
+[  852.543960]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 36 at time 4295022548, mapping level is 36
+[  852.578385]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 37 at time 4295022552, mapping level is 37
+[  852.587008]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  852.588423]  (1)[1763:kworker/1:1][accel] obj->data:ffffffcf ffffff64 ffffd99e
+[  852.588440]  (1)[1763:kworker/1:1][accel] acc:ffffff64 ffffffcf 2662
+[  852.596611]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 38 at time 4295022554, mapping level is 38
+[  852.596639]  (1)[2001:PhotonicModulat][name:ddp_pwm&][PWM] (latest= 5):   136( 828, 497)  140( 828, 518)  144( 828, 534)  148( 828, 568)  152( 828, 587)
+[  852.616567]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 39 at time 4295022556, mapping level is 39
+[  852.625205]  (1)[56:dlpt_notify_thr][name:pmic&][dlpt] get_dlpt_imix_charging 4207 3647 3100 117
+[  852.627421]  (0)[56:dlpt_notify_thr][name:mt_pbm&][PBM] [ma_to_mw] 3642(mV) * 4207(mA) = 15321(mW)
+[  852.627450]  (0)[56:dlpt_notify_thr][name:pmic&][exec_dlpt_callback] g_dlpt_val=4207
+[  852.627461]  (0)[56:dlpt_notify_thr][name:pmic&][DLPT_final] 4207,0,3,3,5500
+[  852.652038]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 40 at time 4295022559, mapping level is 40
+[  852.653015]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  852.654091]  (1)[1763:kworker/1:1][accel] obj->data:ffffffed ffffff5a ffffd9f6
+[  852.654106]  (1)[1763:kworker/1:1][accel] acc:ffffff5a ffffffed 260a
+[  852.669317]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 41 at time 4295022561, mapping level is 41
+[  852.705697]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 42 at time 4295022564, mapping level is 42
+[  852.720138]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  852.721451]  (1)[1763:kworker/1:1][accel] obj->data:ffffffe3 ffffff64 ffffd9bb
+[  852.721466]  (1)[1763:kworker/1:1][accel] acc:ffffff64 ffffffe3 2645
+[  852.724598]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 43 at time 4295022566, mapping level is 43
+[  852.724626]  (3)[2001:PhotonicModulat][name:ddp_pwm&][PWM] (latest= 5):   156( 828, 607)  160( 828, 642)  164( 828, 659)  168( 828, 696)  173( 828, 715)
+[  852.742329]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 44 at time 4295022568, mapping level is 44
+[  852.766518]  (1)[1763:kworker/1:1]ALS: 00388 => 00260
+[  852.766534]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  852.766543]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  852.779071]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 45 at time 4295022572, mapping level is 45
+[  852.785017]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  852.786205]  (1)[1763:kworker/1:1][accel] obj->data:0000 ffffff6d ffffd98a
+[  852.786222]  (1)[1763:kworker/1:1][accel] acc:ffffff6d 0000 2676
+[  852.786578]  (2)[58:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 819000 KHz
+[  852.796589]  (1)[58:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1175mv, freq = 1300000 KHz
+[  852.798068]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 46 at time 4295022574, mapping level is 46
+[  852.815445]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 47 at time 4295022575, mapping level is 47
+[  852.836305]  (1)[1763:kworker/1:1][name:mtk_ts_bts&][Power/BTS_Thermal] T_AP=44000
+[  852.851168]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  852.852161]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 48 at time 4295022579, mapping level is 48
+[  852.852190]  (3)[2001:PhotonicModulat][name:ddp_pwm&][PWM] (latest= 5):   177( 828, 732)  181( 828, 769)  185( 828, 788)  189( 828, 805)  193( 828, 842)
+[  852.852512]  (1)[1763:kworker/1:1][accel] obj->data:ffffffed ffffff5a ffffd9b1
+[  852.852527]  (1)[1763:kworker/1:1][accel] acc:ffffff5a ffffffed 264f
+[  852.870208]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 49 at time 4295022581, mapping level is 49
+[  852.876381]  (0)[58:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1050mv, freq = 1040000 KHz
+[  852.907237]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 50 at time 4295022585, mapping level is 50
+[  852.918313]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  852.920594]  (1)[1763:kworker/1:1][accel] obj->data:fffffff7 ffffff46 ffffd9e3
+[  852.920618]  (1)[1763:kworker/1:1][accel] acc:ffffff46 fffffff7 261d
+[  852.925903]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 51 at time 4295022586, mapping level is 51
+[  852.940780] [name:aed&]AEE_MONITOR_SET[status]: 0x1
+[  852.943788]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 52 at time 4295022588, mapping level is 52
+[  852.980523]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 53 at time 4295022592, mapping level is 53
+[  852.980558]  (3)[2001:PhotonicModulat][name:ddp_pwm&][PWM] (latest= 5):   197( 828, 860)  201( 828, 897)  205( 828, 916)  209( 828, 934)  213( 828, 970)
+[  852.983810]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  852.985011]  (1)[1763:kworker/1:1][accel] obj->data:ffffffe3 ffffff46 ffffd9d9
+[  852.985032]  (1)[1763:kworker/1:1][accel] acc:ffffff46 ffffffe3 2627
+[  852.986194] -(3)[19:migration/3][name:ca53_timer&]arch_timer_teardown disable IRQ29 cpu #3
+[  852.986547]  (0)[95:hps_main][name:smp&]CPU3: shutdown
+[  852.988054]  (0)[95:hps_main][name:mt_hotplug_strategy_algo&][HPS] (0200)(4)action end(223)(247)(0)(0) (4)(4)(4)(4)(1) (0)(0)(0) (2037)(15)(7) (0)(247)(15)(0)(247) wifi_base(0)
+[  852.999143]  (0)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 54 at time 4295022594, mapping level is 54
+[  853.011882]  (0)[720:batterywarning][name:battery_common&][Battery] show_BatteryNotify : 0
+[  853.017562]  (2)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 55 at time 4295022596, mapping level is 55
+[  853.018633]  (1)[1763:kworker/1:1]ALS: 00387 => 00260
+[  853.018654]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  853.018665]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  853.049034]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  853.051168]  (1)[1763:kworker/1:1][accel] obj->data:fffffff7 ffffff50 ffffd9a8
+[  853.051188]  (1)[1763:kworker/1:1][accel] acc:ffffff50 fffffff7 2658
+[  853.053492]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 56 at time 4295022599, mapping level is 56
+[  853.071968]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 57 at time 4295022601, mapping level is 57
+[  853.089893]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 58 at time 4295022603, mapping level is 58
+[  853.089928]  (1)[2001:PhotonicModulat][name:ddp_pwm&][PWM] (latest= 5):   217( 828, 989)  221( 829,   8)  225( 829,  43)  229( 829,  62)  233( 829,  80)
+[  853.106420]  (0)[58:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1112mv, freq = 1170000 KHz
+[  853.115048]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  853.116651]  (1)[1763:kworker/1:1][accel] obj->data:ffffffed ffffff77 ffffd99e
+[  853.116670]  (1)[1763:kworker/1:1][accel] acc:ffffff77 ffffffed 2662
+[  853.125677]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 59 at time 4295022606, mapping level is 59
+[  853.144543]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 60 at time 4295022608, mapping level is 60
+[  853.174220]  (2)[5956:tx_thread][name:wlan_gen2&]scnFsmGenerateScanDoneMsg:(SCN INFO)Rcv Scan Done, NetIdx 0, Obss 0, Status 0, Seq 18
+[  853.174247]  (2)[5956:tx_thread][name:wlan_gen2&]scnFsmSteps:(SCN STATE)[19] TRANSITION: [1] -> [0]
+[  853.174971]  (2)[5956:tx_thread][name:wlan_gen2&]aisFsmSteps:(AIS STATE)[13] TRANSITION: [2] -> [0]
+[  853.177925]  (2)[5956:tx_thread][name:wlan_gen2&]qmHandleEventBssAbsencePresence:(QM INFO)NAF=0,0,0
+[  853.182606]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  853.182748]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 61 at time 4295022612, mapping level is 61
+[  853.183911]  (1)[1763:kworker/1:1][accel] obj->data:0013 ffffff6d ffffd9c5
+[  853.183928]  (1)[1763:kworker/1:1][accel] acc:ffffff6d 0013 263b
+[  853.199727]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 62 at time 4295022614, mapping level is 62
+[  853.206393]  (0)[58:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1175mv, freq = 1300000 KHz
+[  853.212631]  (0)[255:logd.auditd]type=1400 audit(1451667829.190:640): avc: denied { search } for pid=3598 comm="GpuAppSpectator" name="7746" dev="proc" ino=45578 scontext=u:r:gas_srv:s0 tcontext=u:r:system_app:s0 tclass=dir permissive=0
+[  853.219355]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 63 at time 4295022616, mapping level is 63
+[  853.219383]  (1)[2001:PhotonicModulat][name:ddp_pwm&][PWM] (latest= 5):   237( 829, 116)  241( 829, 135)  245( 829, 173)  249( 829, 190)  253( 829, 209)
+[  853.246437]  (0)[58:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1243mv, freq = 1443000 KHz
+[  853.248763]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  853.249963]  (1)[1763:kworker/1:1][accel] obj->data:001d ffffff50 ffffd980
+[  853.249980]  (1)[1763:kworker/1:1][accel] acc:ffffff50 001d 2680
+[  853.253180]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 64 at time 4295022619, mapping level is 64
+[  853.267177]  (1)[1763:kworker/1:1]ALS: 00390 => 00260
+[  853.267194]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  853.267202]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  853.271568]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 65 at time 4295022621, mapping level is 65
+[  853.289588]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 66 at time 4295022623, mapping level is 66
+[  853.327799]  (2)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 67 at time 4295022627, mapping level is 67
+[  853.340518]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  853.341616]  (1)[1763:kworker/1:1][accel] obj->data:fffffff7 ffffff77 ffffd9ec
+[  853.341632]  (1)[1763:kworker/1:1][accel] acc:ffffff77 fffffff7 2614
+[  853.345349]  (2)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 68 at time 4295022628, mapping level is 68
+[  853.345377]  (2)[2001:PhotonicModulat][name:ddp_pwm&][PWM] (latest= 5):   257( 829, 243)  261( 829, 262)  265( 829, 280)  269( 829, 318)  273( 829, 335)
+[  853.382857]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  853.386622]  (1)[1763:kworker/1:1][accel] obj->data:ffffffb2 ffffff64 ffffd9a8
+[  853.386639]  (1)[1763:kworker/1:1][accel] acc:ffffff64 ffffffb2 2658
+[  853.388929] -(3)[0:swapper/3]CPU3: Booted secondary processor
+[  853.388952] -(3)[0:swapper/3][name:cpuinfo&]Detected VIPT I-cache on CPU3
+[  853.389071] -(3)[0:swapper/3][name:topology&]CPU3: update cpu_capacity 1024
+[  853.389658]  (0)[95:hps_main][name:wd_common_drv&][wdk]bind kicker thread[188] to cpu[3]
+[  853.390146]  (0)[95:hps_main][name:mt_hotplug_strategy_algo&][HPS] (0080)(3)action end(289)(574)(0)(0) (4)(4)(4)(4)(1) (578)(4)(0) (706)(3)(3) (0)(574)(4)(0)(574) wifi_base(0)
+[  853.398354]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 69 at time 4295022634, mapping level is 69
+[  853.402593]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 70 at time 4295022634, mapping level is 70
+[  853.417725]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 71 at time 4295022636, mapping level is 71
+[  853.445019]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  853.446168]  (1)[1763:kworker/1:1][accel] obj->data:0009 ffffff64 ffffd9e3
+[  853.446184]  (1)[1763:kworker/1:1][accel] acc:ffffff64 0009 261d
+[  853.454112]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 72 at time 4295022639, mapping level is 72
+[  853.471726]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 73 at time 4295022641, mapping level is 73
+[  853.471755]  (1)[2001:PhotonicModulat][name:ddp_pwm&][PWM] (latest= 5):   277( 829, 388)  281( 829, 393)  285( 829, 408)  289( 829, 444)  293( 829, 462)
+[  853.490053]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 74 at time 4295022643, mapping level is 74
+[  853.511021]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  853.512099]  (1)[1763:kworker/1:1][accel] obj->data:ffffffcf ffffff50 ffffd98a
+[  853.512113]  (1)[1763:kworker/1:1][accel] acc:ffffff50 ffffffcf 2676
+[  853.516533]  (1)[1763:kworker/1:1]ALS: 00376 => 00260
+[  853.516548]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  853.516557]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  853.527239]  (0)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 75 at time 4295022647, mapping level is 75
+[  853.545544]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 76 at time 4295022648, mapping level is 76
+[  853.577019]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  853.578353]  (1)[1763:kworker/1:1][accel] obj->data:ffffffd9 ffffff46 ffffd96d
+[  853.578369]  (1)[1763:kworker/1:1][accel] acc:ffffff46 ffffffd9 2693
+[  853.581638]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 77 at time 4295022652, mapping level is 77
+[  853.590383]  (1)[95:hps_main][name:mt_hotplug_strategy_algo&][HPS] (0000)(4)DBG_HRT(239)(281)(0)(0) (4)(4)(4)(4)(1) (0)(0)(0) (537)(2)(2) (0)(281)(2)(0)(281) wifi_base(0)
+[  853.600237]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 78 at time 4295022654, mapping level is 78
+[  853.600265]  (1)[2001:PhotonicModulat][name:ddp_pwm&][PWM] (latest= 5):   297( 829, 480)  301( 829, 517)  305( 829, 536)  309( 829, 572)  313( 829, 590)
+[  853.618120]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 79 at time 4295022656, mapping level is 79
+[  853.643017]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  853.644094]  (1)[1763:kworker/1:1][accel] obj->data:0000 ffffff5a ffffd9c5
+[  853.644111]  (1)[1763:kworker/1:1][accel] acc:ffffff5a 0000 263b
+[  853.654234]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 80 at time 4295022659, mapping level is 80
+[  853.672837]  (2)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 81 at time 4295022661, mapping level is 81
+[  853.691826]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 82 at time 4295022663, mapping level is 82
+[  853.709039]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  853.710227]  (1)[1763:kworker/1:1][accel] obj->data:0000 ffffff64 ffffd980
+[  853.710245]  (1)[1763:kworker/1:1][accel] acc:ffffff64 0000 2680
+[  853.727725]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 83 at time 4295022667, mapping level is 83
+[  853.727752]  (3)[2001:PhotonicModulat][name:ddp_pwm&][PWM] (latest= 5):   317( 829, 608)  321( 829, 644)  325( 829, 663)  329( 829, 682)  333( 829, 718)
+[  853.745491]  (2)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 84 at time 4295022668, mapping level is 84
+[  853.766894]  (1)[1763:kworker/1:1]ALS: 00385 => 00260
+[  853.766912]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  853.766921]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  853.775044]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  853.776224]  (1)[1763:kworker/1:1][accel] obj->data:0009 ffffff5a ffffd9a8
+[  853.776237]  (1)[1763:kworker/1:1][accel] acc:ffffff5a 0009 2658
+[  853.782989]  (2)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 85 at time 4295022672, mapping level is 85
+[  853.801303]  (3)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 86 at time 4295022674, mapping level is 86
+[  853.822541]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 87 at time 4295022676, mapping level is 87
+[  853.836292]  (1)[1763:kworker/1:1][name:mtk_ts_bts&][Power/BTS_Thermal] T_AP=44000
+[  853.841010]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  853.842132]  (1)[1763:kworker/1:1][accel] obj->data:0000 ffffff5a ffffd977
+[  853.842148]  (1)[1763:kworker/1:1][accel] acc:ffffff5a 0000 2689
+[  853.855879]  (2)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 88 at time 4295022679, mapping level is 88
+[  853.855908]  (2)[2001:PhotonicModulat][name:ddp_pwm&][PWM] (latest= 5):   337( 829, 735)  341( 829, 773)  345( 829, 791)  349( 829, 813)  353( 829, 846)
+[  853.874590]  (2)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 89 at time 4295022681, mapping level is 89
+[  853.893676]  (0)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 90 at time 4295022683, mapping level is 90
+[  853.907040]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  853.908210]  (1)[1763:kworker/1:1][accel] obj->data:0009 ffffff64 ffffd9a8
+[  853.908243]  (1)[1763:kworker/1:1][accel] acc:ffffff64 0009 2658
+[  853.928641]  (0)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 91 at time 4295022687, mapping level is 91
+[  853.941119] [name:aed&]AEE_MONITOR_SET[status]: 0x1
+[  853.948184]  (0)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 92 at time 4295022689, mapping level is 92
+[  853.967301]  (0)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 93 at time 4295022691, mapping level is 93
+[  853.967328]  (0)[2001:PhotonicModulat][name:ddp_pwm&][PWM] (latest= 5):   357( 829, 865)  361( 829, 884)  365( 829, 919)  369( 829, 938)  373( 829, 957)
+[  853.973007]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  853.974562]  (1)[1763:kworker/1:1][accel] obj->data:fffffff7 ffffff3c ffffd9cf
+[  853.974578]  (1)[1763:kworker/1:1][accel] acc:ffffff3c fffffff7 2631
+[  854.002974]  (2)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 94 at time 4295022694, mapping level is 94
+[  854.016527]  (1)[1763:kworker/1:1]ALS: 00386 => 00260
+[  854.016545]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  854.016554]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  854.019914]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 95 at time 4295022696, mapping level is 95
+[  854.039177]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  854.040520]  (1)[1763:kworker/1:1][accel] obj->data:fffffff7 ffffff3c ffffd9b1
+[  854.040537]  (1)[1763:kworker/1:1][accel] acc:ffffff3c fffffff7 264f
+[  854.055733]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 96 at time 4295022699, mapping level is 96
+[  854.075599]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 97 at time 4295022701, mapping level is 97
+[  854.092364]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 98 at time 4295022703, mapping level is 98
+[  854.092392]  (1)[2001:PhotonicModulat][name:ddp_pwm&][PWM] (latest= 5):   377( 829, 993)  381( 830,  10)  385( 830,  46)  389( 830,  66)  393( 830,  82)
+[  854.105018]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  854.106150]  (1)[1763:kworker/1:1][accel] obj->data:fffffff7 ffffff50 ffffd9b1
+[  854.106166]  (1)[1763:kworker/1:1][accel] acc:ffffff50 fffffff7 264f
+[  854.128938]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 99 at time 4295022707, mapping level is 99
+[  854.146143]  (1)[2001:PhotonicModulat][name:ccci&][md1]traffic(3/0):Tx(7f)60-60,3669-3666,6-6,0-0,0-0,0-0,1-1,0-0:Rx(7f)62,3285,9065,0,0,0,0,0
+[  854.146167]  (1)[2001:PhotonicModulat][name:ccci&][md1]traffic(net): tx: [22]0 0, [26]0 0, [30]0 0, rx:[20]0, [24]0, [28]0
+[  854.148065]  (1)[2001:PhotonicModulat][name:leds&][LED]Set Backlight directly 100 at time 4295022709, mapping level is 100
+[  854.171013]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  854.172082]  (1)[1763:kworker/1:1][accel] obj->data:ffffffe3 ffffff64 ffffd994
+[  854.172093]  (1)[1763:kworker/1:1][accel] acc:ffffff64 ffffffe3 266c
+[  854.214669]  (0)[255:logd.auditd]type=1400 audit(1451667830.190:641): avc: denied { search } for pid=3598 comm="GpuAppSpectator" name="7746" dev="proc" ino=45578 scontext=u:r:gas_srv:s0 tcontext=u:r:system_app:s0 tclass=dir permissive=0
+[  854.237769]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  854.239291]  (1)[1763:kworker/1:1][accel] obj->data:ffffffd9 ffffff5a ffffd9c5
+[  854.239323]  (1)[1763:kworker/1:1][accel] acc:ffffff5a ffffffd9 263b
+[  854.266553]  (1)[1763:kworker/1:1]ALS: 00394 => 00260
+[  854.266571]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  854.266579]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  854.304354]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  854.305443]  (1)[1763:kworker/1:1][accel] obj->data:0031 ffffff6d ffffd9ec
+[  854.305460]  (1)[1763:kworker/1:1][accel] acc:ffffff6d 0031 2614
+[  854.369278]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  854.370379]  (1)[1763:kworker/1:1][accel] obj->data:0009 ffffff46 ffffd994
+[  854.370395]  (1)[1763:kworker/1:1][accel] acc:ffffff46 0009 266c
+[  854.435070]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  854.436189]  (1)[1763:kworker/1:1][accel] obj->data:ffffffcf ffffff5a ffffd9b1
+[  854.436208]  (1)[1763:kworker/1:1][accel] acc:ffffff5a ffffffcf 264f
+[  854.480199]  (0)[103:display_esd_che]DSI read long packet size: 1
+[  854.480217]  (0)[103:display_esd_che]esd_check: 0x80, 0x80, 0x8f, 0x0, 0x8b, 0x0, 
+[  854.480233]  (0)[103:display_esd_che]DSI read long packet size: 3
+[  854.480242]  (0)[103:display_esd_che]esd_check: 0x80, 0x80, 0x73, 0x73, 0x4, 0x4, 
+[  854.480257]  (0)[103:display_esd_che]DSI read long packet size: 2
+[  854.480266]  (0)[103:display_esd_che]esd_check: 0x5, 0xf, 0x18, 0xf0, 0xc9, 0x0, 
+[  854.487724]  (3)[183:bat_thread_kthr][name:battery_common&][BAT_thread]Cable in, CHR_Type_num=1
+[  854.492637] -(3)[19:migration/3][name:ca53_timer&]arch_timer_teardown disable IRQ29 cpu #3
+[  854.492887]  (0)[95:hps_main][name:smp&]CPU3: shutdown
+[  854.494111]  (0)[95:hps_main][name:mt_hotplug_strategy_algo&][HPS] (0200)(4)action end(218)(275)(0)(0) (4)(4)(4)(4)(1) (0)(0)(0) (2038)(11)(3) (0)(275)(11)(0)(275) wifi_base(0)
+[  854.496868]  (0)[2000:kworker/u8:0]binder: [name:binder&]10026:.deskclock:main node 300061: exits with 1345:system_server DeathNotify
+[  854.496898]  (0)[2000:kworker/u8:0]binder: [name:binder&]10026:.deskclock:main node 300078: exits with 1345:system_server DeathNotify
+[  854.501019]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  854.502071]  (1)[1763:kworker/1:1][accel] obj->data:001d ffffff5a ffffd977
+[  854.502086]  (1)[1763:kworker/1:1][accel] acc:ffffff5a 001d 2689
+[  854.516498]  (1)[1763:kworker/1:1]ALS: 00400 => 00260
+[  854.516550]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  854.516579]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  854.567012]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  854.568064]  (1)[1763:kworker/1:1][accel] obj->data:ffffffcf ffffff50 ffffd99e
+[  854.568079]  (1)[1763:kworker/1:1][accel] acc:ffffff50 ffffffcf 2662
+[  854.605471]  (2)[183:bat_thread_kthr][name:battery_meter&][force_get_tbat] 555,556,0,183,10,37
+[  854.610109]  (1)[183:bat_thread_kthr][name:battery_meter&][force_get_tbat] 555,556,0,173,10,37
+[  854.610534]  (1)[183:bat_thread_kthr][name:battery_meter_hal&][dump_nter] mt6328_upmu_get_fg_nter_29_16 = 0x0
+[  854.610554]  (1)[183:bat_thread_kthr][name:battery_meter_hal&][dump_nter] mt6328_upmu_get_fg_nter_15_00 = 0x3c2
+[  854.610570]  (1)[183:bat_thread_kthr][name:battery_meter_hal&][dump_car] upmu_get_fg_car_31_16 = 0xffee
+[  854.610585]  (1)[183:bat_thread_kthr][name:battery_meter_hal&][dump_car] upmu_get_fg_car_15_00 = 0xd4bd
+[  854.610921]  (1)[183:bat_thread_kthr][name:battery_meter&][FGADC] 0,1730,-4,3689,11,3,1,3994,3964,24,0,0,1000,3665,1000,97,97,77,103
+[  854.611500]  (1)[183:bat_thread_kthr][name:battery_common&]AvgVbat=(3694,3665),AvgI=(459,515),VChr=4702,AvgT=(36,37),SOC=(3,3),UI_SOC=3,ZCV=3689 bcct:0:0 I:50000
+[  854.611620] [name:battery_common&][BATTERY] [BATTERY]g_batt_temp_status = (1)
+
+[  854.611630]  (1)[183:bat_thread_kthr][name:battery_common&]BMT_status.bat_charging_state = 2
+[  854.612593]  (0)[183:bat_thread_kthr][name:charging_hw_ncp1854&][BATTERY:ncp1854] ChargerHwInit_ncp1854
+[  854.622037]  (0)[183:bat_thread_kthr][name:switch_charging&][BATTERY] Default CC mode charging : 50000, input current = 50000
+[  854.624890]  (0)[183:bat_thread_kthr][name:switch_charging&]wind_log_CC_current = 50000
+[  854.624908]  (0)[183:bat_thread_kthr][name:charging_hw_ncp1854&]wind_log_set_chr_current = 50000
+[  854.626857]  (1)[183:bat_thread_kthr][name:switch_charging&]wind_log_CV_voltage = 4380000
+[  854.626875]  (1)[183:bat_thread_kthr][name:charging_hw_ncp1854&]wind_log_set_chr_cv = 4375000
+[  854.630285]  (1)[183:bat_thread_kthr][name:charging_hw_ncp1854&]charging_dump_register
+[  854.630859]  (1)[183:bat_thread_kthr][name:ncp1854&][ncp1854_dump_register] Reg[0x0]=0x41
+[  854.631443]  (1)[183:bat_thread_kthr][name:ncp1854&][ncp1854_dump_register] Reg[0x1]=0x55
+[  854.632141]  (1)[183:bat_thread_kthr][name:ncp1854&][ncp1854_dump_register] Reg[0x2]=0x43
+[  854.632700]  (1)[183:bat_thread_kthr][name:ncp1854&][ncp1854_dump_register] Reg[0x7]=0xD
+[  854.633008]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  854.633244]  (1)[183:bat_thread_kthr][name:ncp1854&][ncp1854_dump_register] Reg[0x8]=0x1D
+[  854.633800]  (0)[183:bat_thread_kthr][name:ncp1854&][ncp1854_dump_register] Reg[0x9]=0x0
+[  854.634119]  (1)[1763:kworker/1:1][accel] obj->data:ffffffd9 ffffff33 ffffd9e3
+[  854.634132]  (1)[1763:kworker/1:1][accel] acc:ffffff33 ffffffd9 261d
+[  854.634372]  (0)[183:bat_thread_kthr][name:ncp1854&][ncp1854_dump_register] Reg[0xE]=0x2B
+[  854.634953]  (1)[183:bat_thread_kthr][name:ncp1854&][ncp1854_dump_register] Reg[0xF]=0x41
+[  854.635578]  (0)[183:bat_thread_kthr][name:ncp1854&][ncp1854_dump_register] Reg[0x10]=0x6D
+[  854.636195]  (0)[183:bat_thread_kthr][name:ncp1854&][ncp1854_dump_register] Reg[0x11]=0x0
+[  854.636247]  (0)[183:bat_thread_kthr][name:battery_common&]wind_log_charging_v_0percent_tracking =  3450
+[  854.636257]  (0)[183:bat_thread_kthr][name:battery_common&]UI_SOC=(3), resetBatteryMeter=(0)
+[  854.636274] -(0)[183:bat_thread_kthr][name:mtk_rtc_hal_common&]mtk_rtc_hal_common: rtc_spare_reg[0] = {16412, 127, 8}
+[  854.637793]  (2)[259:healthd]healthd: Unknown battery status '3'
+[  854.639086]  (2)[259:healthd]healthd: battery l=3 v=3694 t=36.0 h=2 st=2 chg=u
+[  854.639240]  (2)[259:healthd]healthd: send_already = 0
+[  854.640254]  (2)[259:healthd]healthd: Unknown battery status '3'
+[  854.642464]  (1)[259:healthd]healthd: battery l=3 v=3694 t=36.0 h=2 st=2 chg=u
+[  854.642674]  (1)[259:healthd]healthd: send_already = 0
+[  854.643812]  (1)[259:healthd]healthd: Unknown battery status '3'
+[  854.645420]  (1)[259:healthd]healthd: battery l=3 v=3694 t=36.0 h=2 st=2 chg=u
+[  854.645588]  (1)[259:healthd]healthd: send_already = 0
+[  854.647408]  (1)[259:healthd]healthd: Unknown battery status '3'
+[  854.648315]  (1)[259:healthd]healthd: battery l=3 v=3694 t=36.0 h=2 st=2 chg=u
+[  854.648459]  (1)[259:healthd]healthd: send_already = 0
+[  854.699067]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  854.700719]  (1)[1763:kworker/1:1][accel] obj->data:ffffffd9 ffffff46 ffffd9cf
+[  854.700736]  (1)[1763:kworker/1:1][accel] acc:ffffff46 ffffffd9 2631
+[  854.765027]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  854.766238]  (1)[1763:kworker/1:1][accel] obj->data:ffffffe3 ffffff5a ffffd9f6
+[  854.766256]  (1)[1763:kworker/1:1][accel] acc:ffffff5a ffffffe3 260a
+[  854.767075]  (1)[1763:kworker/1:1]ALS: 00387 => 00260
+[  854.767093]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  854.767102]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  854.831033]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  854.832120]  (1)[1763:kworker/1:1][accel] obj->data:fffffff7 ffffff50 ffffda00
+[  854.832136]  (1)[1763:kworker/1:1][accel] acc:ffffff50 fffffff7 2600
+[  854.836352]  (1)[1763:kworker/1:1][name:mtk_ts_bts&][Power/BTS_Thermal] T_AP=44000
+[  854.897041]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  854.898140]  (1)[1763:kworker/1:1][accel] obj->data:ffffffed ffffff46 ffffd9d9
+[  854.898157]  (1)[1763:kworker/1:1][accel] acc:ffffff46 ffffffed 2627
+[  854.941420] [name:aed&]AEE_MONITOR_SET[status]: 0x1
+[  854.963020]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  854.964077]  (1)[1763:kworker/1:1][accel] obj->data:ffffffed ffffff77 ffffd977
+[  854.964087]  (1)[1763:kworker/1:1][accel] acc:ffffff77 ffffffed 2689
+[  855.016904]  (1)[1763:kworker/1:1]ALS: 00398 => 00260
+[  855.016922]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  855.016930]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  855.029015]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  855.030089]  (1)[1763:kworker/1:1][accel] obj->data:0000 ffffff3c ffffda00
+[  855.030103]  (1)[1763:kworker/1:1][accel] acc:ffffff3c 0000 2600
+[  855.094828]  (2)[95:hps_main][name:mt_hotplug_strategy_algo&][HPS] (0000)(3)DBG_HRT(186)(208)(0)(0) (4)(4)(4)(4)(1) (371)(6)(0) (1274)(6)(6) (0)(208)(6)(0)(208) wifi_base(0)
+[  855.096213]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  855.097500]  (1)[1763:kworker/1:1][accel] obj->data:0009 ffffff46 ffffd96d
+[  855.097516]  (1)[1763:kworker/1:1][accel] acc:ffffff46 0009 2693
+[  855.116334]  (0)[58:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1112mv, freq = 1170000 KHz
+[  855.126428]  (0)[58:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1175mv, freq = 1300000 KHz
+[  855.159050]  (2)[1:init][name:mtprof&]get reboot pid: 284.
+[  855.159072]  (2)[1:init][name:mtprof&]Reboot Process(adbd:284).
+[  855.161030]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  855.162224]  (1)[1763:kworker/1:1][accel] obj->data:0013 ffffff46 ffffd99e
+[  855.162239]  (1)[1763:kworker/1:1][accel] acc:ffffff46 0013 2662
+[  855.177569] SysRq : Emergency Remount R/O
+[  855.186374]  (2)[576:kworker/2:2]EXT4-fs (mmcblk0p23): re-mounted. Opts: (null)
+[  855.192020]  (2)[576:kworker/2:2]EXT4-fs (mmcblk0p24): re-mounted. Opts: (null)
+[  855.197059]  (2)[576:kworker/2:2]EXT4-fs (mmcblk0p3): re-mounted. Opts: (null)
+[  855.200906]  (2)[576:kworker/2:2]EXT4-fs (mmcblk0p4): re-mounted. Opts: (null)
+[  855.217481]  (2)[576:kworker/2:2]EXT4-fs (mmcblk0p21): re-mounted. Opts: (null)
+[  855.217716]  (0)[255:logd.auditd]type=1400 audit(1451667831.200:642): avc: denied { search } for pid=3598 comm="GpuAppSpectator" name="7746" dev="proc" ino=45578 scontext=u:r:gas_srv:s0 tcontext=u:r:system_app:s0 tclass=dir permissive=0
+[  855.221250]  (2)[576:kworker/2:2]EXT4-fs (mmcblk0p17): re-mounted. Opts: (null)
+[  855.224702]  (2)[576:kworker/2:2]EXT4-fs (mmcblk0p18): re-mounted. Opts: (null)
+[  855.227853]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  855.228963]  (1)[1763:kworker/1:1][accel] obj->data:fffffff7 ffffff46 ffffd994
+[  855.228979]  (1)[1763:kworker/1:1][accel] acc:ffffff46 fffffff7 266c
+[  855.232107]  (2)[576:kworker/2:2]EXT4-fs (mmcblk0p19): re-mounted. Opts: (null)
+[  855.256376]  (1)[58:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1243mv, freq = 1443000 KHz
+[  855.266569]  (1)[1763:kworker/1:1]ALS: 00393 => 00260
+[  855.266588]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  855.266596]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  855.266685]  (2)[576:kworker/2:2]EXT4-fs (dm-0): re-mounted. Opts: (null)
+[  855.283589]  (1)[1:init][name:battery_common&]******** battery driver shutdown!! ********
+[  855.293140]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  855.294630]  (1)[1763:kworker/1:1][accel] obj->data:fffffff7 ffffff3c ffffd98a
+[  855.294648]  (1)[1763:kworker/1:1][accel] acc:ffffff3c fffffff7 2676
+[  855.318860]  (2)[576:kworker/2:2]Emergency Remount complete
+[  855.344306]  (2)[252:logd.writer]logd:diff time 5525126231, run time  306440267, count 5000,step 1 8708,2 36027,3 6432,4 10119. filter count 0.
+[  855.360781]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  855.361869]  (1)[1763:kworker/1:1][accel] obj->data:ffffffed ffffff46 ffffd9d9
+[  855.361886]  (1)[1763:kworker/1:1][accel] acc:ffffff46 ffffffed 2627
+[  855.376286]  (2)[5502:kworker/u8:4][HXTP]  himax_chip_monitor_function: POLLING_COUNT=1, STATUS=0 
+[  855.376303]  (2)[5502:kworker/u8:4][HXTP] [himax] himax_irqdepth: irq_depth=0
+[  855.376312]  (2)[5502:kworker/u8:4][HXTP] [himax] himax_chip_monitor_function: himax_irqdepth_r =0
+[  855.425020]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  855.426780]  (1)[1763:kworker/1:1][accel] obj->data:fffffff7 ffffff50 ffffd9ec
+[  855.426797]  (1)[1763:kworker/1:1][accel] acc:ffffff50 fffffff7 2614
+[  855.491029]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  855.493749]  (1)[1763:kworker/1:1][accel] obj->data:0000 ffffff5a ffffd9d9
+[  855.493767]  (1)[1763:kworker/1:1][accel] acc:ffffff5a 0000 2627
+[  855.517054]  (1)[1763:kworker/1:1]ALS: 00390 => 00260
+[  855.517072]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  855.517081]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  855.557710]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  855.561245]  (1)[1763:kworker/1:1][accel] obj->data:0009 ffffff5a ffffd9ec
+[  855.561261]  (1)[1763:kworker/1:1][accel] acc:ffffff5a 0009 2614
+[  855.623032]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  855.624460]  (1)[1763:kworker/1:1][accel] obj->data:0000 ffffff50 ffffd9c5
+[  855.624475]  (1)[1763:kworker/1:1][accel] acc:ffffff50 0000 263b
+[  855.686208]  (2)[109:display_idle_de][name:primary_display&][LP] - enter: 71, flag:0,0
+[  855.689017]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  855.690076]  (1)[1763:kworker/1:1][accel] obj->data:0000 ffffff5a ffffd99e
+[  855.690086]  (1)[1763:kworker/1:1][accel] acc:ffffff5a 0000 2662
+[  855.720586]  (2)[109:display_idle_de][MMDVFS][name:mmdvfs_mgr&][pid=109]Set vol scen:17,step:0,final:0(0x0),CMD(0,0,0x0),INFO(0,0)
+[  855.720607]  (2)[109:display_idle_de][VcoreFS] [name:mt_vcore_dvfs_1&]feature_en: 1(0), recover_en: 1, kicker: 1, new_opp: -1(-1)
+[  855.720617]  (2)[109:display_idle_de][VcoreFS] [name:mt_vcore_dvfs_1&]*** VCORE DVFS OPP NO CHANGE (0x0) ***
+[  855.755019]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  855.756308]  (1)[1763:kworker/1:1][accel] obj->data:0009 ffffff50 ffffd9c5
+[  855.756325]  (1)[1763:kworker/1:1][accel] acc:ffffff50 0009 263b
+[  855.766532]  (1)[1763:kworker/1:1]ALS: 00392 => 00260
+[  855.766550]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  855.766558]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  855.821040]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  855.822112]  (1)[1763:kworker/1:1][accel] obj->data:ffffffed ffffff5a ffffd9a8
+[  855.822127]  (1)[1763:kworker/1:1][accel] acc:ffffff5a ffffffed 2658
+[  855.836412]  (1)[1763:kworker/1:1][name:mtk_ts_bts&][Power/BTS_Thermal] T_AP=44000
+[  855.886396]  (0)[1:init][name:battery_meter&][battery_meter_shutdown]
+[  855.886722]  (0)[1:init][name:vibrator_drv&]vib_shutdown: enter!
+[  855.886744]  (0)[1:init][name:leds_drv&]mt65xx_leds_shutdown
+[  855.886753]  (0)[1:init][name:leds_drv&]mt65xx_leds_shutdown: turn off backlight
+[  855.886762]  (0)[1:init][name:leds&][LED]PMIC#1:0
+[  855.886876]  (0)[1:init][name:leds&][LED]PMIC#2:0
+[  855.886965]  (0)[1:init][name:leds_drv&]backlight control through BLS!!1
+[  855.886981]  (0)[1:init][name:ddp_pwm&][PWM] (latest= 3):   397( 830, 119)  401( 830, 138)    0( 831, 877)
+[  855.886992]  (0)[1:init][name:ddp_pwm&][PWM] disp_pwm_set_backlight_cmdq(id = 0x1, level_1024 = 0), old = 401
+[  855.887016]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  855.887339]  (0)[1:init][name:musb_hdrc&][MUSB]musb_shutdown 1356: shut down
+[  855.887354] -(0)[1:init][name:usb20&][MUSB]mt_usb_disable 340: <1,1>,<2,3,2,1>
+[  855.888187] -(0)[1:init][name:usb20_phy&][MUSB]usb_phy_savecurrent 534: usb save current success
+[  855.888197] -(0)[1:init][name:usb20&][MUSB]mt_usb_disable 358: <2,3,2,2>
+[  855.888206] -(0)[1:init][name:usb20&][MUSB]vcore_release 189: musb lock fail, mtk_musb:ffffffc077fec308
+[  855.888645]  (0)[1:init][gps][name:gps&]Shutting down
+[  855.888657]  (0)[1:init][gps][name:gps&]Switching GPS device off
+[  855.888665]  (0)[1:init][name:gps&][gps]null pointer!!
+[  855.888769]  (0)[1:init][name:mtkfb&]DISP/MTKFB [FB Driver] mtkfb_shutdown()
+[  855.888993]  (1)[1763:kworker/1:1][accel] obj->data:ffffffed ffffff46 ffffd99e
+[  855.889007]  (1)[1763:kworker/1:1][accel] acc:ffffff46 ffffffed 2662
+[  855.889366]  (2)[2000:kworker/u8:0][VcoreFS] [name:mt_vcore_dvfs_1&]feature_en: 1(6), recover_en: 1, kicker: 4, new_opp: -1(0)
+[  855.889383]  (2)[2000:kworker/u8:0][VcoreFS] [name:mt_vcore_dvfs_1&][-1, -1, 0, -1, -1, -1]
+[  855.889395]  (2)[2000:kworker/u8:0][VcoreFS] [name:mt_vcore_dvfs_1&]kicker: 4, opp: 0, curr_opp: 0(0)
+[  855.889413]  (2)[2000:kworker/u8:0][VcoreFS] [name:mt_vcore_dvfs_1&]opp: 0, vcore: 1150000(1150000) 
+[  855.889426]  (2)[2000:kworker/u8:0][name:usb20&][MUSB]vcore_workqueue 175: workqueue release VCORE ok
+[  855.902740]  (1)[109:display_idle_de][name:primary_display&][LP] end: 71, flag:0,0
+[  855.936234]  (0)[1:init][name:mtkfb&]DISP/MTKFB [FB Driver] cci400_sel_for_ddp
+[  855.941696] [name:aed&]AEE_MONITOR_SET[status]: 0x1
+[  855.953016]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  855.954149]  (1)[1763:kworker/1:1][accel] obj->data:fffffff7 ffffff46 ffffda1d
+[  855.954184]  (1)[1763:kworker/1:1][accel] acc:ffffff46 fffffff7 25e3
+[  856.018225]  (1)[1763:kworker/1:1]ALS: 00422 => 00260
+[  856.018242]  (1)[1763:kworker/1:1][ALS/PS] [als_get_data]:*value = 260
+[  856.018250]  (1)[1763:kworker/1:1]<ALS/PS>  als data[260]
+[  856.022708]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  856.023802]  (1)[1763:kworker/1:1][accel] obj->data:ffffffd9 ffffff50 ffffd9f6
+[  856.023819]  (1)[1763:kworker/1:1][accel] acc:ffffff50 ffffffd9 260a
+[  856.085961]  (1)[1763:kworker/1:1][accel] n2dm_get_data (1298),  
+[  856.087712]  (1)[1763:kworker/1:1][accel] obj->data:ffffffed ffffff3c ffffd9b1
+[  856.087730]  (1)[1763:kworker/1:1][accel] acc:ffffff3c ffffffed 264f
+[  856.106362]  (0)[1:init][name:ddp_pwm&][PWM] ddp_pwm_power_off: 11
+[  856.106362] 
+[  856.111453]  (0)[1:init][MMDVFS][name:mmdvfs_mgr&][pid=1]Set vol scen:17,step:0,final:0(0x0),CMD(0,0,0x0),INFO(0,0)
+[  856.111471]  (0)[1:init][VcoreFS] [name:mt_vcore_dvfs_1&]feature_en: 1(0), recover_en: 1, kicker: 1, new_opp: -1(-1)
+[  856.111481]  (0)[1:init][VcoreFS] [name:mt_vcore_dvfs_1&]*** VCORE DVFS OPP NO CHANGE (0x0) ***
+[  856.111559]  (0)[1:init][name:mtkfb&]DISP/MTKFB [FB Driver] leave mtkfb_shutdown
+[  856.111585]  (0)[1:init][name:jpeg_driver&]JPEG Codec shutdown
+[  856.111728]  (0)[1:init][name:mt_pwm&]pwm  1789: mt_pwm_shutdown
+[  856.111769]  (0)[1:init][name:mt_auxadc&]******** MT auxadc driver shutdown!! ********
+[  856.111800]  (0)[1:init][name:mtk_wdt&]******** MTK WDT driver shutdown!! ********
+[  856.111980]  (0)[1:init][name:mtk_wdt&]******** MTK WDT driver shutdown done ********
+[  856.112131]  (0)[1:init][name:reboot&]reboot: Restarting system with command ''
+[  856.112152] -(0)[1:init][name:process&]machine_restart, arm_pm_restart(          (null))
+[  856.112162] -(0)[1:init][name:wd_api&]ARCH_RESET happen!!!
+[  856.112170] -(0)[1:init][name:wd_api&]arch_reset: cmd = 
+[  856.112181] -(0)[1:init]CPU: 0 PID: 1 Comm: init Tainted: G        W      3.18.19+ #1
+[  856.112188] -(0)[1:init]Hardware name: MT6737T (DT)
+[  856.112196] -(0)[1:init][name:traps&]Call trace:
+[  856.112211] -(0)[1:init][<ffffffc00008ae40>] dump_backtrace+0x0/0x190
+[  856.112221] -(0)[1:init][<ffffffc00008b0d4>] show_stack+0x10/0x1c
+[  856.112232] -(0)[1:init][<ffffffc000c049e0>] dump_stack+0x74/0xb8
+[  856.112243] -(0)[1:init][<ffffffc0008ee168>] arch_reset+0x64/0x174
+[  856.112252] -(0)[1:init][<ffffffc0008ee2d0>] mtk_arch_reset_handle+0x58/0xf4
+[  856.112263] -(0)[1:init][<ffffffc0000c17b8>] notifier_call_chain+0x68/0x11c
+[  856.112272] -(0)[1:init][<ffffffc0000c19e4>] __atomic_notifier_call_chain+0x6c/0xa4
+[  856.112282] -(0)[1:init][<ffffffc0000c1a2c>] atomic_notifier_call_chain+0x10/0x1c
+[  856.112292] -(0)[1:init][<ffffffc0000c2e00>] do_kernel_restart+0x20/0x2c
+[  856.112301] -(0)[1:init][<ffffffc0000871e8>] machine_restart+0x8c/0xbc
+[  856.112311] -(0)[1:init][<ffffffc0000c2f0c>] kernel_restart+0x64/0x100
+[  856.112320] -(0)[1:init][<ffffffc0000c33a8>] SyS_reboot+0x1bc/0x210
+[  856.112330] -(0)[1:init][name:mtk_wdt&]wdt_arch_reset called@Kernel mode =
+[  856.112449] -(0)[1:init][name:mtk_wdt&]wdt_arch_reset called MTK_WDT_MODE =5d
+[  856.112458] -(0)[1:init][name:mtk_wdt&]wdt_arch_reset called end MTK_WDT_MODE =22000014
+[  856.112566] -(0)[1:init][name:mtk_wdt&]wdt_arch_reset: SW_reset happen
+[  856.112574] -(0)[1:init][name:mtk_wdt&]****************dump wdt reg start*************
+[  856.112581] -(0)[1:init][name:mtk_wdt&]MTK_WDT_MODE:0x14
+[  856.112589] -(0)[1:init][name:mtk_wdt&]MTK_WDT_LENGTH:0xf000
+[  856.112598] -(0)[1:init][name:mtk_wdt&]MTK_WDT_RESTART:0x0
+[  856.112606] -(0)[1:init][name:mtk_wdt&]MTK_WDT_STATUS:0x40000000
+[  856.112613] -(0)[1:init][name:mtk_wdt&]MTK_WDT_INTERVAL:0xffe
+[  856.112621] -(0)[1:init][name:mtk_wdt&]MTK_WDT_SWRST:0x0
+================ END of FILE ===============
+

@@ -1,0 +1,4 @@
+<< /proc/cmdline >>:
+console=tty0 console=ttyMT0,921600n1 root=/dev/ram vmalloc=496M androidboot.hardware=mt6735 slub_max_order=0 slub_debug=O mrdump.lk=MRDUMP04 bootopt=64S3,32N2,64N2 lcm=1-hx8394f_hd720_dsi_vdo_boe fps=5472 vram=13172736 printk.disable_uart=0 ddebug_query="file *mediatek* +p ; file *gpu* =_" bootprof.pl_t=4076 bootprof.lk_t=3049 boot_reason=4 androidboot.serialno=111111111111111 androidboot.isn=MT01234567890 androidboot.config.idcode=XX androidboot.config.versatility= androidboot.config.CID=ASUS androidboot.config.revenuecountry=WW androidboot.config.debug_state=1 androidboot.bootreason=wdt_by_pass_pwk initcall_debug=1 androidboot.fptype=silead
+================ END of FILE ===============
+
