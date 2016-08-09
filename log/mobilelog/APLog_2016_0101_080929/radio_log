@@ -1,0 +1,1374 @@
+----- timezone:GMT
+01-01 08:00:17.586480   278   278 I         : [terserver] service not enabled. exit.
+01-01 08:00:17.664803   274   274 I ViatelUtils: ro.crypto.state=
+01-01 08:00:17.664849   274   274 I ViatelUtils: auto encrypt & decrypt
+01-01 08:00:17.664875   274   274 D ViatelUtils: waiting vold.decrypt=trigger_restart_framework
+01-01 08:00:33.858011  1120  1120 E RILC    : RIL_registerSocket: RIL version 10
+01-01 08:00:33.858298  1120  1120 E RILC    : finish RIL_registerSocket
+01-01 08:00:34.032896  1120  1133 E RILC    : Send Response to rild-mal
+01-01 08:00:34.134794  1120  1133 E RILC    : Send Response to rild-mal
+01-01 08:00:34.236730  1120  1133 E RILC    : Send Response to rild-mal
+01-01 08:00:34.338722  1120  1133 E RILC    : Send Response to rild-mal
+01-01 08:00:34.440560  1120  1133 E RILC    : Send Response to rild-mal
+01-01 08:00:34.542006  1120  1133 E RILC    : Send Response to rild-mal
+01-01 08:00:34.643417  1120  1133 E RILC    : Send Response to rild-mal
+01-01 08:00:34.744938  1120  1133 E RILC    : Send Response to rild-mal
+01-01 08:00:34.846499  1120  1133 E RILC    : Send Response to rild-mal
+01-01 08:00:34.947759  1120  1133 E RILC    : Send Response to rild-mal
+01-01 08:00:35.049340  1120  1133 E RILC    : Send Response to rild-mal
+01-01 08:00:35.150750  1120  1133 E RILC    : Send Response to rild-mal
+01-01 08:00:35.252070  1120  1133 E RILC    : Send Response to rild-mal
+01-01 08:00:35.698377  1120  1142 E RIL     : [VSIM] requestSwitchExternalSim Done
+01-01 08:00:36.767045  1120  1142 E RIL     : ERROR read fail -1
+01-01 08:00:36.774930  1120  1146 E RIL     : Unhandled unsolicited result code: +ECUSD: 1
+01-01 08:00:37.126995  1120  1142 E RIL     : [VSIM] requestSwitchExternalSim Done
+01-01 08:00:38.183829  1120  1146 E RIL     : There is no card type!!!
+01-01 08:00:38.214746  1120  1152 E RIL     : There is no card type!!!
+01-01 08:00:38.230645  1530  1530 E C2K_RILC: RIL_register: RIL version 10
+01-01 08:00:38.238371  1120  1142 E RIL     : bootupGetIccid[0] fail and write default string
+01-01 08:00:38.301391  1120  1142 E RIL     : bootupGetBasebandVersion[0]
+01-01 08:00:38.301447  1120  1142 E RIL     : bootupGetProjectAndMdInfo[0]
+01-01 08:00:38.311715  1120  1142 E RIL     : bootupGetIccid[1] fail and write default string
+01-01 08:00:38.321077  1120  1142 E RIL     : bootupGetBasebandVersion[1]
+01-01 08:00:38.321130  1120  1142 E RIL     : bootupGetProjectAndMdInfo[1]
+01-01 08:00:38.346073  1120  1142 E RIL     : ERROR read fail -1
+01-01 08:00:38.347758  1120  1152 E RIL     : Unhandled unsolicited result code: +ECUSD: 1
+01-01 08:00:38.354318  1120  1133 E RILC    : Send Response to rild-mal
+01-01 08:00:38.357710  1120  1133 E RILC    : Send Response to rild-mal
+01-01 08:00:38.370571   880   977 E RPC     : librpc.so suffix Version-temp
+01-01 08:00:38.504158  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:43.371209   880   977 E RPC     : vendor/mediatek/proprietary/external/gps/librpc/clnt.c clnt_call 396
+01-01 08:00:43.371291   880   977 E RPC     : vendor/mediatek/proprietary/external/gps/librpc/clnt.c clnt_call 431
+01-01 08:00:43.371349   880   977 E RPC     : clnt_call before wait +++++
+01-01 08:00:43.386629   880   977 E RPC     : clnt_call after wait -----
+01-01 08:00:43.386709   880   977 E RPC     : vendor/mediatek/proprietary/external/gps/librpc/clnt.c clnt_call 519
+01-01 08:00:43.387007   880   977 E RPC     : vendor/mediatek/proprietary/external/gps/librpc/clnt.c clnt_call 396
+01-01 08:00:43.387061   880   977 E RPC     : vendor/mediatek/proprietary/external/gps/librpc/clnt.c clnt_call 431
+01-01 08:00:43.387118   880   977 E RPC     : clnt_call before wait +++++
+01-01 08:00:43.388017   880   977 E RPC     : clnt_call after wait -----
+01-01 08:00:43.388067   880   977 E RPC     : vendor/mediatek/proprietary/external/gps/librpc/clnt.c clnt_call 519
+01-01 08:01:13.069278  1456  1456 E SmsApplication: com.mediatek.datatransfer does not have system signature
+01-01 08:01:13.069354  1456  1456 E SmsApplication: com.mediatek.apst.target does not have system signature
+01-01 08:01:13.069381  1456  1456 E SmsApplication: com.mediatek.ppl does not have system signature
+01-01 08:01:13.069407  1456  1456 E SmsApplication: com.mediatek.backuprestore does not have system signature
+01-01 08:01:13.069433  1456  1456 E SmsApplication: com.mediatek.rcs.messageservice does not have system signature
+01-01 08:01:13.069459  1456  1456 E SmsApplication: com.mediatek.esntrack does not have system signature
+01-01 08:01:13.071646  1456  1456 E SmsApplication: com.mediatek.datatransfer does not have system signature
+01-01 08:01:13.071717  1456  1456 E SmsApplication: com.mediatek.apst.target does not have system signature
+01-01 08:01:13.071744  1456  1456 E SmsApplication: com.mediatek.ppl does not have system signature
+01-01 08:01:13.071769  1456  1456 E SmsApplication: com.mediatek.backuprestore does not have system signature
+01-01 08:01:13.071796  1456  1456 E SmsApplication: com.mediatek.rcs.messageservice does not have system signature
+01-01 08:01:13.071824  1456  1456 E SmsApplication: com.mediatek.esntrack does not have system signature
+01-01 08:01:13.077264  1456  1456 E CarrierConfigManager: Error getting config for subId -1: java.lang.NullPointerException: Attempt to invoke interface method 'android.os.PersistableBundle com.android.internal.telephony.ICarrierConfigLoader.getConfigForSubId(int)' on a null object reference
+01-01 08:01:13.083662  1456  1456 E SmsApplication: com.mediatek.datatransfer does not have system signature
+01-01 08:01:13.083858  1456  1456 E SmsApplication: com.mediatek.apst.target does not have system signature
+01-01 08:01:13.083893  1456  1456 E SmsApplication: com.mediatek.ppl does not have system signature
+01-01 08:01:13.083922  1456  1456 E SmsApplication: com.mediatek.backuprestore does not have system signature
+01-01 08:01:13.083948  1456  1456 E SmsApplication: com.mediatek.rcs.messageservice does not have system signature
+01-01 08:01:13.083975  1456  1456 E SmsApplication: com.mediatek.esntrack does not have system signature
+01-01 08:00:00.486696  1120  1142 E         : Send Response to rild-ims
+01-01 08:00:00.486809  1120  1142 E         : Send Response to rild-ims
+01-01 08:00:00.486848  1120  1142 E         : Send Response to rild-ims
+01-01 08:00:01.135219  2196  2196 E CarrierConfigManager: Error getting config for subId -1: java.lang.NullPointerException: Attempt to invoke interface method 'android.os.PersistableBundle com.android.internal.telephony.ICarrierConfigLoader.getConfigForSubId(int)' on a null object reference
+01-01 08:00:01.144645  2196  2196 E CarrierConfigManager: Error getting config for subId -1: java.lang.NullPointerException: Attempt to invoke interface method 'android.os.PersistableBundle com.android.internal.telephony.ICarrierConfigLoader.getConfigForSubId(int)' on a null object reference
+01-01 08:00:01.160296  1120  1131 E RILC    : Send Response to rild-mal
+01-01 08:00:01.162915  1120  1131 E RILC    : Send Response to rild-mal
+01-01 08:00:01.164771  1120  1131 E RILC    : Send Response to rild-mal
+01-01 08:00:01.167966  1120  1131 E RILC    : Send Response to rild-mal
+01-01 08:00:01.817455  1120  1146 E RIL     : Unhandled unsolicited result code: +EIMSIFVER:AP:51,MD:50
+01-01 08:00:03.519297  2356  2356 E SmsManager: FAIL! intial mOnlyOwnerSimSupport
+01-01 08:00:04.373241  1120  1142 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:04.373371  1120  1142 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:04.374029  1120  1142 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:04.374115  1120  1142 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:04.374158  1120  1142 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:04.376617  1120  1139 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:04.377150  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:04.378371  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:04.384595  1120  1152 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:04.386356  1120  1138 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:04.387104  1120  1152 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:04.387201  1120  1152 E         : Send Response to rild-ims
+01-01 08:00:04.387254  1120  1152 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:04.394112  1120  1137 E RIL     : Recevice an invalid value from modem for <rxlevel>
+01-01 08:00:04.394181  1120  1137 E RIL     : updateSignalStrength ERROR: -1
+01-01 08:00:04.396108  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:04.469181  1120  1142 E RILC    : Send Response to rild-mal
+01-01 08:00:04.469261  1120  1142 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:04.469325  1120  1142 E RILC    : Send Response to rild-mal
+01-01 08:00:04.469354  1120  1142 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:04.469900  1120  1142 E RILC    : Send Response to rild-mal
+01-01 08:00:04.469952  1120  1142 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:04.470004  1120  1142 E RILC    : Send Response to rild-mal
+01-01 08:00:04.470037  1120  1142 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:04.470075  1120  1142 E RILC    : Send Response to rild-mal
+01-01 08:00:04.470108  1120  1142 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:04.472275  1120  1133 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:04.474433  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:04.475115  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:04.481643  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:00:04.481715  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:04.483774  1120  1132 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:04.484659  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:00:04.484724  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:04.484781  1120  1146 E         : Send Response to rild-ims
+01-01 08:00:04.484836  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:00:04.485231  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:04.488743  1120  1131 E RIL     : Recevice an invalid value from modem for <rxlevel>
+01-01 08:00:04.488809  1120  1131 E RIL     : updateSignalStrength ERROR: -1
+01-01 08:00:04.492206  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:04.494852  1120  1134 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:04.614626  2181  2181 E RIL_ImsSms: getFormat should never be called from here!
+01-01 08:00:04.677397  2181  2181 E WAP PUSH: bindService() for wappush manager failed
+01-01 08:00:04.687571  2181  2181 E WAP PUSH: bindService() for wappush manager failed
+01-01 08:00:04.712224  2181  2181 E IccCardProxy: setExternalState: set mPhoneId=0 mExternalState=NOT_READY (slot 0)
+01-01 08:00:04.719450  2181  2181 E IccCardProxy: setExternalState: !override and newstate unchanged from NOT_READY (slot 0)
+01-01 08:00:04.733332  2181  2181 E RIL_ImsSms: getFormat should never be called from here!
+01-01 08:00:04.741908  2181  2181 E WAP PUSH: bindService() for wappush manager failed
+01-01 08:00:04.750322  2181  2181 E WAP PUSH: bindService() for wappush manager failed
+01-01 08:00:04.887902  1120  1140 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:04.937904  2181  2181 E RIL_ImsSms: getFormat should never be called from here!
+01-01 08:00:04.945432  2181  2181 E WAP PUSH: bindService() for wappush manager failed
+01-01 08:00:04.954449  2181  2181 E WAP PUSH: bindService() for wappush manager failed
+01-01 08:00:04.966398  2181  2181 E IccCardProxy: setExternalState: set mPhoneId=1 mExternalState=NOT_READY (slot 1)
+01-01 08:00:04.975594  2181  2181 E IccCardProxy: setExternalState: !override and newstate unchanged from NOT_READY (slot 1)
+01-01 08:00:04.982872  2181  2181 E RIL_ImsSms: getFormat should never be called from here!
+01-01 08:00:04.990514  2181  2181 E WAP PUSH: bindService() for wappush manager failed
+01-01 08:00:04.998883  2181  2181 E WAP PUSH: bindService() for wappush manager failed
+01-01 08:00:05.065951  1530  1535 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:05.066062  1530  1535 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:05.068670  1530  1535 E C2K_RILC: unsupported request code 2089 token 16 socket_id 0
+01-01 08:00:05.068738  1530  1535 E C2K_RILC: onRequestUnsupportComplete: unsupport token = 16
+01-01 08:00:05.068764  1530  1535 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:05.068890  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:05.069598  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:05.070571  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:05.107037  2181  2181 E SmsApplication: com.mediatek.datatransfer does not have system signature
+01-01 08:00:05.107220  2181  2181 E SmsApplication: com.mediatek.apst.target does not have system signature
+01-01 08:00:05.107368  2181  2181 E SmsApplication: com.mediatek.ppl does not have system signature
+01-01 08:00:05.107513  2181  2181 E SmsApplication: com.mediatek.backuprestore does not have system signature
+01-01 08:00:05.107775  2181  2181 E SmsApplication: com.mediatek.rcs.messageservice does not have system signature
+01-01 08:00:05.107988  2181  2181 E SmsApplication: com.mediatek.esntrack does not have system signature
+01-01 08:00:05.159107  2181  2668 E PHONE   : [ServiceState] setState deprecated use setVoiceRegState()
+01-01 08:00:05.159460  2181  2181 E CarrierConfigManager: Error getting config for subId -1: java.lang.NullPointerException: Attempt to invoke interface method 'android.os.PersistableBundle com.android.internal.telephony.ICarrierConfigLoader.getConfigForSubId(int)' on a null object reference
+01-01 08:00:05.161514  2181  2181 E CarrierConfigManager: Error getting config for subId -1: java.lang.NullPointerException: Attempt to invoke interface method 'android.os.PersistableBundle com.android.internal.telephony.ICarrierConfigLoader.getConfigForSubId(int)' on a null object reference
+01-01 08:00:05.163418  2181  2181 E CarrierConfigManager: Error getting config for subId -1: java.lang.NullPointerException: Attempt to invoke interface method 'android.os.PersistableBundle com.android.internal.telephony.ICarrierConfigLoader.getConfigForSubId(int)' on a null object reference
+01-01 08:00:05.164983  2181  2668 E CarrierConfigManager: Error getting config for subId -1: java.lang.NullPointerException: Attempt to invoke interface method 'android.os.PersistableBundle com.android.internal.telephony.ICarrierConfigLoader.getConfigForSubId(int)' on a null object reference
+01-01 08:00:05.179853  2181  2181 E CarrierConfigManager: Error getting config for subId -1: java.lang.NullPointerException: Attempt to invoke interface method 'android.os.PersistableBundle com.android.internal.telephony.ICarrierConfigLoader.getConfigForSubId(int)' on a null object reference
+01-01 08:00:05.199420  2181  2181 E CarrierConfigManager: Error getting config for subId -1: java.lang.NullPointerException: Attempt to invoke interface method 'android.os.PersistableBundle com.android.internal.telephony.ICarrierConfigLoader.getConfigForSubId(int)' on a null object reference
+01-01 08:00:05.390652  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:05.402633  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:05.424836  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:05.426652  1120  1132 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:05.463431  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:05.464170  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:05.465676  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:05.470077  1120  1133 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:05.470917  2181  2181 E PHONE   : [ServiceState] setState deprecated use setVoiceRegState()
+01-01 08:00:05.471385  1120  1134 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:05.473088  2181  2181 E IccCardProxy: setExternalState: !override and newstate unchanged from NOT_READY (slot 0)
+01-01 08:00:05.473350  2181  2181 E IccCardProxy: setExternalState: !override and newstate unchanged from NOT_READY (slot 0)
+01-01 08:00:05.473963  2181  2181 E IccCardProxy: setExternalState: !override and newstate unchanged from NOT_READY (slot 0)
+01-01 08:00:05.474922  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:05.475079  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:05.475136  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:05.475182  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:05.486187  2181  2181 E IRATCtrl: [0] handleMessage with unknow message: 104
+01-01 08:00:05.523285  1120  1138 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:05.555552  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:05.558314  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:05.558417  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:05.565758  1120  1139 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:05.565894  1120  1140 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:05.568042  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:05.568237  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:05.568302  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:05.568346  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:05.601876  2181  2181 E IccCardProxy: setExternalState: !override and newstate unchanged from NOT_READY (slot 1)
+01-01 08:00:05.605059  2181  2181 E IccCardProxy: setExternalState: !override and newstate unchanged from NOT_READY (slot 1)
+01-01 08:00:05.607215  2181  2181 E IRATCtrl: [1] handleMessage with unknow message: 104
+01-01 08:00:05.697916  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:05.697975  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:05.697999  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:05.707944  1120  1138 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:05.708063  1120  1132 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:05.712734  1530  1535 E C2K_RILC: unsupported request code 2061 token 52 socket_id 0
+01-01 08:00:05.712808  1530  1535 E C2K_RILC: onRequestUnsupportComplete: unsupport token = 52
+01-01 08:00:05.712831  1530  1535 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:05.713978  1530  1538 E C2K_RIL : Unhandled unsolicited result code: ^SIMST:255
+01-01 08:00:05.714364  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:05.716466  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:05.716913  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:05.717454  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:05.718546  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:05.718673  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:05.718707  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:05.718732  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:05.719677  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:05.719741  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:05.719767  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:05.720869  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:05.721015  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:05.721049  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:05.721074  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:05.722870  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:05.722944  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:05.722971  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:05.724664  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:05.724733  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:05.724760  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:05.726174  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:05.726244  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:05.726270  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:05.727701  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:05.727838  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:05.727876  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:05.727925  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:05.727982  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:05.728010  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:05.728035  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:05.729231  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:05.774956  2181  2181 E PhoneBase: Error! This function should never be executed, inactive CDMAPhone.
+01-01 08:00:05.842803  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:05.855088  2181  2181 E IccCardProxy: setExternalState: !override and newstate unchanged from NOT_READY (slot 0)
+01-01 08:00:05.858081  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:06.087774  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult cancelPollState due to RADIO_NOT_AVAILABLE
+01-01 08:00:06.087855  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:06.087898  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:06.088401  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:06.132559  2181  2181 E GsmSST  : [GsmSST1] handlePollStateResult cancelPollState due to RADIO_NOT_AVAILABLE
+01-01 08:00:06.132631  2181  2181 E GsmSST  : [GsmSST1] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:06.132672  2181  2181 E GsmSST  : [GsmSST1] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:06.132853  2181  2181 E GsmSST  : [GsmSST1] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:06.181958  1120  1133 E RIL     : IA: defineAttachApnIfIACacheExisted empty IA property
+01-01 08:00:06.197901  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:06.198034  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:06.198081  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:06.198118  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:06.198184  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:06.198214  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:06.198240  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:06.199504  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:06.199568  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:06.199592  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:06.200763  1530  1538 E C2K_RIL : Unhandled unsolicited result code: OK
+01-01 08:00:06.273935  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:00:06.274006  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.274161  1120  1146 E RIL     : Unhandled unsolicited result code: ^MODE:0,0
+01-01 08:00:06.294992  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:00:06.295057  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.295270  1120  1133 E RILC    : Send Response to rild-mal
+01-01 08:00:06.295314  1120  1133 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.295382  1120  1133 E         : Send Response to rild-ims
+01-01 08:00:06.295450  1120  1133 E RILC    : Send Response to rild-mal
+01-01 08:00:06.295489  1120  1133 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.295733  1120  1146 E RIL     : Unhandled unsolicited result code: ^MODE:0,0
+01-01 08:00:06.297153  1120  1133 E RILC    : Send Response to rild-mal
+01-01 08:00:06.297239  1120  1133 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.297327  1120  1133 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.302023  1120  1133 E RIL     : IA: defineAttachApnIfIACacheExisted empty IA property
+01-01 08:00:06.311035  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:06.312013  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:06.329616  1120  1133 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.356518  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:06.356982  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:06.357035  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:06.357059  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:06.358273  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:06.358385  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:06.358419  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:06.358443  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:06.358825  1530  1534 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:06.359522  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:06.359597  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:06.360179  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:06.360226  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:06.360251  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:06.361006  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:06.361093  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:06.361123  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:06.361157  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:06.362106  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:06.362198  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:06.362534  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:06.368025  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.369067  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:00:06.369124  1120  1131 E RIL     : rid: 0
+01-01 08:00:06.369166  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.371146  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:00:06.371206  1120  1131 E RIL     : rid: 0
+01-01 08:00:06.371253  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.373158  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.377568  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.378883  1120  1133 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.379492  1120  1132 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.380494  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:00:06.380567  1120  1131 E RIL     : rid: 0
+01-01 08:00:06.380617  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.380798  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:06.381119  1120  1132 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.381540  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:06.381589  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:06.381650  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:06.382733  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:06.382829  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:06.382865  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:06.382889  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:06.383455  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:00:06.383514  1120  1131 E RIL     : rid: 0
+01-01 08:00:06.383568  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.384011  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:06.385044  2181  2181 E RIL_ImsSms: IMS State query failed with exp com.android.internal.telephony.CommandException: REQUEST_NOT_SUPPORTED
+01-01 08:00:06.385134  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:06.385177  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:06.385219  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:06.385264  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:06.385306  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:06.385657  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:06.389467  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.393425  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.395465  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:00:06.395524  1120  1131 E RIL     : rid: 0
+01-01 08:00:06.395570  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.397404  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:00:06.397452  1120  1131 E RIL     : rid: 0
+01-01 08:00:06.397501  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.399417  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.400448  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:06.406383  2181  2181 E PHONE   : [ServiceState] setState deprecated use setVoiceRegState()
+01-01 08:00:06.406995  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:06.433683  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:06.434167  2181  2181 E PHONE   : [ServiceState] setState deprecated use setVoiceRegState()
+01-01 08:00:07.317576  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:07.318142  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:07.318255  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:07.323498  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:07.324084  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:07.324133  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:07.324158  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:07.325678  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:07.325766  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:07.325795  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:07.325820  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:07.326047  2181  2181 E PHONE   : [ServiceState] setState deprecated use setVoiceRegState()
+01-01 08:00:07.326848  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:07.608124  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:07.609071  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:07.609166  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:07.609238  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:07.651877  2181  2181 E SmsApplication: com.mediatek.datatransfer does not have system signature
+01-01 08:00:07.652135  2181  2181 E SmsApplication: com.mediatek.apst.target does not have system signature
+01-01 08:00:07.652314  2181  2181 E SmsApplication: com.mediatek.ppl does not have system signature
+01-01 08:00:07.652474  2181  2181 E SmsApplication: com.mediatek.backuprestore does not have system signature
+01-01 08:00:07.652633  2181  2181 E SmsApplication: com.mediatek.rcs.messageservice does not have system signature
+01-01 08:00:07.652785  2181  2181 E SmsApplication: com.mediatek.esntrack does not have system signature
+01-01 08:00:07.671978  2181  2181 E SmsApplication: com.mediatek.datatransfer does not have system signature
+01-01 08:00:07.672191  2181  2181 E SmsApplication: com.mediatek.apst.target does not have system signature
+01-01 08:00:07.672366  2181  2181 E SmsApplication: com.mediatek.ppl does not have system signature
+01-01 08:00:07.672530  2181  2181 E SmsApplication: com.mediatek.backuprestore does not have system signature
+01-01 08:00:07.672692  2181  2181 E SmsApplication: com.mediatek.rcs.messageservice does not have system signature
+01-01 08:00:07.672865  2181  2181 E SmsApplication: com.mediatek.esntrack does not have system signature
+01-01 08:00:07.683241  2181  2181 E SmsApplication: com.mediatek.datatransfer does not have system signature
+01-01 08:00:07.683471  2181  2181 E SmsApplication: com.mediatek.apst.target does not have system signature
+01-01 08:00:07.683666  2181  2181 E SmsApplication: com.mediatek.ppl does not have system signature
+01-01 08:00:07.683838  2181  2181 E SmsApplication: com.mediatek.backuprestore does not have system signature
+01-01 08:00:07.684011  2181  2181 E SmsApplication: com.mediatek.rcs.messageservice does not have system signature
+01-01 08:00:07.684187  2181  2181 E SmsApplication: com.mediatek.esntrack does not have system signature
+01-01 08:00:07.695918  2181  2181 E SmsApplication: com.mediatek.datatransfer does not have system signature
+01-01 08:00:07.696114  2181  2181 E SmsApplication: com.mediatek.apst.target does not have system signature
+01-01 08:00:07.696283  2181  2181 E SmsApplication: com.mediatek.ppl does not have system signature
+01-01 08:00:07.696445  2181  2181 E SmsApplication: com.mediatek.backuprestore does not have system signature
+01-01 08:00:07.696608  2181  2181 E SmsApplication: com.mediatek.rcs.messageservice does not have system signature
+01-01 08:00:07.696765  2181  2181 E SmsApplication: com.mediatek.esntrack does not have system signature
+01-01 08:00:07.708984  2181  2181 E SmsApplication: com.mediatek.datatransfer does not have system signature
+01-01 08:00:07.709524  2181  2181 E SmsApplication: com.mediatek.apst.target does not have system signature
+01-01 08:00:07.709990  2181  2181 E SmsApplication: com.mediatek.ppl does not have system signature
+01-01 08:00:07.710782  2181  2181 E SmsApplication: com.mediatek.backuprestore does not have system signature
+01-01 08:00:07.711116  2181  2181 E SmsApplication: com.mediatek.rcs.messageservice does not have system signature
+01-01 08:00:07.711470  2181  2181 E SmsApplication: com.mediatek.esntrack does not have system signature
+01-01 08:00:07.730111  2181  2181 E SmsApplication: com.mediatek.datatransfer does not have system signature
+01-01 08:00:07.730351  2181  2181 E SmsApplication: com.mediatek.apst.target does not have system signature
+01-01 08:00:07.730531  2181  2181 E SmsApplication: com.mediatek.ppl does not have system signature
+01-01 08:00:07.730705  2181  2181 E SmsApplication: com.mediatek.backuprestore does not have system signature
+01-01 08:00:07.730876  2181  2181 E SmsApplication: com.mediatek.rcs.messageservice does not have system signature
+01-01 08:00:07.731047  2181  2181 E SmsApplication: com.mediatek.esntrack does not have system signature
+01-01 08:00:07.752993  2181  2181 E SmsApplication: com.mediatek.datatransfer does not have system signature
+01-01 08:00:07.753272  2181  2181 E SmsApplication: com.mediatek.apst.target does not have system signature
+01-01 08:00:07.753471  2181  2181 E SmsApplication: com.mediatek.ppl does not have system signature
+01-01 08:00:07.753651  2181  2181 E SmsApplication: com.mediatek.backuprestore does not have system signature
+01-01 08:00:07.753853  2181  2181 E SmsApplication: com.mediatek.rcs.messageservice does not have system signature
+01-01 08:00:07.754036  2181  2181 E SmsApplication: com.mediatek.esntrack does not have system signature
+01-01 08:00:07.758514  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:07.759486  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:07.759542  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:07.759567  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:07.761798  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:07.761891  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:07.761921  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:07.761948  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:07.763598  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:07.763692  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:07.763742  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:07.763772  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:07.763796  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:07.765002  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:07.765102  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:07.765134  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:07.765158  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:07.766872  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:07.778773  2181  2181 E PHONE   : [ServiceState] setState deprecated use setVoiceRegState()
+01-01 08:00:08.018364  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:08.020097  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:08.020760  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:08.020816  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:08.020866  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:08.022214  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:08.022310  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:08.022342  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:08.022376  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:08.022631  2181  2181 E PHONE   : [ServiceState] setState deprecated use setVoiceRegState()
+01-01 08:00:08.023505  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:08.354556  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:08.354656  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:08.354693  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:08.368553  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:08.375161  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:00:08.375245  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:08.375410  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:00:08.375467  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:08.375544  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:00:08.375593  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:08.375735  2181  2600 E RILJ    : Exception processing unsol response: 3009Exception:java.lang.RuntimeException: Unrecognized unsol response: 3009
+01-01 08:00:08.375739  1120  1146 E RIL     : Unhandled unsolicited result code: ^MODE:0,0
+01-01 08:00:08.383150  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:08.384625  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:08.386663  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:00:08.386731  1120  1131 E RIL     : rid: 0
+01-01 08:00:08.386789  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:08.387155  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:08.389123  1120  1133 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:08.389535  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:00:08.389616  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:08.389785  1120  1146 E RIL     : Unhandled unsolicited result code: ^MODE:0,0
+01-01 08:00:08.390416  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:00:08.390484  1120  1131 E RIL     : rid: 0
+01-01 08:00:08.390551  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:08.392369  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:08.396529  1120  1131 E RIL     : EOPS got invalid plmn response
+01-01 08:00:08.396619  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:08.399811  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:00:08.399890  1120  1131 E RIL     : rid: 0
+01-01 08:00:08.399950  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:08.402616  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:00:08.402693  1120  1131 E RIL     : rid: 0
+01-01 08:00:08.402762  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:08.404540  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:08.404647  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:08.404710  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:08.404772  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:08.404904  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:08.405141  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:08.406861  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:08.411853  1120  1131 E RIL     : EOPS got invalid plmn response
+01-01 08:00:08.411944  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:08.414462  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:00:08.414558  1120  1131 E RIL     : rid: 0
+01-01 08:00:08.414632  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:08.419297  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:00:08.419368  1120  1131 E RIL     : rid: 0
+01-01 08:00:08.419438  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:08.421110  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:08.477967  1120  1132 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:08.480534  1120  1138 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:08.482311  2181  2181 E PHONE   : [ServiceState] setState deprecated use setVoiceRegState()
+01-01 08:00:08.482985  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:08.483042  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:08.483071  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:08.516203  1120  1139 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:08.518445  2181  2181 E UiccCard: App index 8 is invalid since there are no applications (phoneId 1)
+01-01 08:00:08.518526  2181  2181 E UiccCard: App index 8 is invalid since there are no applications (phoneId 1)
+01-01 08:00:08.518556  2181  2181 E UiccCard: App index 8 is invalid since there are no applications (phoneId 1)
+01-01 08:00:08.520540  2181  2181 E IccCardProxy: setExternalState: set mPhoneId=1 mExternalState=ABSENT (slot 1)
+01-01 08:00:08.531418  2181  2181 E IccCardProxy: setExternalState: !override and newstate unchanged from ABSENT (slot 1)
+01-01 08:00:13.524099  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:13.524272  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:13.524474  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:13.524725  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:13.524752  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:13.525344  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:13.525458  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:13.525551  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:13.525600  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:13.527804  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:13.531498  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:13.532846  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:13.532942  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:13.532970  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:13.534742  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:13.534868  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:13.534902  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:13.534929  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:13.536474  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:13.546121  2181  2181 E PHONE   : [ServiceState] setState deprecated use setVoiceRegState()
+01-01 08:00:13.546678  1120  1133 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:13.789707  1120  1133 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:13.790439  2181  2181 E UiccCard: update, but appType: APPTYPE_UNKNOWN (phoneId 0)
+01-01 08:00:13.790658  2181  2181 E UiccCard: App index 8 is invalid since there are no applications (phoneId 0)
+01-01 08:00:13.795762  2181  2181 E IccCardProxy: setExternalState: set mPhoneId=0 mExternalState=ABSENT (slot 0)
+01-01 08:00:13.804161  2181  2181 E IccCardProxy: setExternalState: !override and newstate unchanged from ABSENT (slot 0)
+01-01 08:00:13.818171  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:13.822282  2181  2181 E UiccCard: update, but appType: APPTYPE_UNKNOWN (phoneId 0)
+01-01 08:00:13.822481  2181  2181 E UiccCard: App index 8 is invalid since there are no applications (phoneId 0)
+01-01 08:00:13.824248  2181  2181 E IccCardProxy: setExternalState: !override and newstate unchanged from ABSENT (slot 0)
+01-01 08:00:14.188627  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:14.189154  2181  2181 E UiccCard: update, but appType: APPTYPE_UNKNOWN (phoneId 0)
+01-01 08:00:14.189368  2181  2181 E UiccCard: App index 8 is invalid since there are no applications (phoneId 0)
+01-01 08:00:14.190402  2181  2181 E IccCardProxy: setExternalState: !override and newstate unchanged from ABSENT (slot 0)
+01-01 08:00:14.195136  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:14.195717  2181  2181 E UiccCard: update, but appType: APPTYPE_UNKNOWN (phoneId 0)
+01-01 08:00:14.195903  2181  2181 E UiccCard: App index 8 is invalid since there are no applications (phoneId 0)
+01-01 08:00:14.196833  2181  2181 E IccCardProxy: setExternalState: !override and newstate unchanged from ABSENT (slot 0)
+01-01 08:00:14.200841  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:14.201321  2181  2181 E UiccCard: update, but appType: APPTYPE_UNKNOWN (phoneId 0)
+01-01 08:00:14.201496  2181  2181 E UiccCard: App index 8 is invalid since there are no applications (phoneId 0)
+01-01 08:00:14.202420  2181  2181 E IccCardProxy: setExternalState: !override and newstate unchanged from ABSENT (slot 0)
+01-01 08:00:14.259980  3385  3385 E SmsManager: FAIL! intial mOnlyOwnerSimSupport
+01-01 08:00:14.414037  1120  1133 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:14.415151  2181  2181 E UiccCard: update, but appType: APPTYPE_UNKNOWN (phoneId 0)
+01-01 08:00:14.415716  2181  2181 E UiccCard: App index 8 is invalid since there are no applications (phoneId 0)
+01-01 08:00:14.416675  1120  1133 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:14.418460  2181  2181 E IccCardProxy: setExternalState: !override and newstate unchanged from ABSENT (slot 0)
+01-01 08:00:14.423353  2181  2181 E UiccCard: update, but appType: APPTYPE_UNKNOWN (phoneId 0)
+01-01 08:00:14.423859  2181  2181 E UiccCard: App index 8 is invalid since there are no applications (phoneId 0)
+01-01 08:00:14.426328  2181  2181 E IccCardProxy: setExternalState: !override and newstate unchanged from ABSENT (slot 0)
+01-01 08:00:14.450958  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:14.452007  2181  2181 E UiccCard: update, but appType: APPTYPE_UNKNOWN (phoneId 0)
+01-01 08:00:14.452581  2181  2181 E UiccCard: App index 8 is invalid since there are no applications (phoneId 0)
+01-01 08:00:14.455332  2181  2181 E IccCardProxy: setExternalState: !override and newstate unchanged from ABSENT (slot 0)
+01-01 08:00:15.581252  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:15.581311  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:15.581337  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:15.599210  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:15.600414  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:15.608755  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:15.608811  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:15.608835  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:15.610912  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:15.610975  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:15.611000  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:15.612831  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:15.612891  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:15.612915  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:15.614301  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:15.614369  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:15.614396  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:15.615450  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:15.615503  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:15.615529  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:15.617287  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:15.617338  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:15.617365  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:15.618885  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:15.862106  1530  1535 E C2K_RILC: unsupported request code 2061 token 133 socket_id 0
+01-01 08:00:15.862207  1530  1535 E C2K_RILC: onRequestUnsupportComplete: unsupport token = 133
+01-01 08:00:15.862242  1530  1535 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:15.937864  1530  1535 E C2K_RILC: unsupported request code 2061 token 134 socket_id 0
+01-01 08:00:15.937944  1530  1535 E C2K_RILC: onRequestUnsupportComplete: unsupport token = 134
+01-01 08:00:15.937972  1530  1535 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:19.008133  1530  1549 E C2K_RIL : readline: read error! line is 550
+01-01 08:00:19.008546  1530  1538 E C2K_RIL : readline: read error! line is 550
+01-01 08:00:19.008638  1530  1550 E C2K_RIL : readline: read error! line is 550
+01-01 08:00:19.682874  1530  1538 E C2K_RIL : readline: read error! line is 550
+01-01 08:00:19.682960  1530  1549 E C2K_RIL : readline: read error! line is 550
+01-01 08:00:19.683024  1530  1550 E C2K_RIL : readline: read error! line is 550
+01-01 08:00:21.604913  2181  2181 E SmsApplication: com.mediatek.datatransfer does not have system signature
+01-01 08:00:21.605299  2181  2181 E SmsApplication: com.mediatek.apst.target does not have system signature
+01-01 08:00:21.605589  2181  2181 E SmsApplication: com.mediatek.ppl does not have system signature
+01-01 08:00:21.605846  2181  2181 E SmsApplication: com.mediatek.backuprestore does not have system signature
+01-01 08:00:21.606105  2181  2181 E SmsApplication: com.mediatek.rcs.messageservice does not have system signature
+01-01 08:00:21.606359  2181  2181 E SmsApplication: com.mediatek.esntrack does not have system signature
+01-01 08:00:21.687626  2181  2181 E SmsApplication: com.mediatek.datatransfer does not have system signature
+01-01 08:00:21.688083  2181  2181 E SmsApplication: com.mediatek.apst.target does not have system signature
+01-01 08:00:21.688614  2181  2181 E SmsApplication: com.mediatek.ppl does not have system signature
+01-01 08:00:21.688992  2181  2181 E SmsApplication: com.mediatek.backuprestore does not have system signature
+01-01 08:00:21.689330  2181  2181 E SmsApplication: com.mediatek.rcs.messageservice does not have system signature
+01-01 08:00:21.689672  2181  2181 E SmsApplication: com.mediatek.esntrack does not have system signature
+01-01 08:00:21.746431  2181  2181 E SmsApplication: com.mediatek.datatransfer does not have system signature
+01-01 08:00:21.746867  2181  2181 E SmsApplication: com.mediatek.apst.target does not have system signature
+01-01 08:00:21.747227  2181  2181 E SmsApplication: com.mediatek.ppl does not have system signature
+01-01 08:00:21.747588  2181  2181 E SmsApplication: com.mediatek.backuprestore does not have system signature
+01-01 08:00:21.747924  2181  2181 E SmsApplication: com.mediatek.rcs.messageservice does not have system signature
+01-01 08:00:21.748547  2181  2181 E SmsApplication: com.mediatek.esntrack does not have system signature
+01-01 08:00:21.761403  1530  1550 E C2K_RIL : readline: read error! line is 550
+01-01 08:00:21.762917  1530  1549 E C2K_RIL : readline: read error! line is 550
+01-01 08:00:21.762984  1530  1538 E C2K_RIL : readline: read error! line is 550
+01-01 08:00:21.797120  2181  2181 E SmsApplication: com.mediatek.datatransfer does not have system signature
+01-01 08:00:21.797447  2181  2181 E SmsApplication: com.mediatek.apst.target does not have system signature
+01-01 08:00:21.797732  2181  2181 E SmsApplication: com.mediatek.ppl does not have system signature
+01-01 08:00:21.797991  2181  2181 E SmsApplication: com.mediatek.backuprestore does not have system signature
+01-01 08:00:21.798372  2181  2181 E SmsApplication: com.mediatek.rcs.messageservice does not have system signature
+01-01 08:00:21.798659  2181  2181 E SmsApplication: com.mediatek.esntrack does not have system signature
+01-01 08:00:21.849856  2181  2181 E SmsApplication: com.mediatek.datatransfer does not have system signature
+01-01 08:00:21.851355  2181  2181 E SmsApplication: com.mediatek.apst.target does not have system signature
+01-01 08:00:21.851811  2181  2181 E SmsApplication: com.mediatek.ppl does not have system signature
+01-01 08:00:21.852340  2181  2181 E SmsApplication: com.mediatek.backuprestore does not have system signature
+01-01 08:00:21.852646  2181  2181 E SmsApplication: com.mediatek.rcs.messageservice does not have system signature
+01-01 08:00:21.852903  2181  2181 E SmsApplication: com.mediatek.esntrack does not have system signature
+01-01 08:00:38.007553  1530  1538 E C2K_RIL : readline: read error! line is 550
+01-01 08:00:38.007565  1530  1550 E C2K_RIL : readline: read error! line is 550
+01-01 08:00:38.007633  1530  1549 E C2K_RIL : readline: read error! line is 550
+01-01 08:00:38.010186  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:00:38.010288  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:42.013915  1530  1549 E C2K_RIL : readline: read error! line is 550
+01-01 08:00:42.013967  1530  1550 E C2K_RIL : readline: read error! line is 550
+01-01 08:00:42.014031  1530  1538 E C2K_RIL : readline: read error! line is 550
+01-01 08:00:42.016151  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:00:42.016230  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:52.008933  1530  1549 E C2K_RIL : readline: read error! line is 550
+01-01 08:00:52.009043  1530  1538 E C2K_RIL : readline: read error! line is 550
+01-01 08:00:52.009124  1530  1550 E C2K_RIL : readline: read error! line is 550
+01-01 08:00:52.031333  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.031453  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:52.031484  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.041792  1120  1152 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:52.043409  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:00:52.043492  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:52.044391  1120  1152 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:52.044519  1120  1152 E         : Send Response to rild-ims
+01-01 08:00:52.044596  1120  1152 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:52.045756  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:00:52.045840  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:52.045915  1120  1146 E         : Send Response to rild-ims
+01-01 08:00:52.045994  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:00:52.046042  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:52.048277  2181  2224 E PHONE   : [ServiceState] setState deprecated use setVoiceRegState()
+01-01 08:00:52.059033  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.059119  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:52.059151  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.060657  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.060743  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:52.060776  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.061785  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.061854  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:52.061886  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.063123  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.063201  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:52.063231  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.064176  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.064247  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:52.064277  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.066959  1120  1137 E RIL     : Recevice an invalid value from modem for <rxlevel>
+01-01 08:00:52.066975  1120  1131 E RILC    : Send Response to rild-mal
+01-01 08:00:52.067057  1120  1137 E RIL     : updateSignalStrength ERROR: -1
+01-01 08:00:52.067074  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:52.067952  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.068023  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:52.068055  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.070766  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.071698  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.072550  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.073514  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.074775  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.075829  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.076069  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.076127  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:52.076158  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.077696  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:52.078181  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.078491  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.078571  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.078985  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:52.079153  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:52.079233  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:52.079295  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:52.083504  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:52.084081  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:52.084216  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:52.084281  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:00:52.088183  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:00:52.088258  1120  1131 E RIL     : rid: 0
+01-01 08:00:52.088317  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:52.097330  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:00:52.097420  1120  1131 E RIL     : rid: 0
+01-01 08:00:52.097493  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:52.100035  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.101139  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.101222  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:52.101253  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.102787  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.102988  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.103032  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:52.103063  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.106144  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.108226  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:52.110686  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:52.112590  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:52.115445  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.116196  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.116276  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:52.116307  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.117788  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.117929  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.117974  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:52.118004  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.119502  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.119634  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.121685  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.121766  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:52.121798  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.123487  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.123597  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.123634  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:52.123666  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.124886  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.125644  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.126702  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.126780  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:52.126811  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.128008  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.128140  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.128177  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:52.128207  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.129383  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.134381  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.135339  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.135410  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:52.135443  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.136525  2181  2181 E GsmSST  : [GsmSST1] handlePollStateResult cancelPollState due to RADIO_NOT_AVAILABLE
+01-01 08:00:52.136643  2181  2181 E GsmSST  : [GsmSST1] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:52.136826  2181  2181 E GsmSST  : [GsmSST1] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:52.136929  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.137024  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.137062  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:00:52.137093  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:00:52.138478  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:52.141309  2181  2181 E GsmSST  : [GsmSST1] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:00:52.141527  2181  2181 E RIL_ImsSms: IMS State query failed with exp com.android.internal.telephony.CommandException: RADIO_NOT_AVAILABLE
+01-01 08:00:52.141836  2181  2181 E PHONE   : [ServiceState] setState deprecated use setVoiceRegState()
+01-01 08:00:52.185009  2181  2181 E PHONE   : [ServiceState] setState deprecated use setVoiceRegState()
+01-01 08:00:52.468853  1530  1535 E C2K_RILC: unsupported request code 2061 token 166 socket_id 0
+01-01 08:00:52.468920  1530  1535 E C2K_RILC: onRequestUnsupportComplete: unsupport token = 166
+01-01 08:00:52.468945  1530  1535 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:00:54.149214  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:00:54.149398  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:00:59.269465  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:00:59.269574  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:01:04.389459  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:01:04.389667  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:01:09.509449  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:01:09.509530  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:01:13.406423  2181  2181 E SmsApplication: com.mediatek.datatransfer does not have system signature
+01-01 08:01:13.408889  2181  2181 E SmsApplication: com.mediatek.apst.target does not have system signature
+01-01 08:01:13.409947  2181  2181 E SmsApplication: com.mediatek.ppl does not have system signature
+01-01 08:01:13.411772  2181  2181 E SmsApplication: com.mediatek.backuprestore does not have system signature
+01-01 08:01:13.412486  2181  2181 E SmsApplication: com.mediatek.rcs.messageservice does not have system signature
+01-01 08:01:13.412928  2181  2181 E SmsApplication: com.mediatek.esntrack does not have system signature
+01-01 08:01:14.629679  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:01:14.629878  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:01:16.801730  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:01:19.749043  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:01:19.749114  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:01:24.869903  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:01:24.870009  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:01:27.093778  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:01:29.989757  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:01:29.989961  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:01:35.109214  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:01:35.109297  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:01:37.331566  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:01:40.229247  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:01:40.229331  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:01:45.349542  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:01:45.349755  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:01:50.469334  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:01:50.469424  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:01:51.975586  3793  3793 E SmsManager: FAIL! intial mOnlyOwnerSimSupport
+01-01 08:01:55.589666  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:01:55.589854  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:01:57.812414  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:02:00.709358  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:02:00.709448  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:02:05.829272  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:02:05.829383  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:02:10.949625  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:02:10.949747  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:02:16.069700  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:02:16.069839  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:02:21.189370  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:02:21.189469  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:02:23.357706  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:02:26.309387  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:02:26.309477  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:02:31.429396  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:02:31.429476  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:02:36.549687  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:02:36.549786  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:02:38.715404  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:02:41.669392  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:02:41.669465  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:02:46.791422  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:02:46.791576  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:02:50.635346  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:02:50.635453  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:02:55.749452  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:02:55.749547  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:03:00.869486  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:03:00.869552  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:03:05.989662  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:03:05.989738  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:03:11.110173  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:03:11.110405  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:03:16.229661  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:03:16.229741  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:03:19.729141  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:03:21.349830  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:03:21.349927  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:03:26.469656  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:03:26.469746  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:03:29.949074  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:03:31.589584  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:03:31.589654  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:03:35.147204  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:03:36.709700  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:03:36.709784  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:03:40.235161  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:03:41.830190  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:03:41.830284  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:03:45.330847  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:03:46.950001  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:03:46.950093  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:03:52.070096  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:03:52.070273  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:03:55.573251  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:03:57.190001  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:03:57.190097  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:04:02.309950  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:04:02.310925  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:04:07.430005  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:04:07.430089  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:04:10.926126  4412  4412 E SmsManager: FAIL! intial mOnlyOwnerSimSupport
+01-01 08:04:12.549817  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:04:12.549893  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:04:17.670155  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:04:17.670256  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:04:21.173831  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:04:22.790145  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:04:22.790502  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:04:27.909924  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:04:27.910024  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:04:31.413211  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:04:33.030078  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:04:33.030173  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:04:38.150036  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:04:38.150130  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:04:41.652684  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:04:43.270761  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:04:43.270862  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:04:48.389938  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:04:48.390011  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:04:53.509994  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:04:53.510073  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:04:56.984475  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:04:58.630267  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:04:58.630354  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:05:02.204452  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:05:03.750474  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:05:03.750659  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:05:08.870468  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:05:08.870664  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:05:13.990640  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:05:13.990838  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:05:19.112249  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:05:19.112436  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:05:22.616684  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:05:24.230588  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:05:24.231796  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:05:29.352551  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:05:29.352746  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:05:32.850139  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:05:34.470559  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:05:34.470755  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:05:39.590569  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:05:39.590759  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:05:44.710570  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:05:44.710751  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:05:46.057962  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:05:46.058159  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:05:49.830601  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:05:49.830792  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:05:53.338552  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:05:54.950809  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:05:54.951001  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:06:00.070254  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:06:00.070323  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:06:01.066466  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:06:01.066521  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:06:01.066545  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:06:01.085363  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:06:01.085424  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:06:01.085448  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:06:01.086357  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:06:01.086395  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:06:01.086419  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:06:01.087440  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:06:01.087482  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:06:01.087507  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:06:01.087901  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:06:01.089242  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:06:01.089297  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:06:01.089321  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:06:01.090397  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:06:01.090433  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:06:01.090457  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:06:01.091426  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:06:01.091462  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:06:01.091486  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:06:01.092269  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:06:01.100970  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:06:01.358747  1530  1535 E C2K_RILC: unsupported request code 2061 token 171 socket_id 0
+01-01 08:06:01.358829  1530  1535 E C2K_RILC: onRequestUnsupportComplete: unsupport token = 171
+01-01 08:06:01.358858  1530  1535 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:06:06.007601  1530  1549 E C2K_RIL : readline: read error! line is 550
+01-01 08:06:06.008756  1530  1538 E C2K_RIL : readline: read error! line is 550
+01-01 08:06:06.008857  1530  1550 E C2K_RIL : readline: read error! line is 550
+01-01 08:09:12.007543  1530  1538 E C2K_RIL : readline: read error! line is 550
+01-01 08:09:12.007671  1530  1549 E C2K_RIL : readline: read error! line is 550
+01-01 08:09:12.008499  1530  1550 E C2K_RIL : readline: read error! line is 550
+01-01 08:09:12.031646  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.031736  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:09:12.031767  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.041483  1120  1152 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:09:12.043022  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:09:12.043106  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:12.044097  1120  1152 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:09:12.044213  1120  1152 E         : Send Response to rild-ims
+01-01 08:09:12.044296  1120  1152 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:09:12.050368  1120  1137 E RIL     : Recevice an invalid value from modem for <rxlevel>
+01-01 08:09:12.050456  1120  1137 E RIL     : updateSignalStrength ERROR: -1
+01-01 08:09:12.053621  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:09:12.053696  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:12.053768  1120  1146 E         : Send Response to rild-ims
+01-01 08:09:12.053841  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:09:12.053882  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:12.054927  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.054973  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:09:12.055004  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.055744  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:09:12.056655  2181  2714 E PHONE   : [ServiceState] setState deprecated use setVoiceRegState()
+01-01 08:09:12.058370  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.058440  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:09:12.058470  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.058685  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:09:12.059334  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.059423  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:09:12.059457  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.061807  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.061869  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:09:12.061901  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.062039  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:09:12.063344  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.063414  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:09:12.063451  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.064256  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:09:12.064617  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.064675  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:09:12.064706  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.079344  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:09:12.079541  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:09:12.081510  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.082992  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.084394  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.084806  1120  1137 E RILC    : Send Response to RIL_SOCKET_2
+01-01 08:09:12.088566  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.089643  1120  1131 E RILC    : Send Response to rild-mal
+01-01 08:09:12.089768  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:12.089994  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.090861  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.093896  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.093979  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:09:12.094015  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.094971  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.095179  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.095251  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.096056  2181  2181 E GsmSST  : [GsmSST1] handlePollStateResult cancelPollState due to RADIO_NOT_AVAILABLE
+01-01 08:09:12.096188  2181  2181 E GsmSST  : [GsmSST1] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:09:12.096251  2181  2181 E GsmSST  : [GsmSST1] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:09:12.096317  2181  2181 E GsmSST  : [GsmSST1] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:09:12.098485  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.099923  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:12.100010  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.100063  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:09:12.100094  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.101547  2181  2181 E RIL_ImsSms: IMS State query failed with exp com.android.internal.telephony.CommandException: RADIO_NOT_AVAILABLE
+01-01 08:09:12.101644  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.102009  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.102052  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:09:12.102082  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.103554  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.105095  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.105205  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.105245  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:09:12.105275  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.105742  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:12.106672  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.106776  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.106818  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:09:12.106876  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.107905  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:09:12.107994  1120  1131 E RIL     : rid: 0
+01-01 08:09:12.108058  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:12.108062  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.110821  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:09:12.110914  1120  1131 E RIL     : rid: 0
+01-01 08:09:12.110979  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:12.112889  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:12.115481  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:12.116958  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.117971  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.118047  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:09:12.118080  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.119866  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.120026  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.120070  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:09:12.120174  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.120706  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:12.121371  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.122821  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.122972  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.123015  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:09:12.123045  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.124240  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.124373  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.124411  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:09:12.124442  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.126401  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.130776  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.130907  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.130947  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:09:12.130979  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.132086  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.133275  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.133321  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:09:12.133351  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:12.133587  2181  2181 E PHONE   : [ServiceState] setState deprecated use setVoiceRegState()
+01-01 08:09:12.137006  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:12.159343  2181  2181 E PHONE   : [ServiceState] setState deprecated use setVoiceRegState()
+01-01 08:09:12.256991  1530  1535 E C2K_RILC: unsupported request code 2061 token 203 socket_id 0
+01-01 08:09:12.257077  1530  1535 E C2K_RILC: onRequestUnsupportComplete: unsupport token = 203
+01-01 08:09:12.257108  1530  1535 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:14.824516  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:09:14.824621  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:14.868310  1530  1533 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 1
+01-01 08:09:14.868411  1530  1533 E C2K_RIL : proxy getRILChannelCtxFromToken id=1, RIL_SUPPORT_CHANNELS=3
+01-01 08:09:14.868451  1530  1533 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 1
+01-01 08:09:14.875650  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:09:14.875741  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:14.876053  1120  1134 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:14.876172  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:09:14.876229  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:14.881841  1120  1146 E RIL     : Unhandled unsolicited result code: ^MODE:0,0
+01-01 08:09:14.882031  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:09:14.882093  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:14.882224  1120  1146 E RILC    : Send Response to rild-mal
+01-01 08:09:14.882278  1120  1146 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:14.882397  1120  1146 E RIL     : Recevice an invalid value from modem for <rsrp>
+01-01 08:09:14.887738  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:14.889703  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:09:14.889776  1120  1131 E RIL     : rid: 0
+01-01 08:09:14.889842  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:14.892033  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:09:14.892132  1120  1131 E RIL     : rid: 0
+01-01 08:09:14.892211  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:14.893709  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:14.895212  1530  1533 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:14.898903  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:14.901262  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:09:14.901327  1120  1131 E RIL     : rid: 0
+01-01 08:09:14.901376  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:14.902248  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:09:14.902381  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:09:14.902437  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:09:14.902830  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:09:14.902900  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:09:14.903133  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:09:14.903186  1120  1131 E RIL     : rid: 0
+01-01 08:09:14.903237  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:14.903398  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:09:14.903578  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:09:14.905207  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:14.905691  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:09:14.908229  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:14.908517  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:09:14.909240  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:09:14.909285  1120  1131 E RIL     : rid: 0
+01-01 08:09:14.909329  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:14.909545  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:09:14.911302  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:09:14.911346  1120  1131 E RIL     : rid: 0
+01-01 08:09:14.911396  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:14.911617  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:09:14.913492  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:14.914326  2181  2181 E GsmSST  : [GsmSST10] handlePollStateResult return due to (ar.userObj != mPollingContext)
+01-01 08:09:14.917690  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:14.920419  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:09:14.920501  1120  1131 E RIL     : rid: 0
+01-01 08:09:14.920553  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:14.922715  1120  1131 E RIL     : it is short CREG CGREG
+01-01 08:09:14.922769  1120  1131 E RIL     : rid: 0
+01-01 08:09:14.922825  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:14.923281  2181  2181 E PHONE   : [ServiceState] setState deprecated use setVoiceRegState()
+01-01 08:09:14.927061  1120  1131 E RILC    : Send Response to RIL_SOCKET_1
+01-01 08:09:18.332124  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:28.563207  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:30.324248   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:30.324336   880  1548 I RPC     : RPC-client RX thread Before select!
+01-01 08:09:30.824676   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:30.824733   880  1548 I RPC     : RPC-client RX thread Before select!
+01-01 08:09:31.325343   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:31.325459   880  1548 I RPC     : RPC-client RX thread Before select!
+01-01 08:09:31.826453   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:31.826577   880  1548 I RPC     : RPC-client RX thread Before select!
+01-01 08:09:31.901013  2181  2181 D SvlteSST: [LteSST0] BroadcastReceiver: via.cdma.action.set.ets.dev.c2klogger
+01-01 08:09:31.901231  2181  2181 I SvlteModeController: [getCdmaSocketSlotId] slotId: 0
+01-01 08:09:31.901317  2181  2181 D SvlteSST: [LteSST0] via.cdma.action.set.ets.dev.c2klogger BroadcastReceiver: dev=1
+01-01 08:09:31.901498  2181  2181 D RILJ    : [3870]> RIL_REQUEST_SET_ETS_DEV: 1 [SUB0]
+01-01 08:09:31.903004  2181  2181 D SvlteSST: [LteSST1] BroadcastReceiver: via.cdma.action.set.ets.dev.c2klogger
+01-01 08:09:31.903081  2181  2181 I SvlteModeController: [getCdmaSocketSlotId] slotId: 0
+01-01 08:09:31.903098  1530  1535 W C2K_RILC: token = 222
+01-01 08:09:31.903172  1530  1535 W C2K_RILC: request = 4016
+01-01 08:09:31.903198  1530  1535 D C2K_RILC: SOCKET RIL_SOCKET_1 REQUEST: <unknown request> length:16
+01-01 08:09:31.903244  1530  1535 I C2K_RILC: processCommandBuffer enqueueProxyList &s_Proxy[proxyId]=-145649680, request=150, proxyId=0
+01-01 08:09:31.903285  1530  1535 I         : enqueueProxyList &pProxyList=-145649680, &s_Proxy[0]=-145649680, &s_Proxy[1]=-145649676
+01-01 08:09:31.903326  1530  1535 D         : SET_ETS_DEV dispatched to AT_CHANNEL
+01-01 08:09:31.903381  1530  1533 I         : DATA_CHANNEL wakeup
+01-01 08:09:31.903398  1530  1534 I         : MISC_CHANNEL wakeup
+01-01 08:09:31.903412  1530  1533 I         : proxy deque done
+01-01 08:09:31.903437  1530  1533 I         : DATA_CHANNEL sleep
+01-01 08:09:31.903503  1530  1534 I         : proxy deque done
+01-01 08:09:31.903522  1530  1534 I         : MISC_CHANNEL sleep
+01-01 08:09:31.903581  1530  1532 I         : AT_CHANNEL wakeup
+01-01 08:09:31.903605  1530  1532 I         : proxy deque done
+01-01 08:09:31.903629  1530  1532 D         : SET_ETS_DEV execute on AT_CHANNEL using channel 0
+01-01 08:09:31.903651  1530  1532 I C2K_RILC: dispatchInts count=1, status=0
+01-01 08:09:31.903672  1530  1532 I C2K_RILC: dispatchInts, t=1, status=0
+01-01 08:09:31.903694  1530  1532 D C2K_RIL : C2K onRequest: SET_ETS_DEV
+01-01 08:09:31.903712  1530  1532 D C2K_RIL : C2K sState= 7
+01-01 08:09:31.903736  1530  1532 D C2K_RIL : smsReadyReported= 1, uimInsertedReported= 1
+01-01 08:09:31.903761  1530  1532 D C2K_RIL : processing_md5_cmd=0
+01-01 08:09:31.903786  1530  1532 D C2K_RIL : rilDataMain request = 150, datalen = 4.
+01-01 08:09:31.903806  1530  1532 D C2K_RIL : rilSimMain enter
+01-01 08:09:31.903838  1530  1532 D C2K_RIL : requestSetEtsDev: ETS log output from SDIO
+01-01 08:09:31.903864  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:31.903889  1530  1532 E C2K_RIL : proxy getRILChannelCtxFromToken id=0, RIL_SUPPORT_CHANNELS=3
+01-01 08:09:31.903913  1530  1532 E C2K_RILC: proxy RIL_queryMyChannelId channelid = 0
+01-01 08:09:31.903934  1530  1532 D C2K_RIL : at_send_command_full enter
+01-01 08:09:31.903962  1530  1532 D C2K_RIL : at_send_command_full p_channel->tid_myProxy=-149415632
+01-01 08:09:31.903993  1530  1532 D C2K_RIL : AT send on AT_CHANNEL, tid:4145551664
+01-01 08:09:31.904015  1530  1532 I C2K_RIL : at_send_command_full_nolock enter
+01-01 08:09:31.904035  1530  1532 D C2K_RIL : <fd 18> AT > AT+VTCHSW=1,3
+01-01 08:09:31.904052  1530  1532 D C2K_RIL : AT+VTCHSW=1,3
+01-01 08:09:31.904074  1530  1532 I C2K_RIL : AT write start, p_channel->fd=18 
+01-01 08:09:31.904112  1530  1532 D C2K_RIL : writeline exit
+01-01 08:09:31.904140  1530  1532 I C2K_RIL : at_send_command_full_nolock pthread cond wait timeout
+01-01 08:09:31.929761  1530  1538 I C2K_RIL : AT read end: 15:Bad file descriptor
+01-01 08:09:31.929826  1530  1538 D C2K_RIL : <fd 18> AT < +VTCHSW:1,3
+01-01 08:09:31.929855  1530  1538 D C2K_RIL : AT_CHANNEL Enter processLine
+01-01 08:09:31.929878  1530  1538 D C2K_RIL : processLine enter line=+VTCHSW:1,3
+01-01 08:09:31.929907  1530  1538 D C2K_RIL : isFinalResponseSuccess exit return 0 line=+VTCHSW:1,3
+01-01 08:09:31.929933  1530  1538 W C2K_RIL : processLine type=0
+01-01 08:09:31.929954  1530  1538 D C2K_RIL : onUnsolicited enter s=+VTCHSW:1,3
+01-01 08:09:31.930020  1530  1538 D C2K_RIL : net.ctclientd = 0, at.reset = disable
+01-01 08:09:31.930048  1530  1538 E C2K_RIL : Unhandled unsolicited result code: +VTCHSW:1,3
+01-01 08:09:31.930070  1530  1538 D C2K_RIL : onUnsolicited exit unhandled
+01-01 08:09:31.930089  1530  1538 D C2K_RIL : processLine exit
+01-01 08:09:31.930148  1530  1538 I C2K_RIL : readline enter p_channel->myName=AT_CHANNEL
+01-01 08:09:31.930170  1530  1538 I C2K_RIL : AT read start
+01-01 08:09:31.930198  1530  1538 I C2K_RIL : AT read end: 6:Bad file descriptor
+01-01 08:09:31.930220  1530  1538 D C2K_RIL : <fd 18> AT < OK
+01-01 08:09:31.930262  1530  1538 D C2K_RIL : AT_CHANNEL Enter processLine
+01-01 08:09:31.930282  1530  1538 D C2K_RIL : processLine enter line=OK
+01-01 08:09:31.930307  1530  1538 D C2K_RIL : isFinalResponseSuccess return 1 line=OK
+01-01 08:09:31.930327  1530  1538 D C2K_RIL : handleFinalResponse enter
+01-01 08:09:31.930360  1530  1538 D C2K_RIL : handleFinalResponse exit
+01-01 08:09:31.930379  1530  1538 D C2K_RIL : processLine exit
+01-01 08:09:31.930400  1530  1538 I C2K_RIL : readline enter p_channel->myName=AT_CHANNEL
+01-01 08:09:31.930432  1530  1538 I C2K_RIL : AT read start
+01-01 08:09:31.930534  1530  1532 I C2K_RIL : at_send_command_full_nolock exit
+01-01 08:09:31.930564  1530  1532 D C2K_RIL : response received on AT_CHANNEL, tid:4145551664
+01-01 08:09:31.930587  1530  1532 D C2K_RIL : at_send_command_full p_channel->tid_myProxy=0
+01-01 08:09:31.930609  1530  1532 D C2K_RILC: RequestComplete, RIL_SOCKET_1
+01-01 08:09:31.930643  1530  1532 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:31.930678  1530  1532 D C2K_RILC: writeOffset = 0 written = 4
+01-01 08:09:31.930703  1530  1532 D C2K_RILC: writeOffset = 0 written = 12
+01-01 08:09:31.930739  1530  1532 I         : proxy deque done
+01-01 08:09:31.930761  1530  1532 I         : AT_CHANNEL sleep
+01-01 08:09:31.930825  2181  2661 D RILJ    : [3870]< RIL_REQUEST_SET_ETS_DEV  [SUB0]
+01-01 08:09:31.931194  2181  2181 D SvlteSST: [LteSST0] handleMessage (ACTION_VIA_ETS_DEV_CHANGED_LOGGER)
+01-01 08:09:32.327266   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:32.327500   880  1548 I RPC     : RPC-client RX thread Before select!
+01-01 08:09:32.391232  2181  2598 D SubscriptionController: getSimStateForSlotIdx:  simState=ABSENT ordinal=1
+01-01 08:09:32.391431  3385  3986 D SubscriptionManager: getSimStateForSubscriber: simState=1 slotIdx=0
+01-01 08:09:32.392034  2181  2714 D SubscriptionController: getSimStateForSlotIdx:  simState=ABSENT ordinal=1
+01-01 08:09:32.392192  3385  3986 D SubscriptionManager: getSimStateForSubscriber: simState=1 slotIdx=1
+01-01 08:09:32.393273  2181  2228 D SubscriptionManager: [getPhoneId]- return dummy value, subId = -2
+01-01 08:09:32.394262  2181  2228 D CDMAPhone: mIccRecords is null, so imsi return null
+01-01 08:09:32.395057  2181  2678 D SubscriptionController: getSimStateForSlotIdx:  simState=ABSENT ordinal=1
+01-01 08:09:32.395227  3385  3986 D SubscriptionManager: getSimStateForSubscriber: simState=1 slotIdx=0
+01-01 08:09:32.395814  2181  2224 D SubscriptionController: getSimStateForSlotIdx:  simState=ABSENT ordinal=1
+01-01 08:09:32.395975  3385  3986 D SubscriptionManager: getSimStateForSubscriber: simState=1 slotIdx=1
+01-01 08:09:32.790503  1096  1096 D RILMUXD : [gsm0710muxd] 3897:main(): Frames received/dropped: 626/0
+01-01 08:09:32.828119   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:32.828178   880  1548 I RPC     : RPC-client RX thread Before select!
+01-01 08:09:33.328751   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:33.328825   880  1548 I RPC     : RPC-client RX thread Before select!
+01-01 08:09:33.829464   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:33.829623   880  1548 I RPC     : RPC-client RX thread Before select!
+01-01 08:09:34.330184   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:34.330256   880  1548 I RPC     : RPC-client RX thread Before select!
+01-01 08:09:34.830851   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:34.830952   880  1548 I RPC     : RPC-client RX thread Before select!
+01-01 08:09:35.331556   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:35.331634   880  1548 I RPC     : RPC-client RX thread Before select!
+01-01 08:09:35.832415   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:35.832500   880  1548 I RPC     : RPC-client RX thread Before select!
+01-01 08:09:36.333089   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:36.333185   880  1548 I RPC     : RPC-client RX thread Before select!
+01-01 08:09:36.833795   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:36.833885   880  1548 I RPC     : RPC-client RX thread Before select!
+01-01 08:09:37.334465   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:37.334527   880  1548 I RPC     : RPC-client RX thread Before select!
+01-01 08:09:37.478602  1120  1142 I RILC    : NUMBER:1
+01-01 08:09:37.478750  1120  1142 I RILC    : arg len:14
+01-01 08:09:37.478858  1120  1142 I RILC    : ARGS[0]:THERMAL,0,-1
+01-01 08:09:37.479046  1120  1142 D RILC    : C[locl]> QUERY_MODEM_THERMAL
+01-01 08:09:37.479185  1120  1142 D RILC-MTK: QUERY_MODEM_THERMAL pRI=0x7f88b8c6f0 p=0x7f88b97180 dispatched to RIL_CMD_PROXY_1
+01-01 08:09:37.479482  1120  1134 I RILC-MTK: RIL_CMD_PROXY_4 wakeup
+01-01 08:09:37.479496  1120  1131 I RILC-MTK: RIL_CMD_PROXY_3 wakeup
+01-01 08:09:37.479576  1120  1134 I RILC-MTK: RIL_CMD_PROXY_4 sleep
+01-01 08:09:37.479688  1120  1136 I RILC-MTK: RIL_URC2_PROXY wakeup
+01-01 08:09:37.479697  1120  1141 I RILC-MTK: RIL_ATCI2_PROXY wakeup
+01-01 08:09:37.479774  1120  1136 I RILC-MTK: RIL_URC2_PROXY sleep
+01-01 08:09:37.479863  1120  1137 I RILC-MTK: RIL_CMD2_PROXY_3 wakeup
+01-01 08:09:37.479898  1120  1140 I RILC-MTK: RIL_CMD2_PROXY_4 wakeup
+01-01 08:09:37.479922  1120  1139 I RILC-MTK: RIL_CMD2_PROXY_1 wakeup
+01-01 08:09:37.479941  1120  1137 I RILC-MTK: RIL_CMD2_PROXY_3 sleep
+01-01 08:09:37.480025  1120  1131 I RILC-MTK: RIL_CMD_PROXY_3 sleep
+01-01 08:09:37.480275  1120  1132 I RILC-MTK: RIL_CMD_PROXY_2 wakeup
+01-01 08:09:37.480352  1120  1132 I RILC-MTK: RIL_CMD_PROXY_2 sleep
+01-01 08:09:37.480465  1120  1130 I RILC-MTK: RIL_URC_PROXY wakeup
+01-01 08:09:37.480516  1120  1140 I RILC-MTK: RIL_CMD2_PROXY_4 sleep
+01-01 08:09:37.480697  1120  1135 I RILC-MTK: RIL_ATCI_PROXY wakeup
+01-01 08:09:37.480771  1120  1135 I RILC-MTK: RIL_ATCI_PROXY sleep
+01-01 08:09:37.481027  1120  1139 I RILC-MTK: RIL_CMD2_PROXY_1 sleep
+01-01 08:09:37.481220  1120  1133 I RILC-MTK: RIL_CMD_PROXY_1 wakeup
+01-01 08:09:37.481311  1120  1133 D RILC-MTK: proxy id:3, proxyName: RIL_CMD_PROXY_1
+01-01 08:09:37.481411  1120  1133 D RILC-MTK: QUERY_MODEM_THERMAL pRI=0x7f88b8c6f0 p=0x7f88b97180 execute on RIL_CMD_PROXY_1 using channel 3
+01-01 08:09:37.481504  1120  1133 D RILC    : callOnRequest for new vendor ril
+01-01 08:09:37.481590  1120  1133 D RIL     : onRequest: QUERY_MODEM_THERMAL, datalen = 8
+01-01 08:09:37.481664  1120  1133 D RIL     : radioState:10
+01-01 08:09:37.481761  1120  1133 D RIL     : requestQueryThermal Enter,-1
+01-01 08:09:37.481878  1120  1133 D AT      : getRILChannelCtx subsystem:1, rid:0 channelOffset:0
+01-01 08:09:37.481966  1120  1133 D AT      : AT send on RIL_CMD_READER_3, tid:547744666688
+01-01 08:09:37.482037  1120  1133 D AT      : AT> AT+ETHERMAL
+01-01 08:09:37.482106  1120  1133 I AT      : AT write start
+01-01 08:09:37.482346  1120  1138 I RILC-MTK: RIL_CMD2_PROXY_2 wakeup
+01-01 08:09:37.482420  1120  1138 I RILC-MTK: RIL_CMD2_PROXY_2 sleep
+01-01 08:09:37.482559  1120  1141 I RILC-MTK: RIL_ATCI2_PROXY sleep
+01-01 08:09:37.482709  1120  1130 I RILC-MTK: RIL_URC_PROXY sleep
+01-01 08:09:37.482963  1096  1112 D RILMUXD : [gsm0710muxd] 3614:poll_thread(): poll_thread select found
+01-01 08:09:37.483086  1096  1112 D RILMUXD : [gsm0710muxd] 1045:pseudo_device_read(): Enter, LackofAtciChannel=0
+01-01 08:09:37.483213  1096  1112 D RILMUXD : [gsm0710muxd] 657:write_frame(): Sending frame to channel 5
+01-01 08:09:37.483420  1096  1112 D RILMUXD : [gsm0710muxd] 766:write_frame(): Write a frame on channel 5 with length 12
+01-01 08:09:37.484936  1096  1106 D RILMUXD : [gsm0710muxd] 1643:gsm0710_base_buffer_get_frame(): Get a complete frame. ch:5, ctrl:239, len:42
+01-01 08:09:37.485123  1096  1106 D RILMUXD : [gsm0710muxd] 2383:extract_frames(): Writing 42 byte frame received on channel 5 to /dev/pts/9
+01-01 08:09:37.485309  1096  1106 D RILMUXD : [gsm0710muxd] 2403:extract_frames(): write() returned. Written 42/42 bytes of frame to /dev/pts/9
+01-01 08:09:37.485434  1096  1106 D RILMUXD : [gsm0710muxd] 2408:extract_frames(): fsync() failed (-1, 22 - Invalid argument)
+01-01 08:09:37.485579  1096  1106 D RILMUXD : [gsm0710muxd] 1643:gsm0710_base_buffer_get_frame(): Get a complete frame. ch:5, ctrl:239, len:6
+01-01 08:09:37.485700  1096  1106 D RILMUXD : [gsm0710muxd] 2383:extract_frames(): Writing 6 byte frame received on channel 5 to /dev/pts/9
+01-01 08:09:37.485833  1096  1106 D RILMUXD : [gsm0710muxd] 2403:extract_frames(): write() returned. Written 6/6 bytes of frame to /dev/pts/9
+01-01 08:09:37.485949  1096  1106 D RILMUXD : [gsm0710muxd] 2408:extract_frames(): fsync() failed (-1, 22 - Invalid argument)
+01-01 08:09:37.486150  1120  1149 I AT      : AT read end: 48
+01-01 08:09:37.486238  1120  1149 D AT      : AT< +ETHERMAL: 0, 32767, -127, 0, 32767, 2
+01-01 08:09:37.486323  1120  1149 D AT      : RIL_CMD_READER_3 Enter processLine:+ETHERMAL: 0, 32767, -127, 0, 32767, 2
+01-01 08:09:37.486408  1120  1149 D AT      : AT< OK
+01-01 08:09:37.486487  1120  1149 D AT      : RIL_CMD_READER_3 Enter processLine:OK
+01-01 08:09:37.486582  1120  1149 I AT      : AT read start
+01-01 08:09:37.486660  1120  1133 D AT      : response received on RIL_CMD_READER_3, tid:547744666688
+01-01 08:09:37.486751  1120  1133 D RIL     : requestQueryThermal success
+01-01 08:09:37.486834  1120  1133 D RILC    : RequestComplete, RIL_SOCKET_1
+01-01 08:09:37.486920  1120  1133 D RILC    : [THERMAL] local request for THERMAL returned 
+01-01 08:09:37.487023  1120  1133 D RILC    : [THERMAL] s_THERMAL_fd is valid strResult is  0, 32767, -127, 0, 32767, 2
+01-01 08:09:37.487162  1120  1133 D RILC-MTK: proxyLoop free  pRI=0x7f88b8c6f0 p=0x7f88b97180 
+01-01 08:09:37.487268  1120  1133 D RILC-MTK: proxyLoop free  pRequest=0x7f868ff1a0
+01-01 08:09:37.487348  1120  1133 I RILC-MTK: RIL_CMD_PROXY_1 sleep
+01-01 08:09:37.790685  1096  1096 D RILMUXD : [gsm0710muxd] 3897:main(): Frames received/dropped: 628/0
+01-01 08:09:37.835125   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:37.835216   880  1548 I RPC     : RPC-client RX thread Before select!
+01-01 08:09:38.335800   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:38.335869   880  1548 I RPC     : RPC-client RX thread Before select!
+01-01 08:09:38.808115  1530  1538 I C2K_RIL : AT read end: 20:Bad file descriptor
+01-01 08:09:38.808190  1530  1538 D C2K_RIL : <fd 18> AT < +HDRCSQ:29,99,-9
+01-01 08:09:38.808227  1530  1538 D C2K_RIL : AT_CHANNEL Enter processLine
+01-01 08:09:38.808261  1530  1538 D C2K_RIL : processLine enter line=+HDRCSQ:29,99,-9
+01-01 08:09:38.808295  1530  1538 D C2K_RIL : processLine, p_response is null
+01-01 08:09:38.808329  1530  1538 D C2K_RIL : onUnsolicited enter s=+HDRCSQ:29,99,-9
+01-01 08:09:38.808374  1530  1538 D C2K_RIL : commas_count is 2
+01-01 08:09:38.808437  1530  1538 D C2K_RIL : onUnsolicited s_unsol_msg_cache.signal_strength.EVDO_SignalStrength.dbm = 55
+01-01 08:09:38.808483  1530  1538 D C2K_RIL : onUnsolicited s_unsol_msg_cache.signal_strength.EVDO_SignalStrength.ecio = -1
+01-01 08:09:38.808552  1530  1538 I C2K_RILC: RIL_SOCKET_1 UNSOLICITED: UNSOL_SIGNAL_STRENGTH length:56
+01-01 08:09:38.808583  1530  1538 E C2K_RILC: Send Response to RIL_SOCKET_1
+01-01 08:09:38.808639  1530  1538 D C2K_RILC: writeOffset = 0 written = 4
+01-01 08:09:38.808678  1530  1538 D C2K_RILC: writeOffset = 0 written = 56
+01-01 08:09:38.808715  1530  1538 D C2K_RIL : onUnsolicited exit normal
+01-01 08:09:38.808751  1530  1538 I C2K_RIL : readline enter p_channel->myName=AT_CHANNEL
+01-01 08:09:38.808781  1530  1538 I C2K_RIL : AT read start
+01-01 08:09:38.809573  2181  2181 D SvlteSST: [LteSST0] EVENT_SIGNAL_STRENGTH_UPDATE, ar = SignalStrength: 0 0 113 -256 55 -1 8 99 2147483647 0 2147483647 2147483647 2147483647 cdma 0 0 0
+01-01 08:09:38.809815  2181  2181 D SvlteSST: [LteSST0] Before combine Signal Strength, setSignalStrength(): isGsm = falsenew mSignalStrength = SignalStrength: 0 0 -113 -160 -55 -1 8 99 2147483647 -2147483647 2147483647 2147483647 2147483647 cdma 0 0 0
+01-01 08:09:38.809893  2181  2181 D SvlteSST: [LteSST0] onCDMASignalStrengthResult(): cdmaSignalStrength = SignalStrength: 0 0 -113 -160 -55 -1 8 99 2147483647 -2147483647 2147483647 2147483647 2147483647 cdma 0 0 0
+01-01 08:09:38.809996  2181  2181 D SvlteSST: [LteSST0] combineGsmCdmaSignalStrength: mGSMSignalStrength= SignalStrength: 17 47 -120 -160 -7 0 -1 99 -93 -93 -11 57 2147483647 gsm|lte 1 1 1mCDMASignalStrength = SignalStrength: 0 0 -113 -160 -55 -1 8 99 2147483647 -2147483647 2147483647 2147483647 2147483647 cdma 0 0 0
+01-01 08:09:38.810086  2181  2181 D SvlteSST: [LteSST0] combineGsmCdmaSignalStrength: mCombinedSignalStrength= SignalStrength: 17 47 -113 -160 -55 -1 8 99 -93 0 -11 57 2147483647 cdma 1 1 1
+01-01 08:09:38.810221  2181  2181 D SvlteSST: [LteSST0] notifySignalStrength: mCombinedSignalStrength.getLevel=4
+01-01 08:09:38.810300  2181  2181 D SubscriptionController: [getSubId]- sSlotIdxToSubId.size == 0, return DummySubIds slotIdx=0
+01-01 08:09:38.810358  2181  2181 D SubscriptionController: getDummySubIds: slotIdx=0 return 2 DummySubIds with each subId=-2
+01-01 08:09:38.810469  2181  2181 D DefaultPhoneNotifier: notifySignalStrength: mRegistry=com.android.internal.telephony.ITelephonyRegistry$Stub$Proxy@7e80317 ss=SignalStrength: 17 47 -113 -160 -55 -1 8 99 -93 0 -11 57 2147483647 cdma 1 1 1 sender=Handler (com.android.internal.telephony.cdma.CDMAPhone) {34038c2}
+01-01 08:09:38.811142  1456  1759 D TelephonyRegistry: notifySignalStrengthForSubscriber: subId=-2 signalStrength=SignalStrength: 17 47 -113 -160 -55 -1 8 99 -93 0 -11 57 2147483647 cdma 1 1 1
+01-01 08:09:38.811233  1456  1759 D TelephonyRegistry: notifySignalStrengthForSubscriber: logSSC.length=5 next=2
+01-01 08:09:38.811674  1456  1759 D TelephonyRegistry: notifyServiceStateForSubscriber Time 20160101T080008Asia/Shanghai(5,0,28800,0,1451606408) mSubId -2 mPhoneId 0  mState 1 1 voice home data home        Unknown 1xRTT CSS not supported 16 13840 RoamInd=1 DefRoamInd=0 EmergOnly=true Ril Voice Regist state: 2 Ril Data Regist state: 0 mProprietaryDataRadioTechnology: 0 VoiceRejectCause: -1 DataRejectCause: -1 mCdmaNetWorkMode: 2 IsDataRoamingFromRegistration=false
+01-01 08:09:38.812133  1456  1759 D TelephonyRegistry: notifyServiceStateForSubscriber Time 20160101T080013Asia/Shanghai(5,0,28800,0,1451606413) mSubId -2 mPhoneId 0  mState 1 1 voice home data home        Unknown EvDo-rev.A CSS not supported 16 13840 RoamInd=1 DefRoamInd=0 EmergOnly=true Ril Voice Regist state: 2 Ril Data Regist state: 0 mProprietaryDataRadioTechnology: 0 VoiceRejectCause: -1 DataRejectCause: -1 mCdmaNetWorkMode: 8 IsDataRoamingFromRegistration=false
+01-01 08:09:38.812782  1456  1759 D TelephonyRegistry: notifyServiceStateForSubscriber Time 20160101T080052Asia/Shanghai(5,0,28800,0,1451606452) mSubId -2 mPhoneId 0  mState 1 1 voice home data home        Unknown EvDo-rev.A CSS not supported 16 13840 RoamInd=1 DefRoamInd=0 EmergOnly=true Ril Voice Regist state: 2 Ril Data Regist state: 0 mProprietaryDataRadioTechnology: 0 VoiceRejectCause: -1 DataRejectCause: -1 mCdmaNetWorkMode: 8 IsDataRoamingFromRegistration=false
+01-01 08:09:38.813212  1456  1759 D TelephonyRegistry: notifyServiceStateForSubscriber Time 20160101T080912Asia/Shanghai(5,0,28800,0,1451606952) mSubId -2 mPhoneId 0  mState 1 1 voice home data home        Unknown EvDo-rev.A CSS not supported 16 13840 RoamInd=1 DefRoamInd=0 EmergOnly=true Ril Voice Regist state: 2 Ril Data Regist state: 0 mProprietaryDataRadioTechnology: 0 VoiceRejectCause: -1 DataRejectCause: -1 mCdmaNetWorkMode: 8 IsDataRoamingFromRegistration=false
+01-01 08:09:38.813535  1456  1759 D TelephonyRegistry: notifyServiceStateForSubscriber Time 20160101T080914Asia/Shanghai(5,0,28800,0,1451606954) mSubId -2 mPhoneId 0  mState 1 1 voice home data home        Unknown EvDo-rev.A CSS not supported 16 13840 RoamInd=1 DefRoamInd=0 EmergOnly=true Ril Voice Regist state: 2 Ril Data Regist state: 0 mProprietaryDataRadioTechnology: 0 VoiceRejectCause: -1 DataRejectCause: -1 mCdmaNetWorkMode: 8 IsDataRoamingFromRegistration=false
+01-01 08:09:38.813595  1456  1759 D TelephonyRegistry: notifySignalStrengthForSubscriber: ----------------
+01-01 08:09:38.813762  1456  1759 D SubscriptionManager: [getPhoneId]- return dummy value, subId = -2
+01-01 08:09:38.813817  1456  1759 D TelephonyRegistry: validatePhoneId: true
+01-01 08:09:38.813858  1456  1759 D TelephonyRegistry: notifySignalStrengthForSubscriber: valid phoneId=0
+01-01 08:09:38.815246  2181  2181 D SubscriptionController: [getPhoneId] asked for default subId=-1
+01-01 08:09:38.815593  2181  2181 D SubscriptionController: [getPhoneId]- invalid subId = -1 return = -1
+01-01 08:09:38.815927  1456  1759 D SubscriptionManager: [getPhoneId]- return dummy value, subId = -2
+01-01 08:09:38.815987  1456  1759 D TelephonyRegistry: idMatch: rlt=false
+01-01 08:09:38.816060  1456  1759 D TelephonyRegistry: handleRemoveListLocked: mRemoveList.size()=0
+01-01 08:09:38.816303  1456  1759 D SubscriptionManager: [getPhoneId]- return dummy value, subId = -2
+01-01 08:09:38.816969  2181  2181 D SubscriptionController: [getSubId]- sSlotIdxToSubId.size == 0, return DummySubIds slotIdx=0
+01-01 08:09:38.817047  2181  2181 D SubscriptionController: getDummySubIds: slotIdx=0 return 2 DummySubIds with each subId=-2
+01-01 08:09:38.836459   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:38.836575   880  1548 I RPC     : RPC-client RX thread Before select!
+01-01 08:09:39.228490  1790  2556 D SubscriptionManager: [getPhoneId]- return dummy value, subId = -1
+01-01 08:09:39.228671  1790  2556 D TelephonyManager: getTelephonyProperty prop value= 46003,,,,,,,,,,
+01-01 08:09:39.240312  2181  2714 D DCT     : [0]fetchDunApn: config_tether_apndata dunSetting=null
+01-01 08:09:39.240361  2181  2714 D DCT     : [0]hasMatchedTetherApnSetting: APN=null
+01-01 08:09:39.249019  1790  2556 D SubscriptionManager: [getPhoneId]- return dummy value, subId = -1
+01-01 08:09:39.249092  1790  2556 D TelephonyManager: getTelephonyProperty prop value= 46003,,,,,,,,,,
+01-01 08:09:39.251272  1790  2556 D SubscriptionManager: [getPhoneId]- return dummy value, subId = -1
+01-01 08:09:39.251331  1790  2556 D TelephonyManager: getTelephonyProperty prop value= 46003,,,,,,,,,,
+01-01 08:09:39.252710  1790  2556 D SubscriptionManager: [getPhoneId]- return dummy value, subId = -1
+01-01 08:09:39.252779  1790  2556 D TelephonyManager: getTelephonyProperty prop value= 46003,,,,,,,,,,
+01-01 08:09:39.337164   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:39.337241   880  1548 I RPC     : RPC-client RX thread Before select!
+01-01 08:09:39.837838   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:39.837933   880  1548 I RPC     : RPC-client RX thread Before select!
+01-01 08:09:40.338526   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:40.338611   880  1548 I RPC     : RPC-client RX thread Before select!
+01-01 08:09:40.839213   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:40.839307   880  1548 I RPC     : RPC-client RX thread Before select!
+01-01 08:09:41.339893   880  1548 I RPC     : RPC-client RX thread after select! - (0)
+01-01 08:09:41.339967   880  1548 I RPC     : RPC-client RX thread Before select!

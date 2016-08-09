@@ -1,0 +1,1047 @@
+----- timezone:GMT
+01-01 08:00:17.480573   257   257 I vold    : Vold 3.0 (the awakening) firing up
+01-01 08:00:17.480888   257   257 V vold    : Detected support for: ext4 vfat
+01-01 08:00:17.499181   257   257 W Vold    : Tearing down stale mount /mnt/cd-rom
+01-01 08:00:17.536767   257   257 D vold    : EmulatedVolume(emulated) is newed
+01-01 08:00:17.552564   257   280 V vold    : ----------------
+01-01 08:00:17.552662   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.552726   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.552751   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.552774   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/virtual/block/dm-0'
+01-01 08:00:17.552800   257   280 D NetlinkEvent: NL param 'MAJOR=253'
+01-01 08:00:17.552822   257   280 D NetlinkEvent: NL param 'MINOR=0'
+01-01 08:00:17.552843   257   280 D NetlinkEvent: NL param 'DEVNAME=dm-0'
+01-01 08:00:17.552865   257   280 D NetlinkEvent: NL param 'DEVTYPE=disk'
+01-01 08:00:17.552885   257   280 D NetlinkEvent: NL param 'NPARTS=0'
+01-01 08:00:17.552973   257   280 V vold    : ----------------
+01-01 08:00:17.553007   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.553031   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.553053   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.553073   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/virtual/block/loop0'
+01-01 08:00:17.553094   257   280 D NetlinkEvent: NL param 'MAJOR=7'
+01-01 08:00:17.553114   257   280 D NetlinkEvent: NL param 'MINOR=0'
+01-01 08:00:17.553134   257   280 D NetlinkEvent: NL param 'DEVNAME=loop0'
+01-01 08:00:17.553155   257   280 D NetlinkEvent: NL param 'DEVTYPE=disk'
+01-01 08:00:17.553176   257   280 D NetlinkEvent: NL param 'NPARTS=0'
+01-01 08:00:17.553239   257   280 V vold    : ----------------
+01-01 08:00:17.553270   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.553293   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.553314   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.553335   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/virtual/block/loop1'
+01-01 08:00:17.553357   257   280 D NetlinkEvent: NL param 'MAJOR=7'
+01-01 08:00:17.553377   257   280 D NetlinkEvent: NL param 'MINOR=1'
+01-01 08:00:17.553397   257   280 D NetlinkEvent: NL param 'DEVNAME=loop1'
+01-01 08:00:17.553418   257   280 D NetlinkEvent: NL param 'DEVTYPE=disk'
+01-01 08:00:17.553439   257   280 D NetlinkEvent: NL param 'NPARTS=0'
+01-01 08:00:17.553491   257   280 V vold    : ----------------
+01-01 08:00:17.553518   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.553542   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.553562   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.553584   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/virtual/block/loop2'
+01-01 08:00:17.553604   257   280 D NetlinkEvent: NL param 'MAJOR=7'
+01-01 08:00:17.553624   257   280 D NetlinkEvent: NL param 'MINOR=2'
+01-01 08:00:17.553646   257   280 D NetlinkEvent: NL param 'DEVNAME=loop2'
+01-01 08:00:17.553668   257   280 D NetlinkEvent: NL param 'DEVTYPE=disk'
+01-01 08:00:17.553687   257   280 D NetlinkEvent: NL param 'NPARTS=0'
+01-01 08:00:17.553736   257   280 V vold    : ----------------
+01-01 08:00:17.553765   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.553792   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.553813   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.553833   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/virtual/block/loop3'
+01-01 08:00:17.553855   257   280 D NetlinkEvent: NL param 'MAJOR=7'
+01-01 08:00:17.553881   257   280 D NetlinkEvent: NL param 'MINOR=3'
+01-01 08:00:17.553903   257   280 D NetlinkEvent: NL param 'DEVNAME=loop3'
+01-01 08:00:17.553923   257   280 D NetlinkEvent: NL param 'DEVTYPE=disk'
+01-01 08:00:17.553942   257   280 D NetlinkEvent: NL param 'NPARTS=0'
+01-01 08:00:17.559644   257   280 V vold    : ----------------
+01-01 08:00:17.559716   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.559743   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.559766   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.559789   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/virtual/block/loop4'
+01-01 08:00:17.559810   257   280 D NetlinkEvent: NL param 'MAJOR=7'
+01-01 08:00:17.559830   257   280 D NetlinkEvent: NL param 'MINOR=4'
+01-01 08:00:17.559851   257   280 D NetlinkEvent: NL param 'DEVNAME=loop4'
+01-01 08:00:17.559873   257   280 D NetlinkEvent: NL param 'DEVTYPE=disk'
+01-01 08:00:17.559894   257   280 D NetlinkEvent: NL param 'NPARTS=0'
+01-01 08:00:17.559988   257   280 V vold    : ----------------
+01-01 08:00:17.560021   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.560047   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.560072   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.560093   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/virtual/block/loop5'
+01-01 08:00:17.560113   257   280 D NetlinkEvent: NL param 'MAJOR=7'
+01-01 08:00:17.560133   257   280 D NetlinkEvent: NL param 'MINOR=5'
+01-01 08:00:17.560152   257   280 D NetlinkEvent: NL param 'DEVNAME=loop5'
+01-01 08:00:17.560174   257   280 D NetlinkEvent: NL param 'DEVTYPE=disk'
+01-01 08:00:17.560194   257   280 D NetlinkEvent: NL param 'NPARTS=0'
+01-01 08:00:17.560243   257   280 V vold    : ----------------
+01-01 08:00:17.560273   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.560298   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.560319   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.560340   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/virtual/block/loop6'
+01-01 08:00:17.560360   257   280 D NetlinkEvent: NL param 'MAJOR=7'
+01-01 08:00:17.560382   257   280 D NetlinkEvent: NL param 'MINOR=6'
+01-01 08:00:17.560402   257   280 D NetlinkEvent: NL param 'DEVNAME=loop6'
+01-01 08:00:17.560424   257   280 D NetlinkEvent: NL param 'DEVTYPE=disk'
+01-01 08:00:17.560445   257   280 D NetlinkEvent: NL param 'NPARTS=0'
+01-01 08:00:17.560502   257   280 V vold    : ----------------
+01-01 08:00:17.560532   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.560555   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.560576   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.560596   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/virtual/block/loop7'
+01-01 08:00:17.561683   257   280 D NetlinkEvent: NL param 'MAJOR=7'
+01-01 08:00:17.561719   257   280 D NetlinkEvent: NL param 'MINOR=7'
+01-01 08:00:17.561741   257   280 D NetlinkEvent: NL param 'DEVNAME=loop7'
+01-01 08:00:17.561761   257   280 D NetlinkEvent: NL param 'DEVTYPE=disk'
+01-01 08:00:17.561780   257   280 D NetlinkEvent: NL param 'NPARTS=0'
+01-01 08:00:17.561870   257   280 V vold    : ----------------
+01-01 08:00:17.561907   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.561930   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.561951   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.561972   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/virtual/block/zram0'
+01-01 08:00:17.561993   257   280 D NetlinkEvent: NL param 'MAJOR=254'
+01-01 08:00:17.562013   257   280 D NetlinkEvent: NL param 'MINOR=0'
+01-01 08:00:17.562033   257   280 D NetlinkEvent: NL param 'DEVNAME=zram0'
+01-01 08:00:17.562052   257   280 D NetlinkEvent: NL param 'DEVTYPE=disk'
+01-01 08:00:17.562073   257   280 D NetlinkEvent: NL param 'NPARTS=0'
+01-01 08:00:17.562177   257   280 V vold    : ----------------
+01-01 08:00:17.562211   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.562237   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.562258   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.562280   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0rpmb'
+01-01 08:00:17.562302   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.562322   257   280 D NetlinkEvent: NL param 'MINOR=96'
+01-01 08:00:17.562342   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0rpmb'
+01-01 08:00:17.562363   257   280 D NetlinkEvent: NL param 'DEVTYPE=disk'
+01-01 08:00:17.562383   257   280 D NetlinkEvent: NL param 'NPARTS=0'
+01-01 08:00:17.562413   257   280 D vold    : Skip 'mmcblk0rpmb' disk uevent
+01-01 08:00:17.562462   257   280 V vold    : ----------------
+01-01 08:00:17.562491   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.562516   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.562538   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.562558   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0boot0'
+01-01 08:00:17.562579   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.562598   257   280 D NetlinkEvent: NL param 'MINOR=32'
+01-01 08:00:17.562618   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0boot0'
+01-01 08:00:17.562644   257   280 D NetlinkEvent: NL param 'DEVTYPE=disk'
+01-01 08:00:17.562664   257   280 D NetlinkEvent: NL param 'NPARTS=0'
+01-01 08:00:17.562693   257   280 D vold    : Skip 'mmcblk0boot0' disk uevent
+01-01 08:00:17.562742   257   280 V vold    : ----------------
+01-01 08:00:17.562770   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.562794   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.562816   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.562838   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0boot1'
+01-01 08:00:17.562858   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.562877   257   280 D NetlinkEvent: NL param 'MINOR=64'
+01-01 08:00:17.562897   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0boot1'
+01-01 08:00:17.562918   257   280 D NetlinkEvent: NL param 'DEVTYPE=disk'
+01-01 08:00:17.562938   257   280 D NetlinkEvent: NL param 'NPARTS=0'
+01-01 08:00:17.564463   257   280 D vold    : Skip 'mmcblk0boot1' disk uevent
+01-01 08:00:17.564561   257   280 V vold    : ----------------
+01-01 08:00:17.564602   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.564627   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.564648   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.564670   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0'
+01-01 08:00:17.564692   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.564713   257   280 D NetlinkEvent: NL param 'MINOR=0'
+01-01 08:00:17.564734   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0'
+01-01 08:00:17.564755   257   280 D NetlinkEvent: NL param 'DEVTYPE=disk'
+01-01 08:00:17.565403   257   280 D NetlinkEvent: NL param 'NPARTS=23'
+01-01 08:00:17.565453   257   280 I Vold    : handleBlockEvent(): For MTK_SHARED_SDCARD, remove EMMC disk
+01-01 08:00:17.565540   257   280 V vold    : ----------------
+01-01 08:00:17.565586   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.566285   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.566348   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.566372   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p1'
+01-01 08:00:17.566395   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.566747   257   280 D NetlinkEvent: NL param 'MINOR=1'
+01-01 08:00:17.566770   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p1'
+01-01 08:00:17.566790   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.566810   257   280 D NetlinkEvent: NL param 'PARTN=1'
+01-01 08:00:17.566830   257   280 D NetlinkEvent: NL param 'PARTNAME=proinfo'
+01-01 08:00:17.566917   257   280 V vold    : ----------------
+01-01 08:00:17.566958   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.566982   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.567003   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.567023   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p2'
+01-01 08:00:17.567043   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.567062   257   280 D NetlinkEvent: NL param 'MINOR=2'
+01-01 08:00:17.567082   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p2'
+01-01 08:00:17.567105   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.567126   257   280 D NetlinkEvent: NL param 'PARTN=2'
+01-01 08:00:17.567148   257   280 D NetlinkEvent: NL param 'PARTNAME=nvram'
+01-01 08:00:17.567203   257   280 V vold    : ----------------
+01-01 08:00:17.567231   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.567254   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.567275   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.567296   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p3'
+01-01 08:00:17.567317   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.567338   257   280 D NetlinkEvent: NL param 'MINOR=3'
+01-01 08:00:17.567360   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p3'
+01-01 08:00:17.567383   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.567403   257   280 D NetlinkEvent: NL param 'PARTN=3'
+01-01 08:00:17.567423   257   280 D NetlinkEvent: NL param 'PARTNAME=protect1'
+01-01 08:00:17.567557   257   280 V vold    : ----------------
+01-01 08:00:17.567589   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.567612   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.567633   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.567653   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p4'
+01-01 08:00:17.567674   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.567694   257   280 D NetlinkEvent: NL param 'MINOR=4'
+01-01 08:00:17.567716   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p4'
+01-01 08:00:17.567736   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.567756   257   280 D NetlinkEvent: NL param 'PARTN=4'
+01-01 08:00:17.567776   257   280 D NetlinkEvent: NL param 'PARTNAME=protect2'
+01-01 08:00:17.567821   257   280 V vold    : ----------------
+01-01 08:00:17.568901   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.568952   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.568974   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.568995   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p5'
+01-01 08:00:17.569016   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.569036   257   280 D NetlinkEvent: NL param 'MINOR=5'
+01-01 08:00:17.569055   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p5'
+01-01 08:00:17.569075   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.569095   257   280 D NetlinkEvent: NL param 'PARTN=5'
+01-01 08:00:17.569115   257   280 D NetlinkEvent: NL param 'PARTNAME=lk'
+01-01 08:00:17.569202   257   280 V vold    : ----------------
+01-01 08:00:17.569239   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.569262   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.574214   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.574284   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p6'
+01-01 08:00:17.574307   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.574329   257   280 D NetlinkEvent: NL param 'MINOR=6'
+01-01 08:00:17.574349   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p6'
+01-01 08:00:17.574369   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.574388   257   280 D NetlinkEvent: NL param 'PARTN=6'
+01-01 08:00:17.574409   257   280 D NetlinkEvent: NL param 'PARTNAME=para'
+01-01 08:00:17.574661   257   280 V vold    : ----------------
+01-01 08:00:17.577107   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.577139   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.577160   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.577182   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p7'
+01-01 08:00:17.577203   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.577222   257   280 D NetlinkEvent: NL param 'MINOR=7'
+01-01 08:00:17.577242   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p7'
+01-01 08:00:17.578207   257   257 I NVRAM   : Coldboot: try to wait for uevents, timeout 5s
+01-01 08:00:17.578395   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.578418   257   280 D NetlinkEvent: NL param 'PARTN=7'
+01-01 08:00:17.578438   257   280 D NetlinkEvent: NL param 'PARTNAME=boot'
+01-01 08:00:17.578531   257   280 V vold    : ----------------
+01-01 08:00:17.578571   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.578594   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.578618   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.578639   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p8'
+01-01 08:00:17.578658   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.578678   257   280 D NetlinkEvent: NL param 'MINOR=8'
+01-01 08:00:17.578697   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p8'
+01-01 08:00:17.578717   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.578739   257   280 D NetlinkEvent: NL param 'PARTN=8'
+01-01 08:00:17.578759   257   280 D NetlinkEvent: NL param 'PARTNAME=recovery'
+01-01 08:00:17.578801   257   280 V vold    : ----------------
+01-01 08:00:17.578828   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.578850   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.578872   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.578892   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p9'
+01-01 08:00:17.578912   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.578934   257   280 D NetlinkEvent: NL param 'MINOR=9'
+01-01 08:00:17.579371   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p9'
+01-01 08:00:17.579624   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.579650   257   280 D NetlinkEvent: NL param 'PARTN=9'
+01-01 08:00:17.579670   257   280 D NetlinkEvent: NL param 'PARTNAME=logo'
+01-01 08:00:17.579750   257   280 V vold    : ----------------
+01-01 08:00:17.579787   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.579814   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.579836   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.579952   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0rpmb'
+01-01 08:00:17.580328   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.580365   257   280 D NetlinkEvent: NL param 'MINOR=96'
+01-01 08:00:17.580389   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0rpmb'
+01-01 08:00:17.580410   257   280 D NetlinkEvent: NL param 'DEVTYPE=disk'
+01-01 08:00:17.580534   257   280 D NetlinkEvent: NL param 'NPARTS=0'
+01-01 08:00:17.580590   257   280 D vold    : Skip 'mmcblk0rpmb' disk uevent
+01-01 08:00:17.580659   257   280 V vold    : ----------------
+01-01 08:00:17.580695   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.580721   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.580743   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.580763   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0boot0'
+01-01 08:00:17.580783   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.580803   257   280 D NetlinkEvent: NL param 'MINOR=32'
+01-01 08:00:17.580824   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0boot0'
+01-01 08:00:17.580844   257   280 D NetlinkEvent: NL param 'DEVTYPE=disk'
+01-01 08:00:17.580864   257   280 D NetlinkEvent: NL param 'NPARTS=0'
+01-01 08:00:17.580890   257   280 D vold    : Skip 'mmcblk0boot0' disk uevent
+01-01 08:00:17.581026   257   280 V vold    : ----------------
+01-01 08:00:17.581055   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.581078   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.581099   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.581121   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0boot1'
+01-01 08:00:17.581147   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.581169   257   280 D NetlinkEvent: NL param 'MINOR=64'
+01-01 08:00:17.581192   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0boot1'
+01-01 08:00:17.581212   257   280 D NetlinkEvent: NL param 'DEVTYPE=disk'
+01-01 08:00:17.581231   257   280 D NetlinkEvent: NL param 'NPARTS=0'
+01-01 08:00:17.581257   257   280 D vold    : Skip 'mmcblk0boot1' disk uevent
+01-01 08:00:17.581299   257   280 V vold    : ----------------
+01-01 08:00:17.581328   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.581435   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.582176   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.582227   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p10'
+01-01 08:00:17.582248   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.582269   257   280 D NetlinkEvent: NL param 'MINOR=10'
+01-01 08:00:17.582293   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p10'
+01-01 08:00:17.582316   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.582339   257   280 D NetlinkEvent: NL param 'PARTN=10'
+01-01 08:00:17.582359   257   280 D NetlinkEvent: NL param 'PARTNAME=expdb'
+01-01 08:00:17.582519   257   280 V vold    : ----------------
+01-01 08:00:17.582954   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.583083   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.583163   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.583185   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p11'
+01-01 08:00:17.583206   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.583228   257   280 D NetlinkEvent: NL param 'MINOR=11'
+01-01 08:00:17.583252   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p11'
+01-01 08:00:17.583276   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.583297   257   280 D NetlinkEvent: NL param 'PARTN=11'
+01-01 08:00:17.583321   257   280 D NetlinkEvent: NL param 'PARTNAME=seccfg'
+01-01 08:00:17.583515   257   280 V vold    : ----------------
+01-01 08:00:17.583555   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.583579   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.583618   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.583641   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p12'
+01-01 08:00:17.583662   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.583685   257   280 D NetlinkEvent: NL param 'MINOR=12'
+01-01 08:00:17.583706   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p12'
+01-01 08:00:17.583726   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.583861   257   280 D NetlinkEvent: NL param 'PARTN=12'
+01-01 08:00:17.583884   257   280 D NetlinkEvent: NL param 'PARTNAME=oemkeystore'
+01-01 08:00:17.583960   257   280 V vold    : ----------------
+01-01 08:00:17.583996   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.587798   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.587851   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.587874   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p13'
+01-01 08:00:17.587896   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.587921   257   280 D NetlinkEvent: NL param 'MINOR=13'
+01-01 08:00:17.588145   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p13'
+01-01 08:00:17.588261   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.588331   257   280 D NetlinkEvent: NL param 'PARTN=13'
+01-01 08:00:17.588353   257   280 D NetlinkEvent: NL param 'PARTNAME=secro'
+01-01 08:00:17.588609   257   280 V vold    : ----------------
+01-01 08:00:17.588745   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.588778   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.588800   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.588821   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p14'
+01-01 08:00:17.588842   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.589027   257   280 D NetlinkEvent: NL param 'MINOR=14'
+01-01 08:00:17.589050   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p14'
+01-01 08:00:17.589071   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.589091   257   280 D NetlinkEvent: NL param 'PARTN=14'
+01-01 08:00:17.589115   257   280 D NetlinkEvent: NL param 'PARTNAME=keystore'
+01-01 08:00:17.589399   257   280 V vold    : ----------------
+01-01 08:00:17.589439   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.589641   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.589666   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.590080   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p15'
+01-01 08:00:17.590104   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.590127   257   280 D NetlinkEvent: NL param 'MINOR=15'
+01-01 08:00:17.590149   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p15'
+01-01 08:00:17.590170   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.590190   257   280 D NetlinkEvent: NL param 'PARTN=15'
+01-01 08:00:17.590210   257   280 D NetlinkEvent: NL param 'PARTNAME=tee1'
+01-01 08:00:17.590590   257   280 V vold    : ----------------
+01-01 08:00:17.590640   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.590763   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.591341   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.591366   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p16'
+01-01 08:00:17.591388   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.591412   257   280 D NetlinkEvent: NL param 'MINOR=16'
+01-01 08:00:17.591433   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p16'
+01-01 08:00:17.591454   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.591474   257   280 D NetlinkEvent: NL param 'PARTN=16'
+01-01 08:00:17.591498   257   280 D NetlinkEvent: NL param 'PARTNAME=tee2'
+01-01 08:00:17.591588   257   280 V vold    : ----------------
+01-01 08:00:17.591628   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.591652   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.591673   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.591695   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p17'
+01-01 08:00:17.591715   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.591735   257   280 D NetlinkEvent: NL param 'MINOR=17'
+01-01 08:00:17.591755   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p17'
+01-01 08:00:17.591777   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.591797   257   280 D NetlinkEvent: NL param 'PARTN=17'
+01-01 08:00:17.591816   257   280 D NetlinkEvent: NL param 'PARTNAME=frp'
+01-01 08:00:17.591861   257   280 V vold    : ----------------
+01-01 08:00:17.592492   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.592521   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.592545   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.592565   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p18'
+01-01 08:00:17.592585   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.592604   257   280 D NetlinkEvent: NL param 'MINOR=18'
+01-01 08:00:17.592623   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p18'
+01-01 08:00:17.592849   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.592872   257   280 D NetlinkEvent: NL param 'PARTN=18'
+01-01 08:00:17.592892   257   280 D NetlinkEvent: NL param 'PARTNAME=nvdata'
+01-01 08:00:17.592955   257   280 V vold    : ----------------
+01-01 08:00:17.593178   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.593209   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.593348   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.593375   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p19'
+01-01 08:00:17.593396   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.593417   257   280 D NetlinkEvent: NL param 'MINOR=19'
+01-01 08:00:17.593437   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p19'
+01-01 08:00:17.593457   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.593477   257   280 D NetlinkEvent: NL param 'PARTN=19'
+01-01 08:00:17.593497   257   280 D NetlinkEvent: NL param 'PARTNAME=metadata'
+01-01 08:00:17.593551   257   280 V vold    : ----------------
+01-01 08:00:17.593583   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.593606   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.593627   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.593646   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p20'
+01-01 08:00:17.593666   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.593686   257   280 D NetlinkEvent: NL param 'MINOR=20'
+01-01 08:00:17.593706   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p20'
+01-01 08:00:17.593728   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.593749   257   280 D NetlinkEvent: NL param 'PARTN=20'
+01-01 08:00:17.593770   257   280 D NetlinkEvent: NL param 'PARTNAME=system'
+01-01 08:00:17.593815   257   280 V vold    : ----------------
+01-01 08:00:17.593843   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.593867   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.593887   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.594430   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p21'
+01-01 08:00:17.594468   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.594489   257   280 D NetlinkEvent: NL param 'MINOR=21'
+01-01 08:00:17.594509   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p21'
+01-01 08:00:17.594530   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.594551   257   280 D NetlinkEvent: NL param 'PARTN=21'
+01-01 08:00:17.594573   257   280 D NetlinkEvent: NL param 'PARTNAME=cache'
+01-01 08:00:17.596180   257   280 V vold    : ----------------
+01-01 08:00:17.596284   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.596311   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.596333   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.596356   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p22'
+01-01 08:00:17.596376   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.596397   257   280 D NetlinkEvent: NL param 'MINOR=22'
+01-01 08:00:17.597555   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p22'
+01-01 08:00:17.598011   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.598037   257   280 D NetlinkEvent: NL param 'PARTN=22'
+01-01 08:00:17.598058   257   280 D NetlinkEvent: NL param 'PARTNAME=userdata'
+01-01 08:00:17.598659   257   280 V vold    : ----------------
+01-01 08:00:17.598848   257   280 V vold    : handleBlockEvent with action 1
+01-01 08:00:17.598892   257   280 D NetlinkEvent: NL action '1'
+01-01 08:00:17.598915   257   280 D NetlinkEvent: NL subsystem 'block'
+01-01 08:00:17.598937   257   280 D NetlinkEvent: NL param 'DEVPATH=/devices/mtk-msdc.0/11230000.msdc0/mmc_host/mmc0/mmc0:0001/block/mmcblk0/mmcblk0p23'
+01-01 08:00:17.598979   257   280 D NetlinkEvent: NL param 'MAJOR=179'
+01-01 08:00:17.599002   257   280 D NetlinkEvent: NL param 'MINOR=23'
+01-01 08:00:17.599023   257   280 D NetlinkEvent: NL param 'DEVNAME=mmcblk0p23'
+01-01 08:00:17.599043   257   280 D NetlinkEvent: NL param 'DEVTYPE=partition'
+01-01 08:00:17.599064   257   280 D NetlinkEvent: NL param 'PARTN=23'
+01-01 08:00:17.599084   257   280 D NetlinkEvent: NL param 'PARTNAME=flashinfo'
+01-01 08:00:17.599126   257   280 I Vold    : Coldboot: sem_post() because all uevent has handled
+01-01 08:00:17.599178   257   257 I NVRAM   : Coldboot: all uevent has handled
+01-01 08:00:17.599219   257   257 I vold    : 'nvdata' partition exists.
+01-01 08:00:17.605624   257   287 D FrameworkListener: dispatchCommand data = (0 cryptfs enablecrypto inplace default)
+01-01 08:00:17.607566   257   287 D Cryptfs : Just asked init to shut down class main
+01-01 08:00:17.607651   257   287 W vold    : emulated unmount requires state mounted
+01-01 08:00:17.608078   257   287 D Cryptfs : unmounting /data succeeded
+01-01 08:00:17.608267   257   287 D Cryptfs : Successful: mount tmpfs for '/data'
+01-01 08:00:17.612479   257   287 D Cryptfs : Just triggered post_fs_data
+01-01 08:00:17.635105   290   290 I md_ctrl : ro.crypto.state=, vold.decrypt=trigger_post_fs_data, vold.encryption.type=, start/stop=0
+01-01 08:00:17.635160   290   290 I md_ctrl : this is first boot and will to encrypt. set vold.encryption.type to default
+01-01 08:00:17.651010   290   290 E md_ctrl : ccci is waiting. No need to start/stop modem
+01-01 08:00:17.749259   271   271 E BootLogoUpdater: [boot_logo_updater]boot package = 0
+01-01 08:00:17.749321   271   271 E BootLogoUpdater: [boot_logo_updater]update boot reason = 0, ret = 2
+01-01 08:00:17.824794   271   271 E libshowlogo: [show_animation_common: fill_animation_logo 129]Logo data error
+01-01 08:00:22.257439   369   369 E md_ctrl : ccci is waiting. No need to start/stop modem
+01-01 08:00:29.332927   844   844 E md_ctrl : encryption.type is default. ccci is waiting. No need to start/stop modem
+01-01 08:00:32.262546   906   906 E md_ctrl : encryption.type is default. ccci is waiting. No need to start/stop modem
+01-01 08:00:48.022365  1456  1456 E AlarmManager: dm binder is null!
+01-01 08:00:48.307130  1456  1456 E MountService: setDefaultPath new path=
+01-01 08:00:48.876051  1456  1509 E VoldConnector: Error handling '662 /data 11822116864 373859692': java.lang.NullPointerException: Attempt to invoke virtual method 'void android.os.DropBoxManager.addText(java.lang.String, java.lang.String)' on a null object reference
+01-01 08:00:48.890742  1456  1509 E VoldConnector: Error handling '662 /cache 405864448 14877615': java.lang.NullPointerException: Attempt to invoke virtual method 'void android.os.DropBoxManager.addText(java.lang.String, java.lang.String)' on a null object reference
+01-01 08:00:48.902765  1456  1509 E VoldConnector: Error handling '662 /protect_f 6049792 11829385': java.lang.NullPointerException: Attempt to invoke virtual method 'void android.os.DropBoxManager.addText(java.lang.String, java.lang.String)' on a null object reference
+01-01 08:00:48.912459  1456  1509 E VoldConnector: Error handling '662 /protect_s 6053888 9296077': java.lang.NullPointerException: Attempt to invoke virtual method 'void android.os.DropBoxManager.addText(java.lang.String, java.lang.String)' on a null object reference
+01-01 08:00:48.940217  1456  1509 E VoldConnector: Error handling '662 /nvdata 25980928 27413154': java.lang.NullPointerException: Attempt to invoke virtual method 'void android.os.DropBoxManager.addText(java.lang.String, java.lang.String)' on a null object reference
+01-01 08:01:09.169174  1456  1456 E PersistentDataBlockService: not able to find package com.google.android.gms
+01-01 08:01:09.169174  1456  1456 E PersistentDataBlockService: android.content.pm.PackageManager$NameNotFoundException: com.google.android.gms
+01-01 08:01:09.169174  1456  1456 E PersistentDataBlockService: 	at android.app.ApplicationPackageManager.getPackageUid(ApplicationPackageManager.java:239)
+01-01 08:01:09.169174  1456  1456 E PersistentDataBlockService: 	at com.android.server.PersistentDataBlockService.getAllowedUid(PersistentDataBlockService.java:100)
+01-01 08:01:09.169174  1456  1456 E PersistentDataBlockService: 	at com.android.server.PersistentDataBlockService.<init>(PersistentDataBlockService.java:88)
+01-01 08:01:09.169174  1456  1456 E PersistentDataBlockService: 	at java.lang.reflect.Constructor.newInstance(Native Method)
+01-01 08:01:09.169174  1456  1456 E PersistentDataBlockService: 	at com.android.server.SystemServiceManager.startService(SystemServiceManager.java:97)
+01-01 08:01:09.169174  1456  1456 E PersistentDataBlockService: 	at com.android.server.SystemServer.startOtherServices(SystemServer.java:795)
+01-01 08:01:09.169174  1456  1456 E PersistentDataBlockService: 	at com.android.server.SystemServer.run(SystemServer.java:360)
+01-01 08:01:09.169174  1456  1456 E PersistentDataBlockService: 	at com.android.server.SystemServer.main(SystemServer.java:245)
+01-01 08:01:09.169174  1456  1456 E PersistentDataBlockService: 	at java.lang.reflect.Method.invoke(Native Method)
+01-01 08:01:09.169174  1456  1456 E PersistentDataBlockService: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:789)
+01-01 08:01:09.169174  1456  1456 E PersistentDataBlockService: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:679)
+01-01 08:01:10.511936  1456  1456 E LockSettingsStorage: Cannot read file java.io.FileNotFoundException: /data/system/gatekeeper.password.key: open failed: ENOENT (No such file or directory)
+01-01 08:01:10.512197  1456  1456 E LockSettingsStorage: Cannot read file java.io.FileNotFoundException: /data/system/password.key: open failed: ENOENT (No such file or directory)
+01-01 08:01:10.512366  1456  1456 E LockSettingsStorage: Cannot read file java.io.FileNotFoundException: /data/system/gatekeeper.pattern.key: open failed: ENOENT (No such file or directory)
+01-01 08:01:10.512554  1456  1456 E LockSettingsStorage: Cannot read file java.io.FileNotFoundException: /data/system/gatekeeper.gesture.key: open failed: ENOENT (No such file or directory)
+01-01 08:01:10.512737  1456  1456 E LockSettingsStorage: Cannot read file java.io.FileNotFoundException: /data/system/gesture.key: open failed: ENOENT (No such file or directory)
+01-01 08:01:10.726151  1456  1512 E WifiDisplayController: actionAtDisconnected, null display
+01-01 08:01:10.726742  1456  1512 E WifiDisplayController: WFD disconnected, and WifiLock isn't Held!
+01-01 08:01:13.403852  1790  1883 E FileSourceProxy: Open dupFd fail for file 
+01-01 08:01:13.450391  1790  1883 E APEExtractor: getAPEInfo not ape 5002
+01-01 08:01:13.789541  1456  1497 E NetdConnector: NDC Command {3 strict enable} took too long (539ms)
+01-01 08:01:14.152123  1456  2145 E FileSourceProxy: Open dupFd fail for file 
+01-01 08:01:14.160617  1456  1497 E InputMethodManagerService: Ignoring updateSystemUiLocked due to an invalid token. uid:1000 token:null
+01-01 08:01:14.187642  1456  2145 E APEExtractor: getAPEInfo not ape 5001
+01-01 08:01:14.199647  1790  1883 E FileSourceProxy: Open dupFd fail for file 
+01-01 08:01:14.232766  1790  1883 E APEExtractor: getAPEInfo not ape 5002
+01-01 08:01:14.245073  1456  2145 E FileSourceProxy: Open dupFd fail for file 
+01-01 08:01:14.255363  1456  2145 E APEExtractor: getAPEInfo not ape 5002
+01-01 08:01:14.262738  1456  1497 E LocationManagerService: no geocoder provider found
+01-01 08:01:14.264083  1456  1497 E LocationManagerService: FLP HAL not supported
+01-01 08:01:14.268930  1456  1497 E LocationManagerService: Unable to bind FLP Geofence proxy.
+01-01 08:01:14.271953  1456  1497 E LocationManagerService: Hardware Activity-Recognition not supported.
+01-01 08:01:14.401323  1456  2145 E FileSourceProxy: Open dupFd fail for file 
+01-01 08:01:14.434021  1456  2145 E APEExtractor: getAPEInfo not ape 5002
+01-01 08:00:00.118547  1456  2145 E FileSourceProxy: Open dupFd fail for file 
+01-01 08:00:00.126229  1456  2145 E APEExtractor: getAPEInfo not ape 5002
+01-01 08:00:00.348715  1456  1576 E MountService: setDefaultPath new path=/storage/emulated/0
+01-01 08:00:00.407942  1456  2145 E FileSourceProxy: Open dupFd fail for file 
+01-01 08:00:00.506756  1456  2145 E APEExtractor: getAPEInfo not ape 5002
+01-01 08:00:00.599598  1456  1576 E MountService: setDefaultPath new path=/storage/emulated/0
+01-01 08:00:00.736541  2201  2201 E VIE     : the data path is null!!
+01-01 08:00:01.678667   873  2338 E APEExtractor: getAPEInfo not ape 5003
+01-01 08:00:01.745998   873  2470 E APEExtractor: getAPEInfo not ape 5003
+01-01 08:00:02.019365   873  2491 E APEExtractor: getAPEInfo not ape 5003
+01-01 08:00:02.043983   873  2495 E APEExtractor: getAPEInfo not ape 5003
+01-01 08:00:04.738920  1456  1512 E ActivityManager: Unable to mark boot complete for abi: arm64-v8a
+01-01 08:00:04.739631  1456  1512 E ActivityManager: Unable to mark boot complete for abi: armeabi-v7a
+01-01 08:00:05.071748  1456  1612 E ConnectivityService: Failed to find Messenger in unregisterNetworkFactory
+01-01 08:00:05.074519  1456  1612 E ConnectivityService: Failed to find Messenger in unregisterNetworkFactory
+01-01 08:00:10.324074  3023  3035 E ActivityThread: Failed to find provider info for com.android.launcher2.settings
+01-01 08:00:12.090552  3161  3161 E ActivityThread: Service com.android.email.service.EmailBroadcastProcessorService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@8338dab that was originally bound here
+01-01 08:00:12.090552  3161  3161 E ActivityThread: android.app.ServiceConnectionLeaked: Service com.android.email.service.EmailBroadcastProcessorService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@8338dab that was originally bound here
+01-01 08:00:12.090552  3161  3161 E ActivityThread: 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:1145)
+01-01 08:00:12.090552  3161  3161 E ActivityThread: 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:1039)
+01-01 08:00:12.090552  3161  3161 E ActivityThread: 	at android.app.ContextImpl.bindServiceCommon(ContextImpl.java:1320)
+01-01 08:00:12.090552  3161  3161 E ActivityThread: 	at android.app.ContextImpl.bindService(ContextImpl.java:1303)
+01-01 08:00:12.090552  3161  3161 E ActivityThread: 	at android.content.ContextWrapper.bindService(ContextWrapper.java:612)
+01-01 08:00:12.090552  3161  3161 E ActivityThread: 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:186)
+01-01 08:00:12.090552  3161  3161 E ActivityThread: 	at com.android.emailcommon.service.ServiceProxy.test(ServiceProxy.java:229)
+01-01 08:00:12.090552  3161  3161 E ActivityThread: 	at com.android.email.service.EmailServiceUtils.isServiceAvailable(EmailServiceUtils.java:166)
+01-01 08:00:12.090552  3161  3161 E ActivityThread: 	at com.android.email.provider.AccountReconciler.reconcileAccountsInternal(AccountReconciler.java:206)
+01-01 08:00:12.090552  3161  3161 E ActivityThread: 	at com.android.email.provider.AccountReconciler.reconcileAccounts(AccountReconciler.java:145)
+01-01 08:00:12.090552  3161  3161 E ActivityThread: 	at com.android.email.service.EmailBroadcastProcessorService.reconcileAndStartServices(EmailBroadcastProcessorService.java:364)
+01-01 08:00:12.090552  3161  3161 E ActivityThread: 	at com.android.email.service.EmailBroadcastProcessorService.onBootCompleted(EmailBroadcastProcessorService.java:345)
+01-01 08:00:12.090552  3161  3161 E ActivityThread: 	at com.android.email.service.EmailBroadcastProcessorService.onHandleIntent(EmailBroadcastProcessorService.java:154)
+01-01 08:00:12.090552  3161  3161 E ActivityThread: 	at android.app.IntentService$ServiceHandler.handleMessage(IntentService.java:66)
+01-01 08:00:12.090552  3161  3161 E ActivityThread: 	at android.os.Handler.dispatchMessage(Handler.java:111)
+01-01 08:00:12.090552  3161  3161 E ActivityThread: 	at android.os.Looper.loop(Looper.java:207)
+01-01 08:00:12.090552  3161  3161 E ActivityThread: 	at android.os.HandlerThread.run(HandlerThread.java:61)
+01-01 08:00:13.640962   873  1619 E APEExtractor: getAPEInfo not ape 5004
+01-01 08:00:16.135169  2181  2181 E ActivityThread: Service com.android.stk.StkAppService has leaked IntentReceiver com.android.stk.StkAppService$15@91f282 that was originally registered here. Are you missing a call to unregisterReceiver()?
+01-01 08:00:16.135169  2181  2181 E ActivityThread: android.app.IntentReceiverLeaked: Service com.android.stk.StkAppService has leaked IntentReceiver com.android.stk.StkAppService$15@91f282 that was originally registered here. Are you missing a call to unregisterReceiver()?
+01-01 08:00:16.135169  2181  2181 E ActivityThread: 	at android.app.LoadedApk$ReceiverDispatcher.<init>(LoadedApk.java:971)
+01-01 08:00:16.135169  2181  2181 E ActivityThread: 	at android.app.LoadedApk.getReceiverDispatcher(LoadedApk.java:740)
+01-01 08:00:16.135169  2181  2181 E ActivityThread: 	at android.app.ContextImpl.registerReceiverInternal(ContextImpl.java:1189)
+01-01 08:00:16.135169  2181  2181 E ActivityThread: 	at android.app.ContextImpl.registerReceiver(ContextImpl.java:1169)
+01-01 08:00:16.135169  2181  2181 E ActivityThread: 	at android.app.ContextImpl.registerReceiver(ContextImpl.java:1163)
+01-01 08:00:16.135169  2181  2181 E ActivityThread: 	at android.content.ContextWrapper.registerReceiver(ContextWrapper.java:562)
+01-01 08:00:16.135169  2181  2181 E ActivityThread: 	at com.android.stk.StkAppService.initNotify(StkAppService.java:566)
+01-01 08:00:16.135169  2181  2181 E ActivityThread: 	at com.android.stk.StkAppService.onCreate(StkAppService.java:516)
+01-01 08:00:16.135169  2181  2181 E ActivityThread: 	at android.app.ActivityThread.handleCreateService(ActivityThread.java:3095)
+01-01 08:00:16.135169  2181  2181 E ActivityThread: 	at android.app.ActivityThread.-wrap4(ActivityThread.java)
+01-01 08:00:16.135169  2181  2181 E ActivityThread: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1579)
+01-01 08:00:16.135169  2181  2181 E ActivityThread: 	at android.os.Handler.dispatchMessage(Handler.java:111)
+01-01 08:00:16.135169  2181  2181 E ActivityThread: 	at android.os.Looper.loop(Looper.java:207)
+01-01 08:00:16.135169  2181  2181 E ActivityThread: 	at android.app.ActivityThread.main(ActivityThread.java:5777)
+01-01 08:00:16.135169  2181  2181 E ActivityThread: 	at java.lang.reflect.Method.invoke(Native Method)
+01-01 08:00:16.135169  2181  2181 E ActivityThread: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:789)
+01-01 08:00:16.135169  2181  2181 E ActivityThread: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:679)
+01-01 08:01:55.977985  3793  3793 E ActivityThread: Failed to find provider info for com.qihoo360.mobilesafe.sync.NewAVSyncProvider
+01-01 08:09:30.774384  1456  1489 V ActivityManager: Broadcast: Intent { act=com.mediatek.mtklogger.intent.action.LOG_STATE_CHANGED flg=0x10 (has extras) } ordered=false userid=0 callerApp=ProcessRecord{242b650 4633:com.mediatek.mtklogger/u0a52}
+01-01 08:09:30.793698  1456  2268 V WindowManager: Remove Window{93cc044 u0 开始录制} client=f11ed57, surface=Surface(name=开始录制) Callers=com.android.server.wm.WindowManagerService.removeWindow:2911 com.android.server.wm.Session.remove:190 android.view.IWindowSession$Stub.onTransact:242 com.android.server.wm.Session.onTransact:133 
+01-01 08:09:30.794448  1456  2268 V WindowManager: Looking for focus: 9 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:30.794541  1456  2268 V WindowManager: findFocusedWindow: Found new focus @ 4 = Window{49ab302 u0 com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity}
+01-01 08:09:30.795055  1456  2268 V WindowManager: Changing focus from Window{93cc044 u0 开始录制 EXITING} to Window{49ab302 u0 com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity} Callers=com.android.server.wm.WindowManagerService.removeWindowLocked:2984 com.android.server.wm.WindowManagerService.removeWindow:2911 com.android.server.wm.Session.remove:190 android.view.IWindowSession$Stub.onTransact:242 
+01-01 08:09:30.795167  1456  2268 D WindowManager: Input focus has changed to Window{49ab302 u0 com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity}
+01-01 08:09:30.796836  1456  1512 I WindowManager: Focus moving from Window{93cc044 u0 开始录制 EXITING} to Window{49ab302 u0 com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity}
+01-01 08:09:30.796916  1456  1512 I WindowManager: Gaining focus: Window{49ab302 u0 com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity}
+01-01 08:09:30.797046  1456  1512 I WindowManager: Losing focus: Window{93cc044 u0 开始录制 EXITING}
+01-01 08:09:30.799782  1456  1476 V InputMethodManagerService: windowGainedFocus: android.os.BinderProxy@a5b7fe4 controlFlags=#0 softInputMode=#20 windowFlags=#1810100
+01-01 08:09:30.799964  1456  1476 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@51c6ce5 attribute=null, token = android.os.BinderProxy@8451c4d
+01-01 08:09:31.790479  1456  1497 V NotificationService: enqueueNotificationInternal: pkg=com.mediatek.mtklogger id=2130837539 notification=Notification(pri=0 contentView=com.mediatek.mtklogger/0x109008d vibrate=null sound=null tick defaults=0x0 flags=0x60 color=0x00000000 vis=PRIVATE)
+01-01 08:09:31.792326  1456  1456 V MoMS.NotificationController: notifications are enabled for com.mediatek.mtklogger
+01-01 08:09:31.795270  1456  1456 V NotificationService: pkg=com.mediatek.mtklogger canInterrupt=true intercept=false
+01-01 08:09:31.795475  1456  1456 V NotificationService: Interrupting!
+01-01 08:09:31.899892  1456  1476 V ActivityManager: Broadcast: Intent { act=via.cdma.action.set.ets.dev.c2klogger flg=0x10 (has extras) } ordered=false userid=0 callerApp=ProcessRecord{242b650 4633:com.mediatek.mtklogger/u0a52}
+01-01 08:09:31.902113  1456  2268 D PowerManagerService: acquireWakeLockInternal: lock=73814970, flags=0x1, tag="RILJ", ws=null, uid=1001, pid=2181
+01-01 08:09:31.902216  1456  2268 D PowerManagerService: updateWakeLockSummaryLocked: mWakefulness=Awake, mWakeLockSummary=0x1
+01-01 08:09:31.902294  1456  2268 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x1, nextTimeout=474722 (in 50210 ms)
+01-01 08:09:31.902401  1456  2268 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:31.902441  1456  2268 I PowerManagerService: setBrightness mButtonLight 0.
+01-01 08:09:31.902481  1456  2268 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x1, mUserActivitySummary=0x1, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:31.902533  1456  2268 D PowerManagerService: Acquiring suspend blocker "PowerManagerService.WakeLocks".
+01-01 08:09:31.902646  1456  2268 D PowerManagerNotifier: onWakeLockAcquired: flags=1, tag="RILJ", packageName=com.android.phone, ownerUid=1001, ownerPid=2181, workSource=null
+01-01 08:09:31.931295  1456  1758 D PowerManagerService: releaseWakeLockInternal: lock=73814970 [RILJ], flags=0x0, total_time=29ms
+01-01 08:09:31.931386  1456  1758 D PowerManagerNotifier: onWakeLockReleased: flags=1, tag="RILJ", packageName=com.android.phone, ownerUid=1001, ownerPid=2181, workSource=null
+01-01 08:09:31.931521  1456  1758 D PowerManagerService: updateWakeLockSummaryLocked: mWakefulness=Awake, mWakeLockSummary=0x0
+01-01 08:09:31.931607  1456  1758 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x1, nextTimeout=474722 (in 50181 ms)
+01-01 08:09:31.931686  1456  1758 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:31.931714  1456  1758 I PowerManagerService: setBrightness mButtonLight 0.
+01-01 08:09:31.931766  1456  1758 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x0, mUserActivitySummary=0x1, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:31.931814  1456  1758 D PowerManagerService: Releasing suspend blocker "PowerManagerService.WakeLocks".
+01-01 08:09:31.932259  1456  1758 V ActivityManager: Broadcast: Intent { act=via.cdma.action.ets.dev.changed.c2klogger flg=0x10 (has extras) } ordered=false userid=0 callerApp=ProcessRecord{3c5aac3 2181:com.android.phone/1001}
+01-01 08:09:32.952543  1456  1574 D PowerManagerService: userActivityFromNative
+01-01 08:09:32.953188  1456  1574 D PowerManagerService: userActivityNoUpdateLocked: eventTime=425561, event=2, flags=0x0, uid=1000
+01-01 08:09:32.953251  1456  1574 D PowerManagerNotifier: onUserActivity: event=2, uid=1000
+01-01 08:09:32.953405  1456  1574 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x1, nextTimeout=478561 (in 52998 ms)
+01-01 08:09:32.953490  1456  1574 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:32.953527  1456  1574 I PowerManagerService: setBrightness mButtonLight 0.
+01-01 08:09:32.953574  1456  1574 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x0, mUserActivitySummary=0x1, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:32.954827  1456  1756 V SettingsProvider: packageValueForCallResult, name = haptic_feedback_enabled, value : 1
+01-01 08:09:32.955316  1456  1756 D PowerManagerService: acquireWakeLockInternal: lock=109361618, flags=0x1, tag="*vibrator*", ws=WorkSource{1000}, uid=1000, pid=1456
+01-01 08:09:32.955392  1456  1756 D PowerManagerService: updateWakeLockSummaryLocked: mWakefulness=Awake, mWakeLockSummary=0x1
+01-01 08:09:32.955475  1456  1756 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x1, nextTimeout=478561 (in 52996 ms)
+01-01 08:09:32.955554  1456  1756 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:32.955586  1456  1756 I PowerManagerService: setBrightness mButtonLight 0.
+01-01 08:09:32.955632  1456  1756 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x1, mUserActivitySummary=0x1, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:32.955685  1456  1756 D PowerManagerService: Acquiring suspend blocker "PowerManagerService.WakeLocks".
+01-01 08:09:32.955767  1456  1756 D PowerManagerNotifier: onWakeLockAcquired: flags=1, tag="*vibrator*", packageName=android, ownerUid=1000, ownerPid=1456, workSource=WorkSource{1000}
+01-01 08:09:32.956354  1456  1574 D PowerManagerService: userActivityFromNative
+01-01 08:09:32.956438  1456  1574 D PowerManagerService: userActivityNoUpdateLocked: eventTime=425563, event=1, flags=0x0, uid=1000
+01-01 08:09:32.956478  1456  1574 D PowerManagerNotifier: onUserActivity: event=1, uid=1000
+01-01 08:09:32.956610  1456  1574 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=433563 (in 7997 ms)
+01-01 08:09:32.956711  1456  1574 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:32.956929  1456  1574 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:32.956977  1456  1574 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x1, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:33.017769  1456  4726 D PowerManagerService: releaseWakeLockInternal: lock=109361618 [*vibrator*], flags=0x0, total_time=62ms
+01-01 08:09:33.017892  1456  4726 D PowerManagerNotifier: onWakeLockReleased: flags=1, tag="*vibrator*", packageName=android, ownerUid=1000, ownerPid=1456, workSource=WorkSource{1000}
+01-01 08:09:33.018001  1456  4726 D PowerManagerService: updateWakeLockSummaryLocked: mWakefulness=Awake, mWakeLockSummary=0x0
+01-01 08:09:33.018086  1456  4726 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=433563 (in 7936 ms)
+01-01 08:09:33.018177  1456  4726 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:33.018220  1456  4726 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:33.018271  1456  4726 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x0, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:33.018332  1456  4726 D PowerManagerService: Releasing suspend blocker "PowerManagerService.WakeLocks".
+01-01 08:09:33.051509  1456  1477 D PowerManagerService: userActivityNoUpdateLocked: eventTime=425661, event=0, flags=0x0, uid=1000
+01-01 08:09:33.051592  1456  1477 D PowerManagerNotifier: onUserActivity: event=0, uid=1000
+01-01 08:09:33.051788  1456  1477 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=433563 (in 7902 ms)
+01-01 08:09:33.051895  1456  1477 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:33.051945  1456  1477 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:33.052018  1456  1477 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x0, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:33.058346  1456  1574 V ActivityManager: Broadcast: Intent { act=android.intent.action.CLOSE_SYSTEM_DIALOGS flg=0x50000010 (has extras) } ordered=false userid=-1 callerApp=null
+01-01 08:09:33.059272  1456  1574 D PowerManagerService: userActivityNoUpdateLocked: eventTime=425669, event=0, flags=0x0, uid=1000
+01-01 08:09:33.059534  1456  1574 D PowerManagerNotifier: onUserActivity: event=0, uid=1000
+01-01 08:09:33.059719  1456  1574 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=433563 (in 7894 ms)
+01-01 08:09:33.059991  1456  1574 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:33.060142  1456  1574 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:33.060208  1456  1574 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x0, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:33.060510  1456  1574 V SettingsProvider: packageValueForCallResult, name = user_setup_complete, value : 1
+01-01 08:09:33.061602  1456  1574 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher3/.Launcher (has extras)} from uid 1000 from pid 1456 on display 0
+01-01 08:09:33.062800  1456  1574 V WindowManager: Looking for focus: 8 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:33.062874  1456  1574 V WindowManager: findFocusedWindow: Found new focus @ 3 = Window{49ab302 u0 com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity}
+01-01 08:09:33.064657  1456  1574 V WindowManager: Set focused app to: AppWindowToken{87f7d64 token=Token{422eaf7 ActivityRecord{a6e16f6 u0 com.android.launcher3/.Launcher t3}}} old focus=AppWindowToken{a7ce87 token=Token{ab87ff0 ActivityRecord{9237033 u0 com.mediatek.mtklogger/.MainActivity t21}}} moveFocusNow=true
+01-01 08:09:33.065741  1456  1574 V WindowManager: Looking for focus: 8 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:33.065881  1456  1574 V WindowManager: findFocusedWindow: Reached focused app=AppWindowToken{87f7d64 token=Token{422eaf7 ActivityRecord{a6e16f6 u0 com.android.launcher3/.Launcher t3}}}
+01-01 08:09:33.067126  1456  1574 V WindowManager: Changing focus from Window{49ab302 u0 com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity} to null Callers=com.android.server.wm.WindowManagerService.setFocusedApp:4480 com.android.server.am.ActivityManagerService.setFocusedActivityLocked:2924 com.android.server.am.ActivityStack.moveTaskToFrontLocked:4316 com.android.server.am.ActivityStackSupervisor.startActivityUncheckedLocked:2391 
+01-01 08:09:33.067228  1456  1574 D WindowManager: Input focus has changed to null
+01-01 08:09:33.067812  1456  1512 I WindowManager: Focus moving from Window{49ab302 u0 com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity} to null
+01-01 08:09:33.067872  1456  1512 I WindowManager: Losing focus: Window{49ab302 u0 com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity}
+01-01 08:09:33.081841  1456  1574 D PowerManagerService: acquireWakeLockInternal: lock=185970747, flags=0x1, tag="*launch*", ws=WorkSource{10013}, uid=1000, pid=1456
+01-01 08:09:33.081942  1456  1574 D PowerManagerService: updateWakeLockSummaryLocked: mWakefulness=Awake, mWakeLockSummary=0x1
+01-01 08:09:33.082028  1456  1574 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=433563 (in 7872 ms)
+01-01 08:09:33.082106  1456  1574 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:33.082145  1456  1574 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:33.082186  1456  1574 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x1, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:33.082289  1456  1574 D PowerManagerService: Acquiring suspend blocker "PowerManagerService.WakeLocks".
+01-01 08:09:33.082425  1456  1574 D PowerManagerNotifier: onWakeLockAcquired: flags=1, tag="*launch*", packageName=android, ownerUid=1000, ownerPid=1456, workSource=WorkSource{10013}
+01-01 08:09:33.082958  1456  1574 D ActivityManager: Delay resumeKeyDispatchingLocked() to avoid deadlock.
+01-01 08:09:33.085528  1456  1574 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: himax-touchscreen
+01-01 08:09:33.085588  1456  1574 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: mtk-tpd
+01-01 08:09:33.085632  1456  1574 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: gf-key
+01-01 08:09:33.085708  1456  1574 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: ACCDET
+01-01 08:09:33.085737  1456  1574 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: mtk-kpd
+01-01 08:09:33.087684  1456  1574 D ActivityManager: Set intentActivity.task.mMovingToFront = true
+01-01 08:09:33.090192  1456  2302 V ActivityManager: Broadcast: Intent { act=action_hide_recents_activity flg=0x14000010 pkg=com.android.systemui (has extras) } ordered=false userid=-2 callerApp=ProcessRecord{426617a 1790:com.android.systemui/u0a23}
+01-01 08:09:33.092851  1456  1499 V NetworkStats: setKernelCounterSet uid=10052 set=0
+01-01 08:09:33.092899  4633  4633 D ActivityThread: ACT-AM_ON_PAUSE_CALLED ActivityRecord{ad2898e token=android.os.BinderProxy@36205af {com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity}}
+01-01 08:09:33.092966  4633  4633 D ActivityThread: ACT-PAUSE_ACTIVITY handled : 3 / android.os.BinderProxy@36205af
+01-01 08:09:33.095249  4633  4633 V ActivityThread: Finishing stop of ActivityRecord{ad2898e token=android.os.BinderProxy@36205af {com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity}}: show=false win=com.android.internal.policy.PhoneWindow@1efa3df
+01-01 08:09:33.097026  1456  1755 V WindowManager: Looking for focus: 8 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:33.097092  1456  1755 V WindowManager: findFocusedWindow: No focusable windows.
+01-01 08:09:33.097567  4633  4633 D ActivityThread: ACT-STOP_ACTIVITY_HIDE handled : 0 / android.os.BinderProxy@36205af
+01-01 08:09:33.102941  2363  2363 V ActivityThread: Performing resume of ActivityRecord{4d34dcb token=android.os.BinderProxy@5ae29a8 {com.android.launcher3/com.android.launcher3.Launcher}}
+01-01 08:09:33.106293  2363  2363 D ActivityThread: ACT-AM_ON_RESUME_CALLED ActivityRecord{4d34dcb token=android.os.BinderProxy@5ae29a8 {com.android.launcher3/com.android.launcher3.Launcher}}
+01-01 08:09:33.106353  2363  2363 V ActivityThread: Resume ActivityRecord{4d34dcb token=android.os.BinderProxy@5ae29a8 {com.android.launcher3/com.android.launcher3.Launcher}} started activity: false, hideForNow: false, finished: false
+01-01 08:09:33.106400  2363  2363 V ActivityThread: Resuming ActivityRecord{4d34dcb token=android.os.BinderProxy@5ae29a8 {com.android.launcher3/com.android.launcher3.Launcher}} with isForward=true
+01-01 08:09:33.109275  2363  2363 V ActivityThread: Scheduling idle handler for ActivityRecord{4d34dcb token=android.os.BinderProxy@5ae29a8 {com.android.launcher3/com.android.launcher3.Launcher}}
+01-01 08:09:33.109743  2363  2363 D ActivityThread: ACT-RESUME_ACTIVITY handled : 1 / android.os.BinderProxy@5ae29a8
+01-01 08:09:33.112007  2363  2363 D ActivityThread: ACT-NEW_INTENT handled : 0 / NewIntentData{intents=[Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10600000 cmp=com.android.launcher3/.Launcher (has extras) }] token=android.os.BinderProxy@5ae29a8}
+01-01 08:09:33.115591  1456  1477 V WindowManager: Looking for focus: 8 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:33.115652  1456  1477 V WindowManager: findFocusedWindow: No focusable windows.
+01-01 08:09:33.120098  1456  1756 V WindowManager: Looking for focus: 8 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:33.120242  1456  1756 V WindowManager: findFocusedWindow: Found new focus @ 4 = Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher}
+01-01 08:09:33.120523  1456  1756 V WindowManager: Changing focus from null to Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher} Callers=com.android.server.wm.WindowManagerService.relayoutWindow:3599 com.android.server.wm.Session.relayout:201 android.view.IWindowSession$Stub.onTransact:284 com.android.server.wm.Session.onTransact:133 
+01-01 08:09:33.120636  1456  1756 D WindowManager: Input focus has changed to Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher}
+01-01 08:09:33.122855  1456  1512 I WindowManager: Focus moving from null to Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher}
+01-01 08:09:33.122927  1456  1512 I WindowManager: Gaining focus: Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher}
+01-01 08:09:33.129088  1456  1489 V InputMethodManagerService: windowGainedFocus: android.os.BinderProxy@a8f609a controlFlags=#104 softInputMode=#120 windowFlags=#81910100
+01-01 08:09:33.144127  1456  1757 D PowerManagerService: releaseWakeLockInternal: lock=185970747 [*launch*], flags=0x0, total_time=62ms
+01-01 08:09:33.144199  1456  1757 D PowerManagerNotifier: onWakeLockReleased: flags=1, tag="*launch*", packageName=android, ownerUid=1000, ownerPid=1456, workSource=WorkSource{10013}
+01-01 08:09:33.144301  1456  1757 D PowerManagerService: updateWakeLockSummaryLocked: mWakefulness=Awake, mWakeLockSummary=0x0
+01-01 08:09:33.144371  1456  1757 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=433563 (in 7809 ms)
+01-01 08:09:33.144510  1456  1757 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:33.144549  1456  1757 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:33.144588  1456  1757 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x0, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:33.144642  1456  1757 D PowerManagerService: Releasing suspend blocker "PowerManagerService.WakeLocks".
+01-01 08:09:33.147541  1456  1512 V WindowManager: Looking for focus: 8 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:33.147631  1456  1512 V WindowManager: findFocusedWindow: Found new focus @ 4 = Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher}
+01-01 08:09:33.147914  1456  1512 D WindowManager: notifyActivityDrawnForKeyguard: waiting=false Callers=com.android.server.wm.WindowManagerService.handleAppTransitionReadyLocked:10113 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLockedInner:10733 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLockedLoop:9477 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLocked:9424 com.android.server.wm.WindowManagerService.-wrap8:-1 
+01-01 08:09:33.155245  1456  1477 V WindowManager: Looking for focus: 8 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:33.155344  1456  1477 V WindowManager: findFocusedWindow: Found new focus @ 4 = Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher}
+01-01 08:09:33.571958  1456  1512 V WindowManager: Looking for focus: 8 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:33.572072  1456  1512 V WindowManager: findFocusedWindow: Found new focus @ 4 = Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher}
+01-01 08:09:33.684671  1456  1574 D PowerManagerService: userActivityFromNative
+01-01 08:09:33.684799  1456  1574 D PowerManagerService: userActivityNoUpdateLocked: eventTime=426293, event=2, flags=0x0, uid=1000
+01-01 08:09:33.684892  1456  1574 D PowerManagerNotifier: onUserActivity: event=2, uid=1000
+01-01 08:09:33.685082  1456  1574 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=433563 (in 7269 ms)
+01-01 08:09:33.685180  1456  1574 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:33.685227  1456  1574 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:33.685293  1456  1574 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x0, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:34.553733  1456  1574 D PowerManagerService: userActivityFromNative
+01-01 08:09:34.553850  1456  1574 D PowerManagerService: userActivityNoUpdateLocked: eventTime=427162, event=2, flags=0x0, uid=1000
+01-01 08:09:34.553902  1456  1574 D PowerManagerNotifier: onUserActivity: event=2, uid=1000
+01-01 08:09:34.554069  1456  1574 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=433563 (in 6400 ms)
+01-01 08:09:34.554177  1456  1574 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:34.554226  1456  1574 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:34.554283  1456  1574 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x0, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:34.554934  1456  1759 V SettingsProvider: packageValueForCallResult, name = haptic_feedback_enabled, value : 1
+01-01 08:09:34.555753  1456  1759 D PowerManagerService: acquireWakeLockInternal: lock=109361618, flags=0x1, tag="*vibrator*", ws=WorkSource{10013}, uid=1000, pid=1456
+01-01 08:09:34.555856  1456  1759 D PowerManagerService: updateWakeLockSummaryLocked: mWakefulness=Awake, mWakeLockSummary=0x1
+01-01 08:09:34.555984  1456  1759 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=433563 (in 6398 ms)
+01-01 08:09:34.556083  1456  1759 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:34.556130  1456  1759 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:34.556186  1456  1759 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x1, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:34.556262  1456  1759 D PowerManagerService: Acquiring suspend blocker "PowerManagerService.WakeLocks".
+01-01 08:09:34.556357  1456  1759 D PowerManagerNotifier: onWakeLockAcquired: flags=1, tag="*vibrator*", packageName=android, ownerUid=1000, ownerPid=1456, workSource=WorkSource{10013}
+01-01 08:09:34.618581  1456  4728 D PowerManagerService: releaseWakeLockInternal: lock=109361618 [*vibrator*], flags=0x0, total_time=63ms
+01-01 08:09:34.618724  1456  4728 D PowerManagerNotifier: onWakeLockReleased: flags=1, tag="*vibrator*", packageName=android, ownerUid=1000, ownerPid=1456, workSource=WorkSource{10013}
+01-01 08:09:34.618852  1456  4728 D PowerManagerService: updateWakeLockSummaryLocked: mWakefulness=Awake, mWakeLockSummary=0x0
+01-01 08:09:34.619401  1456  4728 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=433563 (in 6334 ms)
+01-01 08:09:34.619518  1456  4728 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:34.619678  1456  4728 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:34.619741  1456  4728 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x0, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:34.620050  1456  4728 D PowerManagerService: Releasing suspend blocker "PowerManagerService.WakeLocks".
+01-01 08:09:35.745954  1456  1574 D PowerManagerService: userActivityFromNative
+01-01 08:09:35.746050  1456  1574 D PowerManagerService: userActivityNoUpdateLocked: eventTime=428354, event=2, flags=0x0, uid=1000
+01-01 08:09:35.746101  1456  1574 D PowerManagerNotifier: onUserActivity: event=2, uid=1000
+01-01 08:09:35.746275  1456  1574 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=433563 (in 5207 ms)
+01-01 08:09:35.746373  1456  1574 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:35.746428  1456  1574 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:35.746485  1456  1574 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x0, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:35.838248  1456  2275 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.vending/.AssetBrowserActivity (has extras)} from uid 10013 from pid 2363 on display 0
+01-01 08:09:35.838992  1456  2275 V WindowManager: Looking for focus: 8 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:35.839071  1456  2275 V WindowManager: findFocusedWindow: Found new focus @ 1 = Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher}
+01-01 08:09:35.844028  1456  2275 D PowerManagerService: acquireWakeLockInternal: lock=185970747, flags=0x1, tag="*launch*", ws=WorkSource{10018}, uid=1000, pid=1456
+01-01 08:09:35.844266  1456  2275 D PowerManagerService: updateWakeLockSummaryLocked: mWakefulness=Awake, mWakeLockSummary=0x1
+01-01 08:09:35.844370  1456  2275 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=433563 (in 5109 ms)
+01-01 08:09:35.844569  1456  2275 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:35.844620  1456  2275 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:35.844665  1456  2275 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x1, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:35.844723  1456  2275 D PowerManagerService: Acquiring suspend blocker "PowerManagerService.WakeLocks".
+01-01 08:09:35.844822  1456  2275 D PowerManagerNotifier: onWakeLockAcquired: flags=1, tag="*launch*", packageName=android, ownerUid=1000, ownerPid=1456, workSource=WorkSource{10018}
+01-01 08:09:35.845542  1456  2275 V WindowManager: Looking for focus: 8 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:35.845599  1456  2275 V WindowManager: findFocusedWindow: Found new focus @ 1 = Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher}
+01-01 08:09:35.846801  1456  2275 V WindowManager: Set focused app to: AppWindowToken{9dadc5b token=Token{ecfa012 ActivityRecord{554539d u0 com.android.vending/.AssetBrowserActivity t22}}} old focus=AppWindowToken{87f7d64 token=Token{422eaf7 ActivityRecord{a6e16f6 u0 com.android.launcher3/.Launcher t3}}} moveFocusNow=true
+01-01 08:09:35.847345  1456  2275 V WindowManager: Looking for focus: 8 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:35.847426  1456  2275 V WindowManager: findFocusedWindow: Reached focused app=AppWindowToken{9dadc5b token=Token{ecfa012 ActivityRecord{554539d u0 com.android.vending/.AssetBrowserActivity t22}}}
+01-01 08:09:35.848756  1456  2275 V WindowManager: Changing focus from Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher} to null Callers=com.android.server.wm.WindowManagerService.setFocusedApp:4480 com.android.server.am.ActivityManagerService.setFocusedActivityLocked:2924 com.android.server.am.ActivityStackSupervisor.startActivityUncheckedLocked:2875 com.android.server.am.ActivityStackSupervisor.startActivityLocked:1881 
+01-01 08:09:35.848844  1456  2275 D WindowManager: Input focus has changed to null
+01-01 08:09:35.850328  1456  1512 D WindowManager: addWindowToListInOrderLocked: win=Window{560e337 u0 Starting com.android.vending} Callers=com.android.server.wm.WindowManagerService.addWindow:2782 com.android.server.wm.Session.addToDisplay:171 android.view.ViewRootImpl.setView:645 android.view.WindowManagerGlobal.addView:328 
+01-01 08:09:35.855278  1456  1512 V WindowManager: Looking for focus: 9 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:35.855378  1456  1512 V WindowManager: findFocusedWindow: Reached focused app=AppWindowToken{9dadc5b token=Token{ecfa012 ActivityRecord{554539d u0 com.android.vending/.AssetBrowserActivity t22}}}
+01-01 08:09:35.856537  2363  2363 D ActivityThread: ACT-AM_ON_PAUSE_CALLED ActivityRecord{4d34dcb token=android.os.BinderProxy@5ae29a8 {com.android.launcher3/com.android.launcher3.Launcher}}
+01-01 08:09:35.871391  1456  2302 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: himax-touchscreen
+01-01 08:09:35.871465  1456  2302 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: mtk-tpd
+01-01 08:09:35.871495  1456  2302 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: gf-key
+01-01 08:09:35.871520  1456  2302 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: ACCDET
+01-01 08:09:35.871669  1456  2302 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: mtk-kpd
+01-01 08:09:35.874673  3037  3037 V ActivityThread: Handling launch of ActivityRecord{13593d3 token=android.os.BinderProxy@f0c6b10 {com.android.vending/com.android.vending.AssetBrowserActivity}} startsNotResumed=false
+01-01 08:09:35.874902  3037  3037 V ActivityThread: ActivityRecord{13593d3 token=android.os.BinderProxy@f0c6b10 {com.android.vending/com.android.vending.AssetBrowserActivity}}: app=com.google.android.finsky.FinskyApp@d43e420, appName=com.android.vending, pkg=com.android.vending, comp={com.android.vending/com.android.vending.AssetBrowserActivity}, dir=/system/priv-app/Phonesky/Phonesky.apk
+01-01 08:09:35.875816  1456  2302 D ActivityManager: Delay resumeKeyDispatchingLocked() to avoid deadlock.
+01-01 08:09:35.877207  2363  2363 D ActivityThread: ACT-PAUSE_ACTIVITY handled : 1 / android.os.BinderProxy@5ae29a8
+01-01 08:09:35.881248  1456  1512 I WindowManager: Focus moving from Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher} to null
+01-01 08:09:35.881285  1456  1512 I WindowManager: Losing focus: Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher}
+01-01 08:09:35.882568  1456  1499 V NetworkStats: setKernelCounterSet uid=10018 set=1
+01-01 08:09:35.883644  1456  2268 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.android.vending/com.google.android.finsky.activities.MainActivity bnds=[55,600][175,720] (has extras)} from uid 10018 from pid 3037 on display 0
+01-01 08:09:35.885793  1456  1512 V WindowManager: Looking for focus: 9 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:35.885873  1456  1512 V WindowManager: findFocusedWindow: No focusable windows.
+01-01 08:09:35.886605  1456  1512 D WindowManager: notifyActivityDrawnForKeyguard: waiting=false Callers=com.android.server.wm.WindowManagerService.handleAppTransitionReadyLocked:10113 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLockedInner:10733 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLockedLoop:9477 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLocked:9424 com.android.server.wm.WindowManagerService.-wrap8:-1 
+01-01 08:09:35.890805  1456  2268 V WindowManager: Looking for focus: 9 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:35.890865  1456  2268 V WindowManager: findFocusedWindow: No focusable windows.
+01-01 08:09:35.894335  1456  2268 V WindowManager: Looking for focus: 9 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:35.894374  1456  2268 V WindowManager: findFocusedWindow: No focusable windows.
+01-01 08:09:35.897201  1456  2268 D WindowManager: addWindowToListInOrderLocked: win=Window{560e337 u0 Starting com.android.vending} Callers=com.android.server.wm.WindowManagerService.setAppStartingWindow:4674 com.android.server.am.ActivityStack.startActivityLocked:2675 com.android.server.am.ActivityStackSupervisor.startActivityUncheckedLocked:2872 com.android.server.am.ActivityStackSupervisor.startActivityLocked:1881 
+01-01 08:09:35.897288  1456  2268 V WindowManager: Based on layer: Adding window Window{560e337 u0 Starting com.android.vending} at 5 of 10
+01-01 08:09:35.897352  1456  2268 V WindowManager: Looking for focus: 9 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:35.897382  1456  2268 V WindowManager: findFocusedWindow: No focusable windows.
+01-01 08:09:35.898997  1456  2268 D PowerManagerService: acquireWakeLockInternal: lock=185970747, flags=0x1, tag="*launch*", ws=WorkSource{10018}, uid=1000, pid=1456
+01-01 08:09:35.899064  1456  2268 D PowerManagerService: updateWakeLockSummaryLocked: mWakefulness=Awake, mWakeLockSummary=0x1
+01-01 08:09:35.899128  1456  2268 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=433563 (in 5054 ms)
+01-01 08:09:35.899199  1456  2268 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:35.899245  1456  2268 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:35.899283  1456  2268 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x1, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:35.899931  1456  2268 V WindowManager: Looking for focus: 9 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:35.899960  1456  2268 V WindowManager: findFocusedWindow: No focusable windows.
+01-01 08:09:35.901842  1456  2268 V WindowManager: Set focused app to: AppWindowToken{83f3310 token=Token{7d67bd3 ActivityRecord{d3c31c2 u0 com.android.vending/com.google.android.finsky.activities.MainActivity t22}}} old focus=AppWindowToken{9dadc5b token=Token{ecfa012 ActivityRecord{554539d u0 com.android.vending/.AssetBrowserActivity t22}}} moveFocusNow=true
+01-01 08:09:35.902216  1456  2268 V WindowManager: Looking for focus: 9 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:35.902257  1456  2268 V WindowManager: findFocusedWindow: No focusable windows.
+01-01 08:09:35.903212  3037  3037 V ActivityThread: Performing resume of ActivityRecord{13593d3 token=android.os.BinderProxy@f0c6b10 {com.android.vending/com.google.android.finsky.activities.MainActivity}}
+01-01 08:09:35.903282  3037  3037 V ActivityThread: Resume ActivityRecord{13593d3 token=android.os.BinderProxy@f0c6b10 {com.android.vending/com.google.android.finsky.activities.MainActivity}} started activity: false, hideForNow: false, finished: true
+01-01 08:09:35.903334  3037  3037 V ActivityThread: Scheduling idle handler for ActivityRecord{13593d3 token=android.os.BinderProxy@f0c6b10 {com.android.vending/com.google.android.finsky.activities.MainActivity}}
+01-01 08:09:35.903399  3037  3037 D ActivityThread: ACT-LAUNCH_ACTIVITY handled : 0 / ActivityRecord{13593d3 token=android.os.BinderProxy@f0c6b10 {com.android.vending/com.google.android.finsky.activities.MainActivity}}
+01-01 08:09:35.907387  1456  1759 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: himax-touchscreen
+01-01 08:09:35.907461  1456  1759 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: mtk-tpd
+01-01 08:09:35.907492  1456  1759 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: gf-key
+01-01 08:09:35.907537  1456  1759 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: ACCDET
+01-01 08:09:35.907563  1456  1759 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: mtk-kpd
+01-01 08:09:35.910652  1456  1759 V WindowManager: Looking for focus: 9 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:35.910692  1456  1759 V WindowManager: findFocusedWindow: No focusable windows.
+01-01 08:09:35.911228  1456  1759 D WindowManager: notifyActivityDrawnForKeyguard: waiting=false Callers=com.android.server.wm.WindowManagerService.handleAppTransitionReadyLocked:10113 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLockedInner:10733 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLockedLoop:9477 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLocked:9424 com.android.server.wm.WindowManagerService.executeAppTransition:4596 
+01-01 08:09:35.917966  1456  1757 V WindowManager: Looking for focus: 9 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:35.918092  1456  1757 V WindowManager: findFocusedWindow: No focusable windows.
+01-01 08:09:35.918160  1456  1759 D ActivityManager: Delay resumeKeyDispatchingLocked() to avoid deadlock.
+01-01 08:09:35.919562  3037  3037 D ActivityThread: ACT-PAUSE_ACTIVITY handled : 1 / android.os.BinderProxy@f0c6b10
+01-01 08:09:35.919764  3037  3037 V ActivityThread: Handling launch of ActivityRecord{f48a609 token=android.os.BinderProxy@87ba00e {com.android.vending/com.google.android.finsky.activities.MainActivity}} startsNotResumed=false
+01-01 08:09:35.919991  3037  3037 V ActivityThread: ActivityRecord{f48a609 token=android.os.BinderProxy@87ba00e {com.android.vending/com.google.android.finsky.activities.MainActivity}}: app=com.google.android.finsky.FinskyApp@d43e420, appName=com.android.vending, pkg=com.android.vending, comp={com.android.vending/com.google.android.finsky.activities.MainActivity}, dir=/system/priv-app/Phonesky/Phonesky.apk
+01-01 08:09:35.993849  3037  3037 V ActivityThread: Performing resume of ActivityRecord{f48a609 token=android.os.BinderProxy@87ba00e {com.android.vending/com.google.android.finsky.activities.MainActivity}}
+01-01 08:09:35.994322  1456  1757 D CSLegacyTypeTracker: getNetworkForType type 0
+01-01 08:09:35.994409  1456  1757 D CSLegacyTypeTracker: getNetworkForType type 1
+01-01 08:09:35.994459  1456  1757 D CSLegacyTypeTracker: getNetworkForType type 2
+01-01 08:09:35.994501  1456  1757 D CSLegacyTypeTracker: getNetworkForType type 3
+01-01 08:09:35.994543  1456  1757 D CSLegacyTypeTracker: getNetworkForType type 4
+01-01 08:09:35.994602  1456  1757 D CSLegacyTypeTracker: getNetworkForType type 5
+01-01 08:09:35.994654  1456  1757 D CSLegacyTypeTracker: getNetworkForType type 7
+01-01 08:09:35.994710  1456  1757 D CSLegacyTypeTracker: getNetworkForType type 10
+01-01 08:09:35.994752  1456  1757 D CSLegacyTypeTracker: getNetworkForType type 11
+01-01 08:09:35.994793  1456  1757 D CSLegacyTypeTracker: getNetworkForType type 12
+01-01 08:09:35.994842  1456  1757 D CSLegacyTypeTracker: getNetworkForType type 14
+01-01 08:09:35.994886  1456  1757 D CSLegacyTypeTracker: getNetworkForType type 15
+01-01 08:09:35.994934  1456  1757 D CSLegacyTypeTracker: getNetworkForType type 17
+01-01 08:09:35.995069  1456  1757 D CSLegacyTypeTracker: getNetworkForType type 34
+01-01 08:09:35.995113  1456  1757 D CSLegacyTypeTracker: getNetworkForType type 35
+01-01 08:09:35.995258  1456  1757 D CSLegacyTypeTracker: getNetworkForType type 36
+01-01 08:09:35.995330  1456  1757 D CSLegacyTypeTracker: getNetworkForType type 37
+01-01 08:09:35.995376  1456  1757 D CSLegacyTypeTracker: getNetworkForType type 38
+01-01 08:09:35.995429  1456  1757 D CSLegacyTypeTracker: getNetworkForType type 40
+01-01 08:09:35.995470  1456  1757 D CSLegacyTypeTracker: getNetworkForType type 41
+01-01 08:09:35.995560  1456  1757 D CSLegacyTypeTracker: getNetworkForType type 49
+01-01 08:09:35.996992  3037  3037 D ActivityThread: ACT-AM_ON_RESUME_CALLED ActivityRecord{f48a609 token=android.os.BinderProxy@87ba00e {com.android.vending/com.google.android.finsky.activities.MainActivity}}
+01-01 08:09:35.997071  3037  3037 V ActivityThread: Resume ActivityRecord{f48a609 token=android.os.BinderProxy@87ba00e {com.android.vending/com.google.android.finsky.activities.MainActivity}} started activity: false, hideForNow: false, finished: false
+01-01 08:09:36.001530  1456  1477 D WindowManager: addWindowToListInOrderLocked: win=Window{3b2371a u0 com.android.vending/com.google.android.finsky.activities.MainActivity} Callers=com.android.server.wm.WindowManagerService.addWindow:2782 com.android.server.wm.Session.addToDisplay:171 android.view.IWindowSession$Stub.onTransact:124 com.android.server.wm.Session.onTransact:133 
+01-01 08:09:36.003408  3037  3037 V ActivityThread: Resuming ActivityRecord{f48a609 token=android.os.BinderProxy@87ba00e {com.android.vending/com.google.android.finsky.activities.MainActivity}} with isForward=true
+01-01 08:09:36.003622  3037  3037 V ActivityThread: Scheduling idle handler for ActivityRecord{f48a609 token=android.os.BinderProxy@87ba00e {com.android.vending/com.google.android.finsky.activities.MainActivity}}
+01-01 08:09:36.003952  3037  3037 D ActivityThread: ACT-LAUNCH_ACTIVITY handled : 0 / ActivityRecord{f48a609 token=android.os.BinderProxy@87ba00e {com.android.vending/com.google.android.finsky.activities.MainActivity}}
+01-01 08:09:36.009341  1456  1755 V WindowManager: Looking for focus: 10 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:36.009371  1456  1755 V WindowManager: findFocusedWindow: No focusable windows.
+01-01 08:09:36.010891  1456  1755 V WindowManager: Set focused app to: AppWindowToken{87f7d64 token=Token{422eaf7 ActivityRecord{a6e16f6 u0 com.android.launcher3/.Launcher t3}}} old focus=AppWindowToken{83f3310 token=Token{7d67bd3 ActivityRecord{d3c31c2 u0 com.android.vending/com.google.android.finsky.activities.MainActivity t22}}} moveFocusNow=true
+01-01 08:09:36.011421  1456  1755 V WindowManager: Looking for focus: 10 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:36.011472  1456  1755 V WindowManager: findFocusedWindow: No focusable windows.
+01-01 08:09:36.012114   869  1504 D FrameworkListener: dispatchCommand data = (getaddrinfo play.googleapis.com ^ 1024 0 1 0 0)
+01-01 08:09:36.026192  1456  1755 D PowerManagerService: acquireWakeLockInternal: lock=185970747, flags=0x1, tag="*launch*", ws=WorkSource{10018}, uid=1000, pid=1456
+01-01 08:09:36.026281  1456  1755 D PowerManagerService: updateWakeLockSummaryLocked: mWakefulness=Awake, mWakeLockSummary=0x1
+01-01 08:09:36.026375  1456  1755 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=433563 (in 4927 ms)
+01-01 08:09:36.026493  1456  1755 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:36.026528  1456  1755 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:36.026578  1456  1755 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x1, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:36.038691  1456  1757 V WindowManager: Looking for focus: 10 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:36.038752  1456  1757 V WindowManager: findFocusedWindow: No focusable windows.
+01-01 08:09:36.074980  3037  3037 D ActivityThread: ACT-AM_ON_PAUSE_CALLED ActivityRecord{f48a609 token=android.os.BinderProxy@87ba00e {com.android.vending/com.google.android.finsky.activities.MainActivity}}
+01-01 08:09:36.076837  1456  2301 D PowerManagerService: updateWakeLockWorkSourceInternal: lock=185970747 [*launch*], ws=WorkSource{10013}
+01-01 08:09:36.076991  1456  2301 D PowerManagerNotifier: onWakeLockChanging: flags=1, tag="*launch*", packageName=android, ownerUid=1000, ownerPid=1456, workSource=WorkSource{10013}
+01-01 08:09:36.078519  1456  2301 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: himax-touchscreen
+01-01 08:09:36.078571  1456  2301 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: mtk-tpd
+01-01 08:09:36.078599  1456  2301 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: gf-key
+01-01 08:09:36.078624  1456  2301 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: ACCDET
+01-01 08:09:36.078648  1456  2301 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: mtk-kpd
+01-01 08:09:36.080772  1456  2301 D ActivityManager: Delay resumeKeyDispatchingLocked() to avoid deadlock.
+01-01 08:09:36.081688  3037  3037 D ActivityThread: ACT-PAUSE_ACTIVITY_FINISHING handled : 0 / android.os.BinderProxy@87ba00e
+01-01 08:09:36.082811  1456  1756 V WindowManager: Looking for focus: 10 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:36.082875  1456  1756 V WindowManager: findFocusedWindow: No focusable windows.
+01-01 08:09:36.093970  1456  1760 V WindowManager: Looking for focus: 10 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:36.094115  1456  1760 V WindowManager: findFocusedWindow: Found new focus @ 6 = Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher}
+01-01 08:09:36.094455  1456  1760 V WindowManager: Changing focus from null to Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher} Callers=com.android.server.wm.WindowManagerService.relayoutWindow:3599 com.android.server.wm.Session.relayout:201 android.view.IWindowSession$Stub.onTransact:284 com.android.server.wm.Session.onTransact:133 
+01-01 08:09:36.094627  1456  1760 D WindowManager: Input focus has changed to Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher}
+01-01 08:09:36.103667  1456  1760 V WindowManager: Looking for focus: 10 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:36.103743  1456  1760 V WindowManager: findFocusedWindow: Found new focus @ 6 = Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher}
+01-01 08:09:36.104048  1456  1760 D WindowManager: notifyActivityDrawnForKeyguard: waiting=false Callers=com.android.server.wm.WindowManagerService.handleAppTransitionReadyLocked:10113 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLockedInner:10733 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLockedLoop:9477 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLocked:9424 com.android.server.wm.WindowManagerService.relayoutWindow:3628 
+01-01 08:09:36.110829  1456  1512 I WindowManager: Focus moving from null to Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher}
+01-01 08:09:36.110905  1456  1512 I WindowManager: Gaining focus: Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher}
+01-01 08:09:36.121170  2363  2363 V ActivityThread: Performing resume of ActivityRecord{4d34dcb token=android.os.BinderProxy@5ae29a8 {com.android.launcher3/com.android.launcher3.Launcher}}
+01-01 08:09:36.122557  2363  2363 D ActivityThread: ACT-AM_ON_RESUME_CALLED ActivityRecord{4d34dcb token=android.os.BinderProxy@5ae29a8 {com.android.launcher3/com.android.launcher3.Launcher}}
+01-01 08:09:36.122621  2363  2363 V ActivityThread: Resume ActivityRecord{4d34dcb token=android.os.BinderProxy@5ae29a8 {com.android.launcher3/com.android.launcher3.Launcher}} started activity: false, hideForNow: false, finished: false
+01-01 08:09:36.122681  2363  2363 V ActivityThread: Resuming ActivityRecord{4d34dcb token=android.os.BinderProxy@5ae29a8 {com.android.launcher3/com.android.launcher3.Launcher}} with isForward=false
+01-01 08:09:36.122887  2363  2363 V ActivityThread: Scheduling idle handler for ActivityRecord{4d34dcb token=android.os.BinderProxy@5ae29a8 {com.android.launcher3/com.android.launcher3.Launcher}}
+01-01 08:09:36.128391  2363  2363 D ActivityThread: ACT-RESUME_ACTIVITY handled : 0 / android.os.BinderProxy@5ae29a8
+01-01 08:09:36.129900  1456  1512 V WindowManager: Looking for focus: 10 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:36.131001  1456  1512 V WindowManager: findFocusedWindow: Found new focus @ 6 = Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher}
+01-01 08:09:36.161835  1456  2301 V InputMethodManagerService: windowGainedFocus: android.os.BinderProxy@a8f609a controlFlags=#5 softInputMode=#20 windowFlags=#81910100
+01-01 08:09:36.161986  1456  2301 W InputMethodManagerService: Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@7934b79 attribute=null, token = android.os.BinderProxy@f973dcb
+01-01 08:09:36.163382  1456  1756 V WindowManager: Looking for focus: 10 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:36.163659  1456  1756 V WindowManager: findFocusedWindow: Found new focus @ 6 = Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher}
+01-01 08:09:36.164939  1456  1755 D PowerManagerService: releaseWakeLockInternal: lock=185970747 [*launch*], flags=0x0, total_time=320ms
+01-01 08:09:36.165030  1456  1755 D PowerManagerNotifier: onWakeLockReleased: flags=1, tag="*launch*", packageName=android, ownerUid=1000, ownerPid=1456, workSource=WorkSource{10013}
+01-01 08:09:36.165150  1456  1755 D PowerManagerService: updateWakeLockSummaryLocked: mWakefulness=Awake, mWakeLockSummary=0x0
+01-01 08:09:36.165238  1456  1755 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=433563 (in 4788 ms)
+01-01 08:09:36.165314  1456  1755 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:36.165353  1456  1755 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:36.165397  1456  1755 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x0, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:36.165452  1456  1755 D PowerManagerService: Releasing suspend blocker "PowerManagerService.WakeLocks".
+01-01 08:09:36.168246  3037  3037 D ActivityThread: ACT-DESTROY_ACTIVITY handled : 1 / android.os.BinderProxy@f0c6b10
+01-01 08:09:36.168693  1456  1499 V NetworkStats: setKernelCounterSet uid=10018 set=0
+01-01 08:09:36.173393  1456  1757 V WindowManager: Looking for focus: 10 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:36.173505  1456  1757 V WindowManager: findFocusedWindow: Found new focus @ 6 = Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher}
+01-01 08:09:36.175228  3037  3037 D ActivityThread: ACT-DESTROY_ACTIVITY handled : 1 / android.os.BinderProxy@87ba00e
+01-01 08:09:36.468415   901   901 I sn      : Retry 40
+01-01 08:09:36.468854   901   901 I sn      : Fail to access err=2
+01-01 08:09:36.469090   901   901 I sn      : Fail to access err=2
+01-01 08:09:36.469143   901   901 I sn      : Fail to access err=2
+01-01 08:09:36.469173   901   901 I sn      : Check all possible paths
+01-01 08:09:36.526724  1456  1512 V WindowManager: Looking for focus: 8 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:36.526921  1456  1512 V WindowManager: findFocusedWindow: Found new focus @ 4 = Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher}
+01-01 08:09:37.511958  1456  1574 D PowerManagerService: userActivityFromNative
+01-01 08:09:37.512083  1456  1574 D PowerManagerService: userActivityNoUpdateLocked: eventTime=430119, event=2, flags=0x0, uid=1000
+01-01 08:09:37.512169  1456  1574 D PowerManagerNotifier: onUserActivity: event=2, uid=1000
+01-01 08:09:37.512334  1456  1574 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=433563 (in 3441 ms)
+01-01 08:09:37.512479  1456  1574 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:37.512531  1456  1574 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:37.512591  1456  1574 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x0, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:37.513914  1456  1489 V SettingsProvider: packageValueForCallResult, name = haptic_feedback_enabled, value : 1
+01-01 08:09:37.514517  1456  1489 D PowerManagerService: acquireWakeLockInternal: lock=109361618, flags=0x1, tag="*vibrator*", ws=WorkSource{1000}, uid=1000, pid=1456
+01-01 08:09:37.514614  1456  1489 D PowerManagerService: updateWakeLockSummaryLocked: mWakefulness=Awake, mWakeLockSummary=0x1
+01-01 08:09:37.514713  1456  1489 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=433563 (in 3439 ms)
+01-01 08:09:37.514812  1456  1489 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:37.514867  1456  1489 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:37.514924  1456  1489 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x1, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:37.514998  1456  1489 D PowerManagerService: Acquiring suspend blocker "PowerManagerService.WakeLocks".
+01-01 08:09:37.515103  1456  1489 D PowerManagerNotifier: onWakeLockAcquired: flags=1, tag="*vibrator*", packageName=android, ownerUid=1000, ownerPid=1456, workSource=WorkSource{1000}
+01-01 08:09:37.515775  1456  1574 D PowerManagerService: userActivityFromNative
+01-01 08:09:37.515887  1456  1574 D PowerManagerService: userActivityNoUpdateLocked: eventTime=430122, event=1, flags=0x0, uid=1000
+01-01 08:09:37.515940  1456  1574 D PowerManagerNotifier: onUserActivity: event=1, uid=1000
+01-01 08:09:37.516139  1456  1574 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=438122 (in 7996 ms)
+01-01 08:09:37.516237  1456  1574 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:37.516285  1456  1574 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:37.516343  1456  1574 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x1, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:37.577125  1456  4733 D PowerManagerService: releaseWakeLockInternal: lock=109361618 [*vibrator*], flags=0x0, total_time=62ms
+01-01 08:09:37.577240  1456  4733 D PowerManagerNotifier: onWakeLockReleased: flags=1, tag="*vibrator*", packageName=android, ownerUid=1000, ownerPid=1456, workSource=WorkSource{1000}
+01-01 08:09:37.577366  1456  4733 D PowerManagerService: updateWakeLockSummaryLocked: mWakefulness=Awake, mWakeLockSummary=0x0
+01-01 08:09:37.577487  1456  4733 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=438122 (in 7935 ms)
+01-01 08:09:37.577599  1456  4733 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:37.577653  1456  4733 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:37.577724  1456  4733 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x0, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:37.577799  1456  4733 D PowerManagerService: Releasing suspend blocker "PowerManagerService.WakeLocks".
+01-01 08:09:38.359671  1456  2143 W Watchdog: SWT Watchdog after wait current time:430969
+01-01 08:09:38.359855  1456  2143 W Watchdog: **Get SF Time **1
+01-01 08:09:38.359975  1456  2143 W Watchdog: SWT Watchdog before synchronized:430969
+01-01 08:09:38.360005  1456  2143 W Watchdog: SWT Watchdog after synchronized:430969
+01-01 08:09:38.360245  1456  2143 W Watchdog: SWT Watchdog before wait timeout:30000
+01-01 08:09:38.360294  1456  2143 W Watchdog: SWT Watchdog before wait current time:430970
+01-01 08:09:38.360328  1456  2143 W Watchdog: SWT Watchdog before wait start:430969
+01-01 08:09:38.360360  1456  2143 W Watchdog: SWT Watchdog before wait CHECK_INTERVAL:30000
+01-01 08:09:38.714767  1456  1574 D PowerManagerService: userActivityFromNative
+01-01 08:09:38.714883  1456  1574 D PowerManagerService: userActivityNoUpdateLocked: eventTime=431323, event=2, flags=0x0, uid=1000
+01-01 08:09:38.714938  1456  1574 D PowerManagerNotifier: onUserActivity: event=2, uid=1000
+01-01 08:09:38.715109  1456  1574 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=438122 (in 6798 ms)
+01-01 08:09:38.715223  1456  1574 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:38.715273  1456  1574 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:38.715333  1456  1574 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x0, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:38.721369  1456  2302 D NotificationService: clearEffects
+01-01 08:09:38.723431  1456  1477 D NotificationService: Marking notification as seen 0|com.qihoo.antivirus|100000000|null|10000
+01-01 08:09:38.817495  1456  1759 V ActivityManager: Broadcast sticky: Intent { act=android.intent.action.SIG_STR flg=0x20000010 (has extras) } ordered=false userid=-1 callerApp=ProcessRecord{8d6fbe0 1456:system/1000}
+01-01 08:09:38.862999  1456  1499 V SettingsProvider: packageValueForCallResult, name = user_setup_complete, value : 1
+01-01 08:09:38.863563  1456  1757 V WindowManager: Looking for focus: 8 = Window{553e67c u0 StatusBar}, flags=-2121924544, canReceive=true
+01-01 08:09:38.863641  1456  1757 V WindowManager: findFocusedWindow: Found new focus @ 8 = Window{553e67c u0 StatusBar}
+01-01 08:09:38.864025  1456  1757 V WindowManager: Changing focus from Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher} to Window{553e67c u0 StatusBar} Callers=com.android.server.wm.WindowManagerService.relayoutWindow:3599 com.android.server.wm.Session.relayout:201 android.view.IWindowSession$Stub.onTransact:284 com.android.server.wm.Session.onTransact:133 
+01-01 08:09:38.864150  1456  1757 D WindowManager: Input focus has changed to Window{553e67c u0 StatusBar}
+01-01 08:09:38.866018  1456  1512 I WindowManager: Focus moving from Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher} to Window{553e67c u0 StatusBar}
+01-01 08:09:38.866104  1456  1512 I WindowManager: Gaining focus: Window{553e67c u0 StatusBar}
+01-01 08:09:38.866231  1456  1512 I WindowManager: Losing focus: Window{e3b59a8 u0 com.android.launcher3/com.android.launcher3.Launcher}
+01-01 08:09:39.216480  1456  1477 V SettingsProvider: packageValueForCallResult, name = accelerometer_rotation, value : 1
+01-01 08:09:39.220395  1456  1477 D WifiDisplayAdapter: getWifiDisplayStatusLocked: result=WifiDisplayStatus{featureState=2, scanState=0, activeDisplayState=0, activeDisplay=null, displays=[], sessionInfo=WifiDisplaySessionInfo: C/O:Client,GId:,Pp:,SId:0,IP:}
+01-01 08:09:39.220817  1456  1489 D WifiDisplayAdapter: getIfSinkEnabledLocked
+01-01 08:09:39.221116  1456  1489 I WifiDisplayController: getIfSinkEnabled,enable = false
+01-01 08:09:39.221558  1456  2301 D WifiDisplayAdapter: getWifiDisplayStatusLocked: result=WifiDisplayStatus{featureState=2, scanState=0, activeDisplayState=0, activeDisplay=null, displays=[], sessionInfo=WifiDisplaySessionInfo: C/O:Client,GId:,Pp:,SId:0,IP:}
+01-01 08:09:39.230405  1456  1757 V SettingsProvider: packageValueForCallResult, name = accelerometer_rotation, value : 1
+01-01 08:09:39.231651  1456  1756 V SettingsProvider: packageValueForCallResult, name = screen_brightness_mode, value : 0
+01-01 08:09:39.232925  1456  1757 V SettingsProvider: packageValueForCallResult, name = screen_brightness, value : 61
+01-01 08:09:39.245205  1456  1758 D NotificationService: Marking notification as seen 0|com.mediatek.mtklogger|2130837539|null|10052
+01-01 08:09:39.732257  1456  1574 D PowerManagerService: userActivityFromNative
+01-01 08:09:39.732368  1456  1574 D PowerManagerService: userActivityNoUpdateLocked: eventTime=432341, event=2, flags=0x0, uid=1000
+01-01 08:09:39.732451  1456  1574 D PowerManagerNotifier: onUserActivity: event=2, uid=1000
+01-01 08:09:39.732633  1456  1574 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=438122 (in 5780 ms)
+01-01 08:09:39.732785  1456  1574 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:39.732842  1456  1574 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:39.732908  1456  1574 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x0, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:39.849905  1456  1476 I ActivityManager: START u0 {flg=0x10000000 cmp=com.mediatek.mtklogger/.MainActivity} from uid 10052 from pid -1 on display 0
+01-01 08:09:39.850710  1456  1476 V WindowManager: Looking for focus: 8 = Window{553e67c u0 StatusBar}, flags=-2121924544, canReceive=true
+01-01 08:09:39.850779  1456  1476 V WindowManager: findFocusedWindow: Found new focus @ 8 = Window{553e67c u0 StatusBar}
+01-01 08:09:39.852585  1456  1476 V WindowManager: Set focused app to: AppWindowToken{a7ce87 token=Token{ab87ff0 ActivityRecord{9237033 u0 com.mediatek.mtklogger/.MainActivity t21}}} old focus=AppWindowToken{87f7d64 token=Token{422eaf7 ActivityRecord{a6e16f6 u0 com.android.launcher3/.Launcher t3}}} moveFocusNow=true
+01-01 08:09:39.853905  1456  1476 V WindowManager: Looking for focus: 8 = Window{553e67c u0 StatusBar}, flags=-2121924544, canReceive=true
+01-01 08:09:39.854006  1456  1476 V WindowManager: findFocusedWindow: Found new focus @ 8 = Window{553e67c u0 StatusBar}
+01-01 08:09:39.854623  1456  1476 D PowerManagerService: acquireWakeLockInternal: lock=185970747, flags=0x1, tag="*launch*", ws=WorkSource{10052}, uid=1000, pid=1456
+01-01 08:09:39.854944  1456  1476 D PowerManagerService: updateWakeLockSummaryLocked: mWakefulness=Awake, mWakeLockSummary=0x1
+01-01 08:09:39.855027  1456  1476 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=438122 (in 5658 ms)
+01-01 08:09:39.855168  1456  1476 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:39.855479  1456  1476 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:39.855764  1456  1476 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x1, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:39.855846  1456  1476 D PowerManagerService: Acquiring suspend blocker "PowerManagerService.WakeLocks".
+01-01 08:09:39.855947  1456  1476 D PowerManagerNotifier: onWakeLockAcquired: flags=1, tag="*launch*", packageName=android, ownerUid=1000, ownerPid=1456, workSource=WorkSource{10052}
+01-01 08:09:39.856568  2363  2363 D ActivityThread: ACT-AM_ON_PAUSE_CALLED ActivityRecord{4d34dcb token=android.os.BinderProxy@5ae29a8 {com.android.launcher3/com.android.launcher3.Launcher}}
+01-01 08:09:39.856617  1456  1476 D ActivityManager: Set intentActivity.task.mMovingToFront = true
+01-01 08:09:39.858588  1456  1758 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: himax-touchscreen
+01-01 08:09:39.858638  1456  1758 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: mtk-tpd
+01-01 08:09:39.858672  1456  1758 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: gf-key
+01-01 08:09:39.858698  1456  1758 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: ACCDET
+01-01 08:09:39.858731  1456  1758 W WindowManager:  SLCODE computeScreenConfigurationLocked, the hard device name is: mtk-kpd
+01-01 08:09:39.860806  1456  1758 D ActivityManager: Delay resumeKeyDispatchingLocked() to avoid deadlock.
+01-01 08:09:39.861819  2363  2363 D ActivityThread: ACT-PAUSE_ACTIVITY handled : 1 / android.os.BinderProxy@5ae29a8
+01-01 08:09:39.862549  1456  1499 V NetworkStats: setKernelCounterSet uid=10052 set=1
+01-01 08:09:39.863538  1456  1760 V WindowManager: Looking for focus: 8 = Window{553e67c u0 StatusBar}, flags=-2121924544, canReceive=true
+01-01 08:09:39.863614  1456  1760 V WindowManager: findFocusedWindow: Found new focus @ 8 = Window{553e67c u0 StatusBar}
+01-01 08:09:39.866033  1456  2275 V WindowManager: Looking for focus: 8 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:39.866167  1456  2275 V WindowManager: findFocusedWindow: No focusable windows.
+01-01 08:09:39.866503  4633  4633 D ActivityThread: ACT-NEW_INTENT handled : 0 / NewIntentData{intents=[Intent { flg=0x10400000 cmp=com.mediatek.mtklogger/.MainActivity }] token=android.os.BinderProxy@36205af}
+01-01 08:09:39.866665  1456  2275 V WindowManager: Changing focus from Window{553e67c u0 StatusBar} to null Callers=com.android.server.wm.WindowManagerService.relayoutWindow:3599 com.android.server.wm.Session.relayout:201 android.view.IWindowSession$Stub.onTransact:284 com.android.server.wm.Session.onTransact:133 
+01-01 08:09:39.866827  1456  2275 D WindowManager: Input focus has changed to null
+01-01 08:09:39.866701  4633  4633 V ActivityThread: Performing resume of ActivityRecord{ad2898e token=android.os.BinderProxy@36205af {com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity}}
+01-01 08:09:39.869537  1456  1512 I WindowManager: Focus moving from Window{553e67c u0 StatusBar} to null
+01-01 08:09:39.869622  1456  1512 I WindowManager: Losing focus: Window{553e67c u0 StatusBar}
+01-01 08:09:39.872420  4633  4633 D ActivityThread: ACT-AM_ON_RESUME_CALLED ActivityRecord{ad2898e token=android.os.BinderProxy@36205af {com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity}}
+01-01 08:09:39.872478  4633  4633 V ActivityThread: Resume ActivityRecord{ad2898e token=android.os.BinderProxy@36205af {com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity}} started activity: false, hideForNow: false, finished: false
+01-01 08:09:39.872531  4633  4633 V ActivityThread: Resuming ActivityRecord{ad2898e token=android.os.BinderProxy@36205af {com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity}} with isForward=true
+01-01 08:09:39.875968  4633  4633 V ActivityThread: Scheduling idle handler for ActivityRecord{ad2898e token=android.os.BinderProxy@36205af {com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity}}
+01-01 08:09:39.876828  4633  4633 D ActivityThread: ACT-RESUME_ACTIVITY handled : 1 / android.os.BinderProxy@36205af
+01-01 08:09:39.886162  1456  1759 V WindowManager: Looking for focus: 8 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:39.886316  1456  1759 V WindowManager: findFocusedWindow: Found new focus @ 4 = Window{49ab302 u0 com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity}
+01-01 08:09:39.886740  1456  1759 V WindowManager: Changing focus from null to Window{49ab302 u0 com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity} Callers=com.android.server.wm.WindowManagerService.relayoutWindow:3599 com.android.server.wm.Session.relayout:201 android.view.IWindowSession$Stub.onTransact:284 com.android.server.wm.Session.onTransact:133 
+01-01 08:09:39.886890  1456  1759 D WindowManager: Input focus has changed to Window{49ab302 u0 com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity}
+01-01 08:09:39.889910  1456  1512 I WindowManager: Focus moving from null to Window{49ab302 u0 com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity}
+01-01 08:09:39.890002  1456  1512 I WindowManager: Gaining focus: Window{49ab302 u0 com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity}
+01-01 08:09:39.914791  1456  2301 V InputMethodManagerService: windowGainedFocus: android.os.BinderProxy@a5b7fe4 controlFlags=#104 softInputMode=#120 windowFlags=#1810100
+01-01 08:09:39.940417  1456  1512 V WindowManager: Looking for focus: 8 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:39.940623  1456  1512 V WindowManager: findFocusedWindow: Found new focus @ 4 = Window{49ab302 u0 com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity}
+01-01 08:09:39.941281  1456  1512 D WindowManager: notifyActivityDrawnForKeyguard: waiting=false Callers=com.android.server.wm.WindowManagerService.handleAppTransitionReadyLocked:10113 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLockedInner:10733 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLockedLoop:9477 com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLocked:9424 com.android.server.wm.WindowManagerService.-wrap8:-1 
+01-01 08:09:39.957055  1456  1756 D PowerManagerService: releaseWakeLockInternal: lock=185970747 [*launch*], flags=0x0, total_time=102ms
+01-01 08:09:39.957164  1456  1756 D PowerManagerNotifier: onWakeLockReleased: flags=1, tag="*launch*", packageName=android, ownerUid=1000, ownerPid=1456, workSource=WorkSource{10052}
+01-01 08:09:39.957472  1456  1756 D PowerManagerService: updateWakeLockSummaryLocked: mWakefulness=Awake, mWakeLockSummary=0x0
+01-01 08:09:39.957578  1456  1756 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=438122 (in 5555 ms)
+01-01 08:09:39.957724  1456  1756 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:39.957766  1456  1756 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:39.957816  1456  1756 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x0, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false
+01-01 08:09:39.957875  1456  1756 D PowerManagerService: Releasing suspend blocker "PowerManagerService.WakeLocks".
+01-01 08:09:39.969152  1456  1759 V WindowManager: Looking for focus: 8 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:39.969410  1456  1759 V WindowManager: findFocusedWindow: Found new focus @ 4 = Window{49ab302 u0 com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity}
+01-01 08:09:40.666770  1456  1512 D ActivityManager: ACT-IDLE_NOW_MSG from windowsVisible() for idle: ActivityRecord{9237033 u0 com.mediatek.mtklogger/.MainActivity t21}
+01-01 08:09:40.668641  1456  1512 V WindowManager: Looking for focus: 8 = Window{553e67c u0 StatusBar}, flags=-2122055608, canReceive=false
+01-01 08:09:40.668793  1456  1512 V WindowManager: findFocusedWindow: Found new focus @ 4 = Window{49ab302 u0 com.mediatek.mtklogger/com.mediatek.mtklogger.MainActivity}
+01-01 08:09:40.672092  2363  2363 V ActivityThread: Finishing stop of ActivityRecord{4d34dcb token=android.os.BinderProxy@5ae29a8 {com.android.launcher3/com.android.launcher3.Launcher}}: show=false win=com.android.internal.policy.PhoneWindow@dfbc4b6
+01-01 08:09:40.673197  2363  2363 D ActivityThread: ACT-STOP_ACTIVITY_HIDE handled : 0 / android.os.BinderProxy@5ae29a8
+01-01 08:09:41.396827  1456  1574 D PowerManagerService: userActivityFromNative
+01-01 08:09:41.396934  1456  1574 D PowerManagerService: userActivityNoUpdateLocked: eventTime=434005, event=2, flags=0x0, uid=1000
+01-01 08:09:41.396982  1456  1574 D PowerManagerNotifier: onUserActivity: event=2, uid=1000
+01-01 08:09:41.397146  1456  1574 D PowerManagerService: updateUserActivitySummaryLocked: mWakefulness=Awake, mUserActivitySummary=0x9, nextTimeout=438122 (in 4115 ms)
+01-01 08:09:41.397228  1456  1574 D DisplayPowerController: requestPowerState: policy=BRIGHT, useProximitySensor=false, screenBrightness=61, screenAutoBrightnessAdjustment=0.0, brightnessSetByUser=true, useAutoBrightness=false, blockScreenOn=false, lowPowerMode=false, boostScreenBrightness=false, dozeScreenBrightness=-1, dozeScreenState=UNKNOWN, waitForNegativeProximity=false
+01-01 08:09:41.397268  1456  1574 I PowerManagerService: setBrightness mButtonLight, screenBrightness=61
+01-01 08:09:41.397316  1456  1574 D PowerManagerService: updateDisplayPowerStateLocked: mDisplayReady=true, policy=3, mWakefulness=1, mWakeLockSummary=0x0, mUserActivitySummary=0x9, mBootCompleted=true, mScreenBrightnessBoostInProgress=false

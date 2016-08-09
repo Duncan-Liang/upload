@@ -1,0 +1,69 @@
+<< /proc/bootprof >>:
+----------------------------------------
+0	    BOOT PROF (unit:msec)
+----------------------------------------
+      1926        : preloader
+      2587        : lk
+       206        : lk->Kernel
+----------------------------------------
+        57.174307 : ON
+       103.292615 : of_init   17588692 ns
+       142.389846 : init_menu   19997846 ns
+       162.404615 : init_mtk_governor   19988769 ns
+       203.162769 : arm64_device_init   30656616 ns
+       233.061461 : pm_sysrq_init   16599308 ns
+       295.205846 : event_trace_init   35370384 ns
+       427.356231 : populate_rootfs  102434923 ns
+       659.226462 : mas_init  209524770 ns
+      8689.734789 : mt6311_init 7995734404 ns
+      8710.682020 : mtkfb_init   17814153 ns
+      8758.767636 : modem_cd_init   30687385 ns
+      9293.316021 : mt_spi_init  504120463 ns
+      9460.297791 : mt_msdc_init  147431154 ns
+      9699.550176 : mag_init  161574078 ns
+     12331.827106 : tpd_device_init 2622886545 ns
+     12388.007875 : init_wk   41782924 ns
+     12411.262721 : clk_debug_init   22908307 ns
+     12413.144490 : Kernel_init_done
+     12970.523569 : INIT: on init start
+     12981.668030 : INIT:Mount_START
+     14171.994802 : INIT:Mount_END
+     14341.478726 : post-fs-data: on modem start
+     14445.269649 : trigger_shutdown_framework
+     14552.969957 : post-fs-data: on modem start
+     14932.650496 : BOOT_Animation:START
+     19047.837583 : trigger_restart_min_framework
+     23145.735593 : Zygote:Preload Start
+     23964.384056 : Zygote:Preload Start
+     25688.461291 : Zygote:Preload 3831 classes in 1419ms
+     25736.923138 : Zygote:Preload 3831 classes in 1466ms
+     26156.219139 : trigger_reset_main
+     28718.553222 : post-fs-data: on modem start
+     29014.286761 : trigger_restart_framework
+     31597.035382 : Zygote:Preload Start
+     32239.832153 : Zygote:Preload Start
+     32527.732385 : Zygote:Preload 3831 classes in 748ms
+     32914.047770 : Zygote:Preload 342 obtain resources in 386ms
+     32920.563001 : Zygote:Preload 41 resources in 7ms
+     33090.502924 : Zygote:Preload 3831 classes in 681ms
+     33385.277079 : Zygote:Preload 342 obtain resources in 294ms
+     33391.389002 : Zygote:Preload 41 resources in 6ms
+     33907.683157 : Zygote:Preload End
+     34102.749311 : Zygote:Preload End
+     34278.293004 : Android:SysServerInit_START
+     34739.735467 : Android:PackageManagerService_Start
+     34923.925083 : Android:PMS_scan_START
+     36317.250547 : Android:PMS_scan_data_done:/system/framework
+     40700.616481 : Android:PMS_scan_data_done:/system/priv-app
+     44111.507643 : Android:PMS_scan_data_done:/system/app
+     44171.208874 : Android:PMS_scan_data_done:/system/vendor/operator/app
+     44268.429874 : Android:PMS_scan_data_done:/system/plugin
+     44273.535336 : Android:PMS_scan_data_done:/data/app
+     44278.328489 : Android:PMS_scan_END
+     44453.571105 : Android:PMS_READY
+     67519.804006 : Android:SysServerInit_END
+     75709.596334 : BOOT_Animation:END
+     75709.661026 : OFF
+----------------------------------------
+================ END of FILE ===============
+
