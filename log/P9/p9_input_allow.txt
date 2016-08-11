@@ -1,0 +1,479 @@
+INPUT MANAGER (dumpsys input)
+
+Input Manager State:
+  Interactive: true
+  System UI Visibility: 0xc0000700
+  Pointer Speed: 0
+  Pointer Gestures Enabled: true
+  Show Touches: false
+
+Event Hub State:
+  BuiltInKeyboardId: 4
+  Devices:
+    -1: Virtual
+      Classes: 0x40000023
+      Path: <virtual>
+      Descriptor: a718a782d34bc767f4689c232d64d527998ea7fd
+      Location: 
+      ControllerNumber: 0
+      UniqueId: <virtual>
+      Identifier: bus=0x0000, vendor=0x0000, product=0x0000, version=0x0000
+      KeyLayoutFile: /system/usr/keylayout/Generic.kl
+      KeyCharacterMapFile: /system/usr/keychars/Virtual.kcm
+      ConfigurationFile: 
+      HaveKeyboardLayoutOverlay: false
+    1: hisi_on
+      Classes: 0x00000001
+      Path: /dev/input/event2
+      Descriptor: 0b8880f3bfb9b8911feb1902fa64f3914ea4e084
+      Location: hisi_on/input0
+      ControllerNumber: 0
+      UniqueId: 
+      Identifier: bus=0x0000, vendor=0x0000, product=0x0000, version=0x0000
+      KeyLayoutFile: /system/usr/keylayout/Generic.kl
+      KeyCharacterMapFile: /system/usr/keychars/Generic.kcm
+      ConfigurationFile: 
+      HaveKeyboardLayoutOverlay: false
+    2: huawei,touchscreen
+      Classes: 0x00000015
+      Path: /dev/input/event5
+      Descriptor: 706e0279e5b078928cf06aad50b3df53411cb4cd
+      Location: 
+      ControllerNumber: 0
+      UniqueId: 
+      Identifier: bus=0x0018, vendor=0x0000, product=0x0000, version=0x0000
+      KeyLayoutFile: /system/usr/keylayout/Generic.kl
+      KeyCharacterMapFile: /system/usr/keychars/Generic.kcm
+      ConfigurationFile: 
+      HaveKeyboardLayoutOverlay: false
+    3: soundtrigger_input_dev
+      Classes: 0x00000001
+      Path: /dev/input/event0
+      Descriptor: 1cc715cbd334804aa45aa5df0419a5338477dc2b
+      Location: 
+      ControllerNumber: 0
+      UniqueId: 
+      Identifier: bus=0x0000, vendor=0x0000, product=0x0000, version=0x0000
+      KeyLayoutFile: /system/usr/keylayout/Generic.kl
+      KeyCharacterMapFile: /system/usr/keychars/Generic.kcm
+      ConfigurationFile: 
+      HaveKeyboardLayoutOverlay: false
+    4: fingerprint (aka device 0 - built-in keyboard)
+      Classes: 0x00000001
+      Path: /dev/input/event3
+      Descriptor: 94605cc6d11050165b0e47ce7d8b3046d370abd5
+      Location: 
+      ControllerNumber: 0
+      UniqueId: 
+      Identifier: bus=0x0000, vendor=0x0000, product=0x0000, version=0x0000
+      KeyLayoutFile: /system/usr/keylayout/fingerprint.kl
+      KeyCharacterMapFile: /system/usr/keychars/Generic.kcm
+      ConfigurationFile: /system/usr/idc/fingerprint.idc
+      HaveKeyboardLayoutOverlay: false
+    5: hisi_gpio_key.86
+      Classes: 0x00000001
+      Path: /dev/input/event1
+      Descriptor: 4fe8fa1e3a7e4be1de6fded7b325d630d4c4575b
+      Location: 
+      ControllerNumber: 0
+      UniqueId: 
+      Identifier: bus=0x0019, vendor=0x0000, product=0x0000, version=0x0000
+      KeyLayoutFile: /system/usr/keylayout/Generic.kl
+      KeyCharacterMapFile: /system/usr/keychars/Generic.kcm
+      ConfigurationFile: 
+      HaveKeyboardLayoutOverlay: false
+    16777222: hi3650_HI6402_CARD Headset Jack
+      Classes: 0x00000081
+      Path: /dev/input/event4
+      Descriptor: 35f3af2ebf0dd5940cd9c832b2081eea6d8569d6
+      Location: ALSA
+      ControllerNumber: 0
+      UniqueId: 
+      Identifier: bus=0x0000, vendor=0x0000, product=0x0000, version=0x0000
+      KeyLayoutFile: /system/usr/keylayout/Generic.kl
+      KeyCharacterMapFile: /system/usr/keychars/Generic.kcm
+      ConfigurationFile: 
+      HaveKeyboardLayoutOverlay: false
+
+Input Reader State:
+  Device -1: Virtual
+    Generation: 2
+    IsExternal: false
+    HasMic:     false
+    Sources: 0x00000301
+    KeyboardType: 2
+    Keyboard Input Mapper:
+      Parameters:
+        HasAssociatedDisplay: false
+        OrientationAware: false
+        HandlesKeyRepeat: false
+      KeyboardType: 2
+      Orientation: 0
+      KeyDowns: 0 keys currently down
+      MetaState: 0x0
+      DownTime: 0
+  Device 0: fingerprint
+    Generation: 8
+    IsExternal: false
+    HasMic:     false
+    Sources: 0x00000101
+    KeyboardType: 1
+    Keyboard Input Mapper:
+      Parameters:
+        HasAssociatedDisplay: true
+        OrientationAware: true
+        HandlesKeyRepeat: false
+      KeyboardType: 1
+      Orientation: 0
+      KeyDowns: 0 keys currently down
+      MetaState: 0x0
+      DownTime: 38481708493000
+  Device 1: hisi_on
+    Generation: 14
+    IsExternal: false
+    HasMic:     false
+    Sources: 0x00000101
+    KeyboardType: 1
+    Keyboard Input Mapper:
+      Parameters:
+        HasAssociatedDisplay: false
+        OrientationAware: false
+        HandlesKeyRepeat: false
+      KeyboardType: 1
+      Orientation: 0
+      KeyDowns: 0 keys currently down
+      MetaState: 0x0
+      DownTime: 39933929591000
+  Device 2: huawei,touchscreen
+    Generation: 16
+    IsExternal: false
+    HasMic:     false
+    Sources: 0x00001103
+    KeyboardType: 1
+    Motion Ranges:
+      X: source=0x00001002, min=0.000, max=1079.000, flat=0.000, fuzz=0.000, resolution=0.000
+      Y: source=0x00001002, min=0.000, max=1919.000, flat=0.000, fuzz=0.000, resolution=0.000
+      PRESSURE: source=0x00001002, min=0.000, max=1.000, flat=0.000, fuzz=0.000, resolution=0.000
+      SIZE: source=0x00001002, min=0.000, max=1.000, flat=0.000, fuzz=0.000, resolution=0.000
+      TOUCH_MAJOR: source=0x00001002, min=0.000, max=2202.907, flat=0.000, fuzz=0.000, resolution=0.000
+      TOUCH_MINOR: source=0x00001002, min=0.000, max=2202.907, flat=0.000, fuzz=0.000, resolution=0.000
+      TOOL_MAJOR: source=0x00001002, min=0.000, max=2202.907, flat=0.000, fuzz=0.000, resolution=0.000
+      TOOL_MINOR: source=0x00001002, min=0.000, max=2202.907, flat=0.000, fuzz=0.000, resolution=0.000
+    Keyboard Input Mapper:
+      Parameters:
+        HasAssociatedDisplay: false
+        OrientationAware: false
+        HandlesKeyRepeat: false
+      KeyboardType: 1
+      Orientation: 0
+      KeyDowns: 0 keys currently down
+      MetaState: 0x0
+      DownTime: 0
+    Touch Input Mapper:
+      Parameters:
+        GestureMode: spots
+        DeviceType: touchScreen
+        AssociatedDisplay: hasAssociatedDisplay=true, isExternal=false
+        OrientationAware: true
+      Raw Touch Axes:
+        X: min=0, max=1080, flat=0, fuzz=0, resolution=0
+        Y: min=0, max=1920, flat=0, fuzz=0, resolution=0
+        Pressure: min=0, max=65535, flat=0, fuzz=0, resolution=0
+        TouchMajor: min=0, max=255, flat=0, fuzz=0, resolution=0
+        TouchMinor: unknown range
+        ToolMajor: unknown range
+        ToolMinor: unknown range
+        Orientation: unknown range
+        Distance: unknown range
+        TiltX: unknown range
+        TiltY: unknown range
+        TrackingId: min=0, max=10, flat=0, fuzz=0, resolution=0
+        Slot: unknown range
+      Calibration:
+        touch.size.calibration: geometric
+        touch.pressure.calibration: physical
+        touch.orientation.calibration: none
+        touch.distance.calibration: none
+        touch.coverage.calibration: none
+      Affine Transformation:
+        X scale: 1.000
+        X ymix: 0.000
+        X offset: 0.000
+        Y xmix: 0.000
+        Y scale: 1.000
+        Y offset: 0.000
+      Viewport: displayId=0, orientation=0, logicalFrame=[0, 0, 1080, 1920], physicalFrame=[0, 0, 1080, 1920], deviceSize=[1080, 1920]
+      SurfaceWidth: 1080px
+      SurfaceHeight: 1920px
+      SurfaceLeft: 0
+      SurfaceTop: 0
+      SurfaceOrientation: 0
+      Translation and Scaling Factors:
+        XTranslate: 0.000
+        YTranslate: 0.000
+        XScale: 0.999
+        YScale: 0.999
+        XPrecision: 1.001
+        YPrecision: 1.001
+        GeometricScale: 0.999
+        PressureScale: 0.000
+        SizeScale: 0.004
+        OrientationScale: 0.000
+        DistanceScale: 0.000
+        HaveTilt: false
+        TiltXCenter: 0.000
+        TiltXScale: 0.000
+        TiltYCenter: 0.000
+        TiltYScale: 0.000
+      Last Raw Button State: 0x00000000
+      Last Raw Touch: pointerCount=0
+      Last Cooked Button State: 0x00000000
+      Last Cooked Touch: pointerCount=0
+      Stylus Fusion:
+        ExternalStylusConnected: false
+        External Stylus ID: -1
+        External Stylus Data Timeout: 9223372036854775807
+      External Stylus State:
+        When: 9223372036854775807
+        Pressure: 0.000000
+        Button State: 0x00000000
+        Tool Type: 0
+  Device 3: soundtrigger_input_dev
+    Generation: 10
+    IsExternal: false
+    HasMic:     false
+    Sources: 0x00000101
+    KeyboardType: 1
+    Keyboard Input Mapper:
+      Parameters:
+        HasAssociatedDisplay: false
+        OrientationAware: false
+        HandlesKeyRepeat: false
+      KeyboardType: 1
+      Orientation: 0
+      KeyDowns: 0 keys currently down
+      MetaState: 0x0
+      DownTime: 0
+  Device 5: hisi_gpio_key.86
+    Generation: 6
+    IsExternal: false
+    HasMic:     false
+    Sources: 0x00000101
+    KeyboardType: 1
+    Keyboard Input Mapper:
+      Parameters:
+        HasAssociatedDisplay: false
+        OrientationAware: false
+        HandlesKeyRepeat: false
+      KeyboardType: 1
+      Orientation: 0
+      KeyDowns: 0 keys currently down
+      MetaState: 0x0
+      DownTime: 38677140325000
+  Device 16777222: hi3650_HI6402_CARD Headset Jack
+    Generation: 4
+    IsExternal: false
+    HasMic:     false
+    Sources: 0x80000101
+    KeyboardType: 1
+    Switch Input Mapper:
+      SwitchValues: 0
+    Keyboard Input Mapper:
+      Parameters:
+        HasAssociatedDisplay: false
+        OrientationAware: false
+        HandlesKeyRepeat: false
+      KeyboardType: 1
+      Orientation: 0
+      KeyDowns: 0 keys currently down
+      MetaState: 0x0
+      DownTime: 0
+  Configuration:
+    ExcludedDeviceNames: []
+    VirtualKeyQuietTime: 0.0ms
+    PointerVelocityControlParameters: scale=1.000, lowThreshold=500.000, highThreshold=3000.000, acceleration=3.000
+    WheelVelocityControlParameters: scale=1.000, lowThreshold=15.000, highThreshold=50.000, acceleration=4.000
+    PointerGesture:
+      Enabled: true
+      QuietInterval: 100.0ms
+      DragMinSwitchSpeed: 50.0px/s
+      TapInterval: 150.0ms
+      TapDragInterval: 300.0ms
+      TapSlop: 20.0px
+      MultitouchSettleInterval: 100.0ms
+      MultitouchMinDistance: 15.0px
+      SwipeTransitionAngleCosine: 0.3
+      SwipeMaxWidthRatio: 0.2
+      MovementSpeedRatio: 0.8
+      ZoomSpeedRatio: 0.3
+
+Input Dispatcher State:
+  DispatchEnabled: 1
+  DispatchFrozen: 0
+  FocusedApplication: name='AppWindowToken{cc5f372 token=Token{2c64ed4 ActivityRecord{39bcee6 u0 com.huawei.android.launcher/.Launcher t2942}}}', dispatchingTimeout=8000.000ms
+  FocusedWindow: name='Window{9beccf1 u0 com.huawei.android.launcher/com.huawei.android.launcher.Launcher}'
+  FocusedWindow InputChannel Name: 9beccf1 com.huawei.android.launcher/com.huawei.android.launcher.Launcher (server) fd = 254
+  TouchStates: <no displays touched>
+  Windows:
+    0: name='Window{f838c48 u0 SearchPanel}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x01820100, type=0x000007e8, layer=231000, frame=[0,0][1080,1920], scale=1.000000, touchableRegion=[0,0][1080,1920], inputFeatures=0x00000000, ownerPid=1545, ownerUid=10031, dispatchingTimeout=5000.000ms
+    1: name='Window{83b29e3 u0 NavigationBar}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=true, canReceiveKeys=false, flags=0x01840068, type=0x000007e3, layer=221000, frame=[0,1800][1080,1920], scale=1.000000, touchableRegion=[0,1800][1080,1920], inputFeatures=0x00000000, ownerPid=1545, ownerUid=10031, dispatchingTimeout=5000.000ms
+    2: name='Window{30c81ba u0 Heads Up}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x01800328, type=0x000007de, layer=181005, frame=[0,0][1080,750], scale=1.000000, touchableRegion=[0,0][1080,228], inputFeatures=0x00000000, ownerPid=1545, ownerUid=10031, dispatchingTimeout=5000.000ms
+    3: name='Window{ea624d9 u0 com.android.systemui}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x01000208, type=0x000007de, layer=181000, frame=[0,-60][1080,1860], scale=1.000000, touchableRegion=[0,-60][1080,1860], inputFeatures=0x00000000, ownerPid=1545, ownerUid=10031, dispatchingTimeout=5000.000ms
+    4: name='Window{78e2b2d u0 StatusBar}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=true, canReceiveKeys=false, flags=0x01840048, type=0x000007d0, layer=171000, frame=[0,0][1080,72], scale=1.000000, touchableRegion=[0,0][1080,72], inputFeatures=0x00000000, ownerPid=1545, ownerUid=10031, dispatchingTimeout=5000.000ms
+    5: name='Window{7a1753d u0 Keyguard}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x05030900, type=0x000007d4, layer=151000, frame=[0,0][1080,1920], scale=1.000000, touchableRegion=[0,0][1080,1920], inputFeatures=0x00000004, ownerPid=1570, ownerUid=10031, dispatchingTimeout=5000.000ms
+    6: name='Window{1950772 u0 KeyguardScrim}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x00110900, type=0x000007ed, layer=141000, frame=[0,0][1080,1920], scale=1.000000, touchableRegion=[0,0][1080,1920], inputFeatures=0x00000000, ownerPid=988, ownerUid=1000, dispatchingTimeout=5000.000ms
+    7: name='Window{8c3f006 u0 AssistPreviewPanel}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x01000118, type=0x000007f1, layer=41035, frame=[0,1800][1080,1800], scale=1.000000, touchableRegion=<empty>, inputFeatures=0x00000000, ownerPid=1545, ownerUid=10031, dispatchingTimeout=5000.000ms
+    8: name='Window{655d20d u0 android}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x00020128, type=0x000007d1, layer=41030, frame=[486,846][594,954], scale=1.000000, touchableRegion=[486,846][594,954], inputFeatures=0x00000000, ownerPid=988, ownerUid=1000, dispatchingTimeout=5000.000ms
+    9: name='Window{43af05b u0 android}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x00020128, type=0x000007d1, layer=41025, frame=[486,846][594,954], scale=1.000000, touchableRegion=[486,846][594,954], inputFeatures=0x00000000, ownerPid=988, ownerUid=1000, dispatchingTimeout=5000.000ms
+    10: name='Window{6154099 u0 android}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x00020128, type=0x000007d1, layer=41020, frame=[486,846][594,954], scale=1.000000, touchableRegion=[486,846][594,954], inputFeatures=0x00000000, ownerPid=988, ownerUid=1000, dispatchingTimeout=5000.000ms
+    11: name='Window{58b0412 u0 android}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x00020128, type=0x000007d1, layer=41015, frame=[486,892][594,964], scale=1.000000, touchableRegion=[486,892][594,964], inputFeatures=0x00000000, ownerPid=988, ownerUid=1000, dispatchingTimeout=5000.000ms
+    12: name='Window{b529bf3 u0 android}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x00020128, type=0x000007d1, layer=41010, frame=[0,892][1080,908], scale=1.000000, touchableRegion=[0,892][1080,908], inputFeatures=0x00000000, ownerPid=988, ownerUid=1000, dispatchingTimeout=5000.000ms
+    13: name='Window{d254157 u0 android}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x00060138, type=0x000007d1, layer=41005, frame=[0,900][1080,1800], scale=1.000000, touchableRegion=[0,900][1080,1800], inputFeatures=0x00000000, ownerPid=988, ownerUid=1000, dispatchingTimeout=5000.000ms
+    14: name='Window{8a5780 u0 android}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x00060138, type=0x000007d1, layer=41000, frame=[0,900][1080,1800], scale=1.000000, touchableRegion=[0,900][1080,1800], inputFeatures=0x00000000, ownerPid=988, ownerUid=1000, dispatchingTimeout=5000.000ms
+    15: name='Window{3125cbe u0 PopupWindow:575e79d}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x00800018, type=0x000003e8, layer=21090, frame=[176,894][374,1080], scale=1.000000, touchableRegion=[176,894][374,1080], inputFeatures=0x00000000, ownerPid=2390, ownerUid=10056, dispatchingTimeout=5000.000ms
+    16: name='Window{bb784a1 u0 InputMethod}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x80800108, type=0x000007db, layer=21085, frame=[0,990][1080,1800], scale=1.000000, touchableRegion=[0,990][1080,1800], inputFeatures=0x00000000, ownerPid=2390, ownerUid=10056, dispatchingTimeout=5000.000ms
+    17: name='Window{ed7d997 u0 InputMethod}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x81800108, type=0x000007db, layer=21080, frame=[0,999][1080,1800], scale=1.000000, touchableRegion=[0,1124][1080,1800], inputFeatures=0x00000000, ownerPid=2379, ownerUid=10045, dispatchingTimeout=5000.000ms
+    18: name='Window{9beccf1 u0 com.huawei.android.launcher/com.huawei.android.launcher.Launcher}', displayId=0, paused=false, hasFocus=true, hasWallpaper=true, visible=true, canReceiveKeys=true, flags=0x8d910320, type=0x00000001, layer=21075, frame=[0,0][1080,1920], scale=1.000000, touchableRegion=[0,0][1080,1920], inputFeatures=0x00000000, ownerPid=2578, ownerUid=10050, dispatchingTimeout=8000.000ms
+    19: name='Window{66c835f u0 cmb.pb/cmb.pb.ui.PBEntryActivity}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x01810120, type=0x00000001, layer=21070, frame=[0,0][1080,1800], scale=1.000000, touchableRegion=[0,0][1080,1920], inputFeatures=0x00000000, ownerPid=19333, ownerUid=10106, dispatchingTimeout=8000.000ms
+    20: name='Window{3f65c20 u0 com.android.settings/com.android.settings.SubSettings}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x81810120, type=0x00000001, layer=21065, frame=[0,0][1080,1800], scale=1.000000, touchableRegion=[0,0][1080,1920], inputFeatures=0x00000000, ownerPid=27945, ownerUid=1000, dispatchingTimeout=8000.000ms
+    21: name='Window{4fd17ba u0 com.android.settings/com.android.settings.Settings$OverlaySettingsActivity}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x81810120, type=0x00000001, layer=21060, frame=[0,0][1080,1800], scale=1.000000, touchableRegion=[0,0][1080,1920], inputFeatures=0x00000000, ownerPid=27945, ownerUid=1000, dispatchingTimeout=8000.000ms
+    22: name='Window{c5cd075 u0 com.android.settings/com.android.settings.SubSettings}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x81810120, type=0x00000001, layer=21055, frame=[0,0][1080,1800], scale=1.000000, touchableRegion=[0,0][1080,1920], inputFeatures=0x00000000, ownerPid=27945, ownerUid=1000, dispatchingTimeout=8000.000ms
+    23: name='Window{49c645a u0 com.android.settings/com.android.settings.Settings$ManageApplicationsActivity}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x81810120, type=0x00000001, layer=21050, frame=[0,0][1080,1800], scale=1.000000, touchableRegion=[0,0][1080,1920], inputFeatures=0x00000000, ownerPid=27945, ownerUid=1000, dispatchingTimeout=8000.000ms
+    24: name='Window{8d9cf1c u0 com.android.settings/com.android.settings.HWSettings}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x81810120, type=0x00000001, layer=21045, frame=[0,0][1080,1800], scale=1.000000, touchableRegion=[0,0][1080,1920], inputFeatures=0x00000000, ownerPid=27945, ownerUid=1000, dispatchingTimeout=8000.000ms
+    25: name='Window{e4c5b7 u0 com.huawei.appmarket/com.huawei.appmarket.service.appmgr.view.activity.AppDownloadActivity}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x81810120, type=0x00000001, layer=21040, frame=[0,0][1080,1800], scale=1.000000, touchableRegion=[0,0][1080,1920], inputFeatures=0x00000000, ownerPid=16718, ownerUid=10016, dispatchingTimeout=8000.000ms
+    26: name='Window{6861277 u0 com.huawei.appmarket/com.huawei.appmarket.framework.AppDetailActivity}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x81810120, type=0x00000001, layer=21035, frame=[0,0][1080,1800], scale=1.000000, touchableRegion=[0,0][1080,1920], inputFeatures=0x00000000, ownerPid=16718, ownerUid=10016, dispatchingTimeout=8000.000ms
+    27: name='Window{8cd1dec u0 com.huawei.appmarket/com.huawei.appmarket.service.search.view.SearchActivity}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x81810120, type=0x00000001, layer=21030, frame=[0,0][1080,1800], scale=1.000000, touchableRegion=[0,0][1080,1920], inputFeatures=0x00000000, ownerPid=16718, ownerUid=10016, dispatchingTimeout=8000.000ms
+    28: name='Window{95117db u0 com.huawei.appmarket/com.huawei.appmarket.MarketActivity}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x81810120, type=0x00000001, layer=21025, frame=[0,0][1080,1800], scale=1.000000, touchableRegion=[0,0][1080,1920], inputFeatures=0x00000000, ownerPid=16718, ownerUid=10016, dispatchingTimeout=8000.000ms
+    29: name='Window{8c23a57 u0 com.UCMobile/com.uc.browser.InnerUCMobile}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x05810120, type=0x00000001, layer=21020, frame=[0,0][1080,1800], scale=1.000000, touchableRegion=[0,0][1080,1920], inputFeatures=0x00000000, ownerPid=15950, ownerUid=10098, dispatchingTimeout=8000.000ms
+    30: name='Window{c65a1a6 u0 com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x05010120, type=0x00000001, layer=21015, frame=[0,0][1080,1800], scale=1.000000, touchableRegion=[0,0][1080,1920], inputFeatures=0x00000000, ownerPid=29117, ownerUid=10083, dispatchingTimeout=8000.000ms
+    31: name='Window{a833ba1 u0 com.android.incallui/com.android.incallui.InCallActivity}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x8db98120, type=0x00000001, layer=21010, frame=[0,0][1080,1920], scale=1.000000, touchableRegion=[0,0][1080,1920], inputFeatures=0x00000000, ownerPid=2667, ownerUid=1001, dispatchingTimeout=8000.000ms
+    32: name='Window{f5fee5f u0 com.tencent.mm/com.tencent.mm.ui.LauncherUI}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=false, canReceiveKeys=false, flags=0x81810120, type=0x00000001, layer=21005, frame=[0,0][1080,1920], scale=1.000000, touchableRegion=[0,0][1080,1920], inputFeatures=0x00000000, ownerPid=9391, ownerUid=10082, dispatchingTimeout=8000.000ms
+    33: name='Window{6b318ef u0 com.android.systemui.ImageWallpaper}', displayId=0, paused=false, hasFocus=false, hasWallpaper=false, visible=true, canReceiveKeys=false, flags=0x00000318, type=0x000007dd, layer=21000, frame=[0,0][2160,1920], scale=1.000000, touchableRegion=[0,0][2160,1920], inputFeatures=0x00000000, ownerPid=1545, ownerUid=10031, dispatchingTimeout=5000.000ms
+  MonitoringChannels:
+    0: 'WindowManager (server)'
+  RecentQueue: length=10
+    MotionEvent(deviceId=2, source=0x00001002, action=2, actionButton=0x00000000, flags=0x00000000, metaState=0x00000000, buttonState=0x00000000, edgeFlags=0x00000000, xPrecision=1.0, yPrecision=1.0, displayId=0, pointers=[0: (759.3, 425.8)]), policyFlags=0x62000000, age=3224.1ms
+    MotionEvent(deviceId=2, source=0x00001002, action=2, actionButton=0x00000000, flags=0x00000000, metaState=0x00000000, buttonState=0x00000000, edgeFlags=0x00000000, xPrecision=1.0, yPrecision=1.0, displayId=0, pointers=[0: (758.3, 425.8)]), policyFlags=0x62000000, age=3212.6ms
+    MotionEvent(deviceId=2, source=0x00001002, action=2, actionButton=0x00000000, flags=0x00000000, metaState=0x00000000, buttonState=0x00000000, edgeFlags=0x00000000, xPrecision=1.0, yPrecision=1.0, displayId=0, pointers=[0: (757.3, 425.8)]), policyFlags=0x62000000, age=3200.8ms
+    MotionEvent(deviceId=2, source=0x00001002, action=2, actionButton=0x00000000, flags=0x00000000, metaState=0x00000000, buttonState=0x00000000, edgeFlags=0x00000000, xPrecision=1.0, yPrecision=1.0, displayId=0, pointers=[0: (757.3, 425.8)]), policyFlags=0x62000000, age=3166.1ms
+    MotionEvent(deviceId=2, source=0x00001002, action=2, actionButton=0x00000000, flags=0x00000000, metaState=0x00000000, buttonState=0x00000000, edgeFlags=0x00000000, xPrecision=1.0, yPrecision=1.0, displayId=0, pointers=[0: (757.3, 424.8)]), policyFlags=0x62000000, age=3154.4ms
+    MotionEvent(deviceId=2, source=0x00001002, action=2, actionButton=0x00000000, flags=0x00000000, metaState=0x00000000, buttonState=0x00000000, edgeFlags=0x00000000, xPrecision=1.0, yPrecision=1.0, displayId=0, pointers=[0: (757.3, 424.8)]), policyFlags=0x62000000, age=3142.8ms
+    MotionEvent(deviceId=2, source=0x00001002, action=2, actionButton=0x00000000, flags=0x00000000, metaState=0x00000000, buttonState=0x00000000, edgeFlags=0x00000000, xPrecision=1.0, yPrecision=1.0, displayId=0, pointers=[0: (758.3, 423.8)]), policyFlags=0x62000000, age=3131.1ms
+    MotionEvent(deviceId=2, source=0x00001002, action=2, actionButton=0x00000000, flags=0x00000000, metaState=0x00000000, buttonState=0x00000000, edgeFlags=0x00000000, xPrecision=1.0, yPrecision=1.0, displayId=0, pointers=[0: (760.3, 422.8)]), policyFlags=0x62000000, age=3119.6ms
+    MotionEvent(deviceId=2, source=0x00001002, action=2, actionButton=0x00000000, flags=0x00000000, metaState=0x00000000, buttonState=0x00000000, edgeFlags=0x00000000, xPrecision=1.0, yPrecision=1.0, displayId=0, pointers=[0: (763.3, 422.8)]), policyFlags=0x62000000, age=3108.0ms
+    MotionEvent(deviceId=2, source=0x00001002, action=1, actionButton=0x00000000, flags=0x00000000, metaState=0x00000000, buttonState=0x00000000, edgeFlags=0x00000000, xPrecision=1.0, yPrecision=1.0, displayId=0, pointers=[0: (763.3, 422.8)]), policyFlags=0x62000000, age=3085.2ms
+  PendingEvent: <none>
+  InboundQueue: <empty>
+  ReplacedKeys: <empty>
+  Connections:
+    0: channelName='a833ba1 com.android.incallui/com.android.incallui.InCallActivity (server)', windowName='Window{a833ba1 u0 com.android.incallui/com.android.incallui.InCallActivity}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    1: channelName='WindowManager (server)', windowName='monitor', status=NORMAL, monitor=true, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    2: channelName='1950772 KeyguardScrim (server)', windowName='Window{1950772 u0 KeyguardScrim}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    3: channelName='6b318ef com.android.systemui.ImageWallpaper (server)', windowName='Window{6b318ef u0 com.android.systemui.ImageWallpaper}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    4: channelName='7a1753d Keyguard (server)', windowName='Window{7a1753d u0 Keyguard}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    5: channelName='ea624d9  (server)', windowName='Window{ea624d9 u0 com.android.systemui}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    6: channelName='9beccf1 com.huawei.android.launcher/com.huawei.android.launcher.Launcher (server)', windowName='Window{9beccf1 u0 com.huawei.android.launcher/com.huawei.android.launcher.Launcher}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    7: channelName='78e2b2d StatusBar (server)', windowName='Window{78e2b2d u0 StatusBar}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    8: channelName='30c81ba Heads Up (server)', windowName='Window{30c81ba u0 Heads Up}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    9: channelName='f5fee5f com.tencent.mm/com.tencent.mm.ui.LauncherUI (server)', windowName='Window{f5fee5f u0 com.tencent.mm/com.tencent.mm.ui.LauncherUI}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    10: channelName='83b29e3 NavigationBar (server)', windowName='Window{83b29e3 u0 NavigationBar}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    11: channelName='49c645a com.android.settings/com.android.settings.Settings$ManageApplicationsActivity (server)', windowName='Window{49c645a u0 com.android.settings/com.android.settings.Settings$ManageApplicationsActivity}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    12: channelName='3f65c20 com.android.settings/com.android.settings.SubSettings (server)', windowName='Window{3f65c20 u0 com.android.settings/com.android.settings.SubSettings}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    13: channelName='b529bf3  (server)', windowName='Window{b529bf3 u0 android}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    14: channelName='8a5780  (server)', windowName='Window{8a5780 u0 android}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    15: channelName='d254157  (server)', windowName='Window{d254157 u0 android}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    16: channelName='58b0412  (server)', windowName='Window{58b0412 u0 android}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    17: channelName='6154099  (server)', windowName='Window{6154099 u0 android}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    18: channelName='43af05b  (server)', windowName='Window{43af05b u0 android}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    19: channelName='655d20d  (server)', windowName='Window{655d20d u0 android}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    20: channelName='e4c5b7 com.huawei.appmarket/com.huawei.appmarket.service.appmgr.view.activity.AppDownloadActivity (server)', windowName='Window{e4c5b7 u0 com.huawei.appmarket/com.huawei.appmarket.service.appmgr.view.activity.AppDownloadActivity}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    21: channelName='c65a1a6 com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity (server)', windowName='Window{c65a1a6 u0 com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    22: channelName='ed7d997 InputMethod (server)', windowName='Window{ed7d997 u0 InputMethod}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    23: channelName='bb784a1 InputMethod (server)', windowName='Window{bb784a1 u0 InputMethod}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    24: channelName='3125cbe PopupWindow:575e79d (server)', windowName='Window{3125cbe u0 PopupWindow:575e79d}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    25: channelName='66c835f cmb.pb/cmb.pb.ui.PBEntryActivity (server)', windowName='Window{66c835f u0 cmb.pb/cmb.pb.ui.PBEntryActivity}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    26: channelName='8d9cf1c com.android.settings/com.android.settings.HWSettings (server)', windowName='Window{8d9cf1c u0 com.android.settings/com.android.settings.HWSettings}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    27: channelName='8c23a57 com.UCMobile/com.uc.browser.InnerUCMobile (server)', windowName='Window{8c23a57 u0 com.UCMobile/com.uc.browser.InnerUCMobile}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    28: channelName='f838c48 SearchPanel (server)', windowName='Window{f838c48 u0 SearchPanel}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    29: channelName='8cd1dec com.huawei.appmarket/com.huawei.appmarket.service.search.view.SearchActivity (server)', windowName='Window{8cd1dec u0 com.huawei.appmarket/com.huawei.appmarket.service.search.view.SearchActivity}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    30: channelName='95117db com.huawei.appmarket/com.huawei.appmarket.MarketActivity (server)', windowName='Window{95117db u0 com.huawei.appmarket/com.huawei.appmarket.MarketActivity}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    31: channelName='6861277 com.huawei.appmarket/com.huawei.appmarket.framework.AppDetailActivity (server)', windowName='Window{6861277 u0 com.huawei.appmarket/com.huawei.appmarket.framework.AppDetailActivity}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    32: channelName='4fd17ba com.android.settings/com.android.settings.Settings$OverlaySettingsActivity (server)', windowName='Window{4fd17ba u0 com.android.settings/com.android.settings.Settings$OverlaySettingsActivity}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    33: channelName='8c3f006 AssistPreviewPanel (server)', windowName='Window{8c3f006 u0 AssistPreviewPanel}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+    34: channelName='c5cd075 com.android.settings/com.android.settings.SubSettings (server)', windowName='Window{c5cd075 u0 com.android.settings/com.android.settings.SubSettings}', status=NORMAL, monitor=false, inputPublisherBlocked=false
+      OutboundQueue: <empty>
+      WaitQueue: <empty>
+  AppSwitch: not pending
+  Configuration:
+    KeyRepeatDelay: 50.0ms
+    KeyRepeatTimeout: 500.0ms
+
+
