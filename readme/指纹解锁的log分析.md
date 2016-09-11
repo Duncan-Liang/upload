@@ -6,7 +6,6 @@
 01-02 23:03:21.052191: D/KeyguardUpdateMonitor(1080): handleKeyguardVisibilityChanged(1)
 开始指纹的监听
 01-02 23:03:21.069808: V/KeyguardUpdateMonitor(1080): startListeningForFingerprint()
-01-02 23:03:21.071651: D/KeyguardUpdateMonitor(1080): setFingerprintRunningDetectionRunning:true
 01-02 23:03:21.071816: V/fingerprintd(372): authenticate(sid=0, gid=0)
 01-02 23:03:21.207644: D/KeyguardUpdateMonitor(1080): onAuthenticationError errId:5
 01-02 23:03:21.780398: D/fingerprintd(372): onAcquired(0)
