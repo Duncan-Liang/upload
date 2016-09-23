@@ -23,3 +23,5 @@
 /storage/emulated/0/mtklog/mdlog1/file_tree.txt
 /storage/emulated/0/mtklog/mdlog1/MDLog1_2016_0101_080930/file_tree.txt
 /storage/emulated/0/mtklog/mdlog1/file_tree.txt
+/storage/emulated/0/mtklog/mdlog1/MDLog1_2016_0101_080930/file_tree.txt
+/storage/emulated/0/mtklog/mdlog1/file_tree.txt
