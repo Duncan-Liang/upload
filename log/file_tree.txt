@@ -24,4 +24,4 @@
 /storage/emulated/0/mtklog/running_file_tree.txt
 /storage/emulated/0/mtklog/c2kmdlog/MDLog3_2016_0101_080931/2016.01.01_08.09.43.dat
 /storage/emulated/0/mtklog/c2kmdlog/recycle_config
-09/28 1 
+09/28 1 2 
