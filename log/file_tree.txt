@@ -25,4 +25,4 @@
 /storage/emulated/0/mtklog/c2kmdlog/MDLog3_2016_0101_080931/2016.01.01_08.09.43.dat
 /storage/emulated/0/mtklog/c2kmdlog/recycle_config
 09/28 1 2 3 4
-1 2 3
+1 2 3 4
